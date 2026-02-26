@@ -1,0 +1,23 @@
+{
+  "PMTo": "[#00FFFF]PM către {0}[/#]: {1}",
+  "PMFrom": "[#00FFFF]PM de la {0}[/#]: {1}",
+  "PlayerNotOnline": "{0} nu este online.",
+  "NotOnlineAnymore": "Ultima persoană cu care ai vorbit nu mai este online.",
+  "NotMessaged": "Nu ai trimis mesaje nimănui sau ei nu ți-au trimis mesaje.",
+  "IgnoreYou": "[#FF0000]{0} te ignoră și nu poate primi PM-urile tale[/#]",
+  "SelfPM": "Nu poți să-ți trimiți mesaje ție însuți.",
+  "SyntaxR": "Sintaxă incorectă folosește: /r <mesaj>",
+  "HistorySyntax": "Sintaxă incorectă folosește: /pmhistory <nume>",
+  "SyntaxPM": "Sintaxă incorectă folosește: /{0} <nume> <mesaj>",
+  "NotAllowedToChat": "Nu ai voie să vorbești aici",
+  "History": "Istoricul tău:\n{0}",
+  "CooldownMessage": "Vei putea trimite un mesaj privat în {0} secunde",
+  "NoHistory": "Nu există istoric de pm salvat cu acest jucător.",
+  "CannotFindUser": "Nu pot găsi acest utilizator",
+  "CommandDisabled": "Această comandă a fost dezactivată",
+  "IsMuted": "Ai mute și nu poți trimite mesaje private",
+  "TargetMuted": "Această persoană are mute și nu poate primi mesajul tău privat",
+  "NoPermission": "Nu ai permisiunile necesare pentru a rula această comandă",
+  "HistoryPM": "[#00FFFF]{0}[/#]: {1}",
+  "Logging": "[PM]{0}->{1}:{2}"
+}

@@ -1,0 +1,4 @@
+{
+  "ModdedMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> You have played <color=#d9b650>{0} hours</color> on our servers so far!\n\nPlaytime Rewards:\n- Newbie (0 hours) Starter kit, Wooden base kit\n- Rookie (50 hours) Rookie kit\n- Survivor (100 hours) Furnace sorter, Box sorter\n- Regular (250 hours) Regular kit\n- Loyal (500 hours) Loyal kit, Upload images to signs (/sil)\n- Veteran (750 hours) Skip Queue\n- Warrior (1000 hours) Warrior kit\n- Elite (1500 hours) Elite kit, Skinbox\n- Legend (2000 hours) Legends kit\n- Champion (3000 hours) Champion kit\n- Demigod (5000 hours) Demigod kit\n- God (10000 hours) God kit",
+  "VanillaMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> You have played <color=#d9b650>{0} hours</color> on our servers so far!\n\nPlaytime Rewards:\n- Veteran (750 hours) Skip Queue"
+}

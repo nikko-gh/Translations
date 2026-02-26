@@ -1,0 +1,12 @@
+{
+  "Error.NoPermission": "У вас немає дозволу використовувати цю команду",
+  "Format.ButtonText": "Сортувати",
+  "Format.Category": "<color=#D2691E>Категорія</color>",
+  "Format.Disabled": "<color=#B22222>Вимкнено</color>",
+  "Format.Enabled": "<color=#228B22>Увімкнено</color>",
+  "Format.Name": "<color=#00BFFF>Ім'я</color>",
+  "Format.Prefix": "<color=#00FF00>[Кнопка Сортування]</color>: ",
+  "Info.ButtonStatus": "Кнопка Сортування тепер {0}",
+  "Info.SortType": "Тип сортування тепер {0}",
+  "Info.Help": "Команди списку:\n<color=#FFFF00>/{0}</color> - Увімкнути/Вимкнути кнопку сортування.\n<color=#FFFF00>/{0} <sort | type></color> - змінити тип сортування."
+}

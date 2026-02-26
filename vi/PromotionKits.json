@@ -1,0 +1,7 @@
+{
+  "InvalidCommand": "Lệnh không hợp lệ.",
+  "CheckCommand": "Đã có {0} người chơi sử dụng mã của bạn và {1} trong số họ đã chơi ít nhất 1 giờ trên máy chủ của chúng tôi. :)",
+  "Success": "Cảm ơn bạn đã sử dụng mã này, bạn có thể nhận kit bằng cách sử dụng /kitclaim bestrustmain2xserver",
+  "InvalidPromoter": "Không tìm thấy ai có tên {0}",
+  "InvalidKit": "Không tìm thấy kit."
+}

@@ -1,0 +1,12 @@
+{
+  "Error.NoPermission": "No tienes permiso para usar este comando",
+  "Format.ButtonText": "Ordenar",
+  "Format.Category": "<color=#D2691E>Categoría</color>",
+  "Format.Disabled": "<color=#B22222>Desactivado</color>",
+  "Format.Enabled": "<color=#228B22>Activado</color>",
+  "Format.Name": "<color=#00BFFF>Nombre</color>",
+  "Format.Prefix": "<color=#00FF00>[Botón de Ordenar]</color>: ",
+  "Info.ButtonStatus": "El Botón de Ordenar ahora está {0}",
+  "Info.SortType": "El Tipo de Orden ahora es {0}",
+  "Info.Help": "Comandos de Lista:\n<color=#FFFF00>/{0}</color> - Activar/Desactivar Botón de Ordenar.\n<color=#FFFF00>/{0} <sort | type></color> - cambiar tipo de orden."
+}

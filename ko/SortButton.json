@@ -1,0 +1,12 @@
+{
+  "Error.NoPermission": "이 명령을 사용할 권한이 없습니다",
+  "Format.ButtonText": "정렬",
+  "Format.Category": "<color=#D2691E>카테고리</color>",
+  "Format.Disabled": "<color=#B22222>비활성화됨</color>",
+  "Format.Enabled": "<color=#228B22>활성화됨</color>",
+  "Format.Name": "<color=#00BFFF>이름</color>",
+  "Format.Prefix": "<color=#00FF00>[정렬 버튼]</color>: ",
+  "Info.ButtonStatus": "정렬 버튼이 이제 {0}",
+  "Info.SortType": "정렬 유형이 이제 {0}",
+  "Info.Help": "명령어 목록:\n<color=#FFFF00>/{0}</color> - 정렬 버튼 활성화/비활성화.\n<color=#FFFF00>/{0} <sort | type></color> - 정렬 유형 변경."
+}

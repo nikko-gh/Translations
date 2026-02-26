@@ -1,0 +1,14 @@
+{
+  "ConnectionError": "Daar was 'n konneksiefout. Probeer asseblief weer, of kontak 'n admin as hierdie probleem voortduur.",
+  "RemovedMsg": "Jy is uit die geverifieerde groep verwyder omdat jy jou rekeninge ontkoppel het.\nKontak 'n admin as jy nie ontkoppel het nie.",
+  "RemovedNitroMsg": "Jy is uit die nitro groep verwyder omdat jou boost verwyder is.\nKontak 'n admin as dit 'n probleem is.",
+  "VerifyMsg": "Hey, maak seker jy verifieer by {0} om 'n paar wonderlike rewards te ontvang.",
+  "ThanksMsg": "Jy het suksesvol geverifieer en jou rekeninge gekoppel. Dankie!",
+  "SteamNotVerified": "Jy is in die Steam Groep, maar nie geverifieer nie. Verifieer asseblief op ons webwerf.",
+  "ThanksNitroMsg": "Jy het suksesvol ons Discord geboost. Dankie!",
+  "RemovedSteamMsg": "Jy is uit die Steam Rewards-groep verwyder omdat jy die Steam Groep verlaat het.",
+  "ThanksSteamMsg": "Jy het suksesvol by ons Steam Groep aangesluit. Dankie!",
+  "NotClient": "Hierdie opdrag is bedoel om van 'n kliënt af uitgevoer te word, nie van die konsole nie.",
+  "OnCooldown": "Jy is tans op 'n wagtydperk vir die gebruik van hierdie opdrag.",
+  "NoUsers": "UniversalLink: Die ontvangde antwoord bevat geen gebruikers nie."
+}

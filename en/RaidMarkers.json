@@ -1,0 +1,5 @@
+{
+  "NoPerm": "You don't have permissions",
+  "TestRaidMarker": "Test Raid Marker created on your position",
+  "GridPosition": "There is an ongoing raid in {0} position"
+}

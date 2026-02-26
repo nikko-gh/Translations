@@ -1,0 +1,12 @@
+{
+  "Error.NoPermission": "Você não tem permissão para usar este comando",
+  "Format.ButtonText": "Organizar",
+  "Format.Category": "<color=#D2691E>Categoria</color>",
+  "Format.Disabled": "<color=#B22222>Desativado</color>",
+  "Format.Enabled": "<color=#228B22>Ativado</color>",
+  "Format.Name": "<color=#00BFFF>Nome</color>",
+  "Format.Prefix": "<color=#00FF00>[Botão de Organização]</color>: ",
+  "Info.ButtonStatus": "O Botão de Organização agora está {0}",
+  "Info.SortType": "O Tipo de Organização agora é {0}",
+  "Info.Help": "Comandos da Lista:\n<color=#FFFF00>/{0}</color> - Ativar/Desativar Botão de Organização.\n<color=#FFFF00>/{0} <sort | type></color> - alterar o tipo de organização."
+}

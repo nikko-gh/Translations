@@ -1,0 +1,6 @@
+{
+  "AlreadyHasPermission": "Nu trebuie să folosești această comandă. Ai deja permisiunea de a revendica kit-ul RustMagic!",
+  "Cooldown": "Trebuie să aștepți {0} secunde pentru a putea folosi această comandă.",
+  "SuccessMessage": "Ai folosit codul \"BESTRUST\" pe RustMagic.com, așa că ești eligibil să revendici kit-ul RustMagic!",
+  "FailMessage": "Trebuie să folosești codul \"BESTRUST\" pe RustMagic.com pentru a putea revendica kit-ul RustMagic."
+}

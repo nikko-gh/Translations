@@ -1,0 +1,23 @@
+{
+  "No Permission": "Du har ikke tillatelse til å bruke denne kommandoen.",
+  "No Reason": "Ukjent grunn",
+  "Muted": "{player} ble dempet: {reason}.",
+  "Muted Time": "{player} ble dempet i {time}: {reason}.",
+  "Unmuted": "{player} ble u-dempet av {initiator}.",
+  "Not Muted": "{player} er for øyeblikket ikke dempet.",
+  "Mute Expired": "{player} er ikke lenger dempet.",
+  "Invalid Time Format": "Ugyldig tidsformat. Eksempel: 1d2h3m4s = 1 dag, 2 timer, 3 min, 4 sek",
+  "Nobody Muted": "Ingen er dempet for øyeblikket.",
+  "Invalid Syntax Mute": "/mute <player|steamid> \"[reason]\" [time: 1d1h1m1s]",
+  "Invalid Syntax Unmute": "/unmute <player|steamid>",
+  "Player Name Not Found": "Kunne ikke finne spiller med navnet '{name}'",
+  "Player ID Not Found": "Kunne ikke finne spiller med ID '{id}'",
+  "Multiple Players Found": "Flere matchende spillere funnet: \n{matches}",
+  "Time Muted Player Joined": "{player} er midlertidig dempet. Gjenstående tid: {time}",
+  "Time Muted Player Chat": "Du kan ikke chatte, du er midlertidig dempet. Gjenstående tid: {time}",
+  "Muted Player Joined": "{player} er permanent dempet.",
+  "Muted Player Chat": "Du kan ikke chatte, du er permanent dempet.",
+  "Global Mute Enabled": "Global demping ble aktivert. Ingen kan chatte mens global demping er aktiv.",
+  "Global Mute Disabled": "Global demping ble deaktivert. Alle kan chatte igjen.",
+  "Global Mute Active": "Global demping er aktiv, du kan ikke chatte."
+}

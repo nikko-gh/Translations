@@ -1,0 +1,23 @@
+{
+  "No Permission": "Δεν έχεις άδεια να χρησιμοποιήσεις αυτήν την εντολή.",
+  "No Reason": "Άγνωστος λόγος",
+  "Muted": "Ο {player} έλαβε σιγή: {reason}.",
+  "Muted Time": "Ο {player} έλαβε σιγή για {time}: {reason}.",
+  "Unmuted": "Η σιγή του {player} ήρθη από τον {initiator}.",
+  "Not Muted": "Ο {player} δεν είναι επί του παρόντος σε σιγή.",
+  "Mute Expired": "Ο {player} δεν είναι πλέον σε σιγή.",
+  "Invalid Time Format": "Μη έγκυρη μορφή χρόνου. Παράδειγμα: 1d2h3m4s = 1 μέρα, 2 ώρες, 3 λεπτά, 4 δευτερόλεπτα",
+  "Nobody Muted": "Δεν υπάρχει κάποιος σε σιγή αυτή τη στιγμή.",
+  "Invalid Syntax Mute": "/mute <player|steamid> \"[reason]\" [time: 1d1h1m1s]",
+  "Invalid Syntax Unmute": "/unmute <player|steamid>",
+  "Player Name Not Found": "Δεν βρέθηκε παίκτης με το όνομα '{name}'",
+  "Player ID Not Found": "Δεν βρέθηκε παίκτης με το ID '{id}'",
+  "Multiple Players Found": "Βρέθηκαν πολλοί παίκτες με αντιστοιχία: \n{matches}",
+  "Time Muted Player Joined": "Ο {player} είναι προσωρινά σε σιγή. Υπόλοιπος χρόνος: {time}",
+  "Time Muted Player Chat": "Δεν μπορείς να συνομιλήσεις, είσαι προσωρινά σε σιγή. Υπόλοιπος χρόνος: {time}",
+  "Muted Player Joined": "Ο {player} είναι μόνιμα σε σιγή.",
+  "Muted Player Chat": "Δεν μπορείς να συνομιλήσεις, είσαι μόνιμα σε σιγή.",
+  "Global Mute Enabled": "Η καθολική σιγή ενεργοποιήθηκε. Κανείς δεν μπορεί να συνομιλήσει ενώ είναι ενεργή.",
+  "Global Mute Disabled": "Η καθολική σιγή απενεργοποιήθηκε. Όλοι μπορούν να συνομιλήσουν ξανά.",
+  "Global Mute Active": "Η καθολική σιγή είναι ενεργή, δεν μπορείς να συνομιλήσεις."
+}

@@ -1,0 +1,9 @@
+{
+  "SettingsHeader": "-------- 设置 --------",
+  "CurrentTime": "当前时间",
+  "SunriseHour": "日出时间",
+  "SunsetHour": "日落时间",
+  "DayLength": "白天长度",
+  "NightLength": "夜晚长度",
+  "Minutes": "分钟"
+}

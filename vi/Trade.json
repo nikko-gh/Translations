@@ -1,0 +1,15 @@
+{
+  "Usage": "Cách sử dụng:\n/trade playerName\n/trade yes\n/trade no",
+  "NoPending": "Không có giao dịch nào đang chờ!",
+  "RequestAlreadyPending": "Người chơi đó đã có yêu cầu đang chờ!",
+  "TradeBegins": "Giao dịch giữa {name1} và {name2} bắt đầu!",
+  "RequestSent": "Bạn đã gửi yêu cầu giao dịch đến {name}",
+  "RequestReceived": "Bạn đã nhận yêu cầu giao dịch từ {name}\nĐể chấp nhận: <color=green>/trade yes</color>\nĐể từ chối: <color=red>/trade no</color>",
+  "TradeCancelled": "Giao dịch đã bị hủy",
+  "CantRightNow": "Bạn không thể thực hiện điều đó ngay bây giờ",
+  "OnlyInBuildingPriv": "Bạn chỉ có thể giao dịch bên trong khu vực TC của mình",
+  "Cooldown": "Bạn cần chờ {seconds} giây trước khi giao dịch lại.",
+  "Permission": "Bạn không có quyền thực hiện điều này!",
+  "NoPlayers": "Không có người chơi nào với 'Tên' hoặc 'Steam ID' ({name})",
+  "MultiplePlayers": "Có nhiều người chơi với 'Tên' này:\n{list}"
+}

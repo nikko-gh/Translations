@@ -1,0 +1,3 @@
+{
+  "PopulationMessage": "Il y a actuellement <color=#2596be>{0}/{1}</color> joueurs en ligne. <color=#2596be>{2}</color> rejoignent et <color=#2596be>{3}</color> attendent dans la file d'attente."
+}

@@ -1,0 +1,4 @@
+{
+  "ModdedMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> Şu ana kadar sunucularımızda <color=#d9b650>{0} saat</color> oynadınız!\n\nOynama Süresi Ödülleri:\n- Newbie (0 saat) Başlangıç kiti, Ahşap base kiti\n- Rookie (50 saat) Rookie kiti\n- Survivor (100 saat) Fırın düzenleyici, Kutu düzenleyici\n- Regular (250 saat) Regular kiti\n- Loyal (500 saat) Loyal kiti, Tabelalara resim yükleme (/sil)\n- Veteran (750 saat) Bekleme Sırasını Atla\n- Warrior (1000 saat) Warrior kiti\n- Elite (1500 saat) Elite kiti, Skinbox\n- Legend (2000 saat) Legend kiti\n- Champion (3000 saat) Champion kiti\n- Demigod (5000 saat) Demigod kiti\n- God (10000 saat) God kiti",
+  "VanillaMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> Şu ana kadar sunucularımızda <color=#d9b650>{0} saat</color> oynadınız!\n\nOynama Süresi Ödülleri:\n- Veteran (750 saat) Bekleme Sırasını Atla"
+}

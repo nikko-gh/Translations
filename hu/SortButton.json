@@ -1,0 +1,12 @@
+{
+  "Error.NoPermission": "Nincs jogosultságod ehhez a parancshoz",
+  "Format.ButtonText": "Rendezés",
+  "Format.Category": "<color=#D2691E>Kategória</color>",
+  "Format.Disabled": "<color=#B22222>Kikapcsolva</color>",
+  "Format.Enabled": "<color=#228B22>Bekapcsolva</color>",
+  "Format.Name": "<color=#00BFFF>Név</color>",
+  "Format.Prefix": "<color=#00FF00>[Rendezés Gomb]</color>: ",
+  "Info.ButtonStatus": "A Rendezés Gomb most {0}",
+  "Info.SortType": "A rendezés típusa most {0}",
+  "Info.Help": "Parancsok listája:\n<color=#FFFF00>/{0}</color> - Rendezés Gomb Engedélyezése/Kikapcsolása.\n<color=#FFFF00>/{0} <sort | type></color> - rendezési típus megváltoztatása."
+}

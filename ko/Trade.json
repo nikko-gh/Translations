@@ -1,0 +1,15 @@
+{
+  "Usage": "사용법:\n/trade playerName\n/trade yes\n/trade no",
+  "NoPending": "대기 중인 거래가 없습니다!",
+  "RequestAlreadyPending": "해당 플레이어에게는 이미 대기 중인 요청이 있습니다!",
+  "TradeBegins": "{name1}과 {name2} 간의 거래가 시작됩니다!",
+  "RequestSent": "{name}님에게 거래 요청을 보냈습니다",
+  "RequestReceived": "{name}님으로부터 거래 요청을 받았습니다\n수락하려면: <color=green>/trade yes</color>\n거절하려면: <color=red>/trade no</color>",
+  "TradeCancelled": "거래가 취소되었습니다",
+  "CantRightNow": "지금은 할 수 없습니다",
+  "OnlyInBuildingPriv": "TC 건물 구역 내에서만 거래할 수 있습니다",
+  "Cooldown": "다시 거래하려면 {seconds}초를 기다려야 합니다.",
+  "Permission": "이 작업을 수행할 권한이 없습니다!",
+  "NoPlayers": "'이름'이나 '스팀 ID'({name})에 해당하는 플레이어가 없습니다",
+  "MultiplePlayers": "'이름'으로 여러 명의 플레이어가 있습니다:\n{list}"
+}

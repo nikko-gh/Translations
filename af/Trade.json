@@ -1,0 +1,15 @@
+{
+  "Usage": "Gebruik:\n/trade spelerNaam\n/trade yes\n/trade no",
+  "NoPending": "Daar is geen wagende handel nie!",
+  "RequestAlreadyPending": "Daardie speler het reeds wagende versoeke!",
+  "TradeBegins": "Handel tussen {name1} en {name2} begin!",
+  "RequestSent": "Jy het 'n handelaanvraag aan {name} gestuur",
+  "RequestReceived": "Jy het 'n handelaanvraag van {name} ontvang\nOm te aanvaar: <color=green>/trade yes</color>\nOm te weier: <color=red>/trade no</color>",
+  "TradeCancelled": "Handel is gekanselleer",
+  "CantRightNow": "Jy kan dit nie nou doen nie",
+  "OnlyInBuildingPriv": "Jy kan slegs binne jou TC-gebou sones handel dryf",
+  "Cooldown": "Jy moet {seconds} sekondes wag voor jy weer handel dryf.",
+  "Permission": "Jy het nie toestemming om dit te doen nie!",
+  "NoPlayers": "Daar is geen spelers met daardie 'Naam' of 'Steam ID' ({name}) nie",
+  "MultiplePlayers": "Daar is verskeie spelers met daardie 'Naam':\n{list}"
+}

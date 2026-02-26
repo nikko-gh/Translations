@@ -1,0 +1,5 @@
+{
+  "Chat": "<color=#bebebe>[<color=#de8732>작업대 범위 확장</color>] {0}</color>",
+  "Notification": "작업대의 범위가 전체 기지를 커버하도록 확대되었습니다.",
+  "CraftCanceledV1": "작업대 레벨이 변경되었습니다. 상위 레벨이 필요한 제작이 취소되었습니다."
+}

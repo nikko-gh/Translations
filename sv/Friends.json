@@ -1,0 +1,17 @@
+{
+  "AlreadyOnList": "{0} är redan din vän",
+  "CannotAddSelf": "Du kan inte lägga till dig själv",
+  "CommandFriend": "friend",
+  "FriendAdded": "{0} är nu din vän",
+  "FriendRemoved": "{0} togs bort från din vänlista",
+  "FriendList": "Vänner {0}:\n{1}",
+  "FriendListFull": "Din vänlista är full",
+  "NoFriends": "Du har inga vänner",
+  "NotAllowed": "Du har inte behörighet att använda kommandot '{0}'",
+  "NoPlayersFound": "Inga spelare hittades med namnet eller ID '{0}'",
+  "NotOnFriendList": "{0} hittades inte på din vänlista",
+  "PlayerNotFound": "Spelare '{0}' hittades inte",
+  "PlayersFound": "Flera spelare hittades, var vänlig specificera: {0}",
+  "PlayersOnly": "Kommandot '{0}' kan endast användas av spelare",
+  "UsageFriend": "Användning {0} <add|remove|list> <spelarnamn eller id>"
+}

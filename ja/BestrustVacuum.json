@@ -1,0 +1,5 @@
+{
+  "DiscordAdvertisement": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color>\nあなたはまだ<color=#5865F2>Discord</color>に参加していないか、認証されていません。参加はこちらから: <color=#ff5c45>https://discord.gg/bestrustservers</color> リンクを行ってください。\n<color=#5865F2>Discord</color>では便利な情報、親切でアクティブなスタッフからのサポート、コミュニティとのチャット、サーバーの通知を受け取れます。",
+  "GameTipMessage": "<size=14>あなたはまだDiscordに参加していないか、認証されていません。</size>\n<size=12>こちらから参加し、アカウントをリンクしてください:\n<color=#ff5c45>discord.gg/bestrustservers</color></size>",
+  "ChatBlocked": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color>\n<color=#5865F2>Discord</color>に参加していないか、認証されていないため、チャットに書き込めません。以下で認証してください: <color=#ff5c45>https://discord.gg/bestrustservers</color>"
+}

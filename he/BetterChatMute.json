@@ -1,0 +1,23 @@
+{
+    "No Permission": "אין לך הרשאה להשתמש בפקודה הזו.",
+    "No Reason": "ללא סיבה מוגדרת",
+    "Muted": "{player} הושתק: {reason}.",
+    "Muted Time": "{player} הושתק למשך {time}: {reason}.",
+    "Unmuted": "{player} הוסר מהשתקה על ידי {initiator}.",
+    "Not Muted": "{player} לא מושתק כרגע.",
+    "Mute Expired": "{player} כבר לא מושתק.",
+    "Invalid Time Format": "פורמט זמן לא תקין. דוגמה: 1 d2h3m4s = יום, 2 שעות, 3 דקות, 4 שניות",
+    "Nobody Muted": "אין כרגע שחקנים מושתקים.",
+    "Invalid Syntax Mute": "/mute <player|steamid> \"[reason]\" [time: 1d1h1m1s]",
+    "Invalid Syntax Unmute": "/unmute <player|steamid>",
+    "Player Name Not Found": "לא נמצא שחקן בשם '{name}'.",
+    "Player ID Not Found": "לא נמצא שחקן עם מזהה '{id}'.",
+    "Multiple Players Found": "נמצאו כמה שחקנים מתאימים:\n{matches}",
+    "Time Muted Player Joined": "{player} מושתק זמנית. זמן נותר: {time}.",
+    "Time Muted Player Chat": "אינך יכול לשוחח, אתה מושתק זמנית. זמן נותר: {time}.",
+    "Muted Player Joined": "{player} מושתק לצמיתות.",
+    "Muted Player Chat": "אינך יכול לשוחח, אתה מושתק לצמיתות.",
+    "Global Mute Enabled": "השתקה גלובלית הופעלה. אף אחד לא יכול לשוחח כרגע.",
+    "Global Mute Disabled": "השתקה גלובלית הושבתה. כולם יכולים לשוחח שוב.",
+    "Global Mute Active": "השתקה גלובלית פעילה, אינך יכול לשוחח."
+}

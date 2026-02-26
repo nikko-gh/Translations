@@ -1,0 +1,12 @@
+{
+  "Error.NoPermission": "Nie masz uprawnień do użycia tej komendy",
+  "Format.ButtonText": "Sortuj",
+  "Format.Category": "<color=#D2691E>Kategoria</color>",
+  "Format.Disabled": "<color=#B22222>Wyłączone</color>",
+  "Format.Enabled": "<color=#228B22>Włączone</color>",
+  "Format.Name": "<color=#00BFFF>Nazwa</color>",
+  "Format.Prefix": "<color=#00FF00>[Przycisk Sortowania]</color>: ",
+  "Info.ButtonStatus": "Przycisk Sortowania jest teraz {0}",
+  "Info.SortType": "Typ sortowania jest teraz {0}",
+  "Info.Help": "Lista Komend:\n<color=#FFFF00>/{0}</color> - Włącz/Wyłącz Przycisk Sortowania.\n<color=#FFFF00>/{0} <sort | type></color> - zmień typ sortowania."
+}

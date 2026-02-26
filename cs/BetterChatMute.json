@@ -1,0 +1,23 @@
+{
+  "No Permission": "Nemáš oprávnění použít tento příkaz.",
+  "No Reason": "Neznámý důvod",
+  "Muted": "{player} byl ztlumen: {reason}.",
+  "Muted Time": "{player} byl ztlumen na dobu {time}: {reason}.",
+  "Unmuted": "{player} byl odtlumen {initiator}.",
+  "Not Muted": "{player} momentálně není ztlumen.",
+  "Mute Expired": "{player} už není ztlumen.",
+  "Invalid Time Format": "Neplatný formát času. Příklad: 1d2h3m4s = 1 den, 2 hodiny, 3 min, 4 sec",
+  "Nobody Muted": "Momentálně není nikdo ztlumen.",
+  "Invalid Syntax Mute": "/mute <player|steamid> \"[důvod]\" [čas: 1d1h1m1s]",
+  "Invalid Syntax Unmute": "/unmute <player|steamid>",
+  "Player Name Not Found": "Nepodařilo se najít hráče se jménem '{name}'",
+  "Player ID Not Found": "Nepodařilo se najít hráče s ID '{id}'",
+  "Multiple Players Found": "Bylo nalezeno více odpovídajících hráčů: \n{matches}",
+  "Time Muted Player Joined": "{player} je dočasně ztlumen. Zbývající čas: {time}",
+  "Time Muted Player Chat": "Nemůžeš psát, jsi dočasně ztlumen. Zbývající čas: {time}",
+  "Muted Player Joined": "{player} je trvale ztlumen.",
+  "Muted Player Chat": "Nemůžeš psát, jsi trvale ztlumen.",
+  "Global Mute Enabled": "Globální ztlumení bylo aktivováno. Nikdo nemůže psát, dokud je aktivní.",
+  "Global Mute Disabled": "Globální ztlumení bylo deaktivováno. Všichni mohou opět psát.",
+  "Global Mute Active": "Globální ztlumení je aktivní, nemůžeš psát."
+}

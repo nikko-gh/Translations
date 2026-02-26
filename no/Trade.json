@@ -1,0 +1,15 @@
+{
+  "Usage": "Bruk:\n/trade playerName\n/trade yes\n/trade no",
+  "NoPending": "Det er ingen ventende bytter!",
+  "RequestAlreadyPending": "Den spilleren har allerede ventende forespørsler!",
+  "TradeBegins": "Bytte mellom {name1} og {name2} starter!",
+  "RequestSent": "Du sendte bytteforespørsel til {name}",
+  "RequestReceived": "Du mottok bytteforespørsel fra {name}\nFor å akseptere: <color=green>/trade yes</color>\nFor å avslå: <color=red>/trade no</color>",
+  "TradeCancelled": "Byttet ble avbrutt",
+  "CantRightNow": "Du kan ikke gjøre det akkurat nå",
+  "OnlyInBuildingPriv": "Du kan bare bytte innenfor din TC-byggesone",
+  "Cooldown": "Du må vente {seconds} sekunder før du kan bytte igjen.",
+  "Permission": "Du har ikke tillatelse til å gjøre det!",
+  "NoPlayers": "Det er ingen spillere med det 'Navn' eller 'Steam ID' ({name})",
+  "MultiplePlayers": "Det er flere spillere med det 'Navn':\n{list}"
+}

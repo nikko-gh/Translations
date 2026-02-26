@@ -1,0 +1,17 @@
+{
+  "AlreadyOnList": "{0} はすでにフレンドです",
+  "CannotAddSelf": "自分自身を追加することはできません",
+  "CommandFriend": "friend",
+  "FriendAdded": "{0} をフレンドに追加しました",
+  "FriendRemoved": "{0} をフレンドリストから削除しました",
+  "FriendList": "フレンド {0}:\n{1}",
+  "FriendListFull": "フレンドリストがいっぱいです",
+  "NoFriends": "フレンドがいません",
+  "NotAllowed": "'{0}' コマンドを使用する権限がありません",
+  "NoPlayersFound": "名前またはID '{0}' のプレイヤーが見つかりません",
+  "NotOnFriendList": "{0} はフレンドリストに見つかりません",
+  "PlayerNotFound": "プレイヤー '{0}' が見つかりません",
+  "PlayersFound": "複数のプレイヤーが見つかりました。指定してください: {0}",
+  "PlayersOnly": "コマンド '{0}' はプレイヤーのみ使用可能です",
+  "UsageFriend": "使用法 {0} <add|remove|list> <プレイヤー名またはid>"
+}

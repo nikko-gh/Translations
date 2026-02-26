@@ -1,0 +1,23 @@
+{
+  "No Permission": "Ви не маєте дозволу використовувати цю команду.",
+  "No Reason": "Невідома причина",
+  "Muted": "{player} був заглушений: {reason}.",
+  "Muted Time": "{player} був заглушений на {time}: {reason}.",
+  "Unmuted": "{player} був розглушений {initiator}.",
+  "Not Muted": "{player} наразі не заглушений.",
+  "Mute Expired": "{player} більше не заглушений.",
+  "Invalid Time Format": "Невірний формат часу. Приклад: 1d2h3m4s = 1 день, 2 години, 3 хв, 4 сек",
+  "Nobody Muted": "Наразі ніхто не заглушений.",
+  "Invalid Syntax Mute": "/mute <player|steamid> \"[reason]\" [time: 1d1h1m1s]",
+  "Invalid Syntax Unmute": "/unmute <player|steamid>",
+  "Player Name Not Found": "Не вдалося знайти гравця з іменем '{name}'",
+  "Player ID Not Found": "Не вдалося знайти гравця з ID '{id}'",
+  "Multiple Players Found": "Знайдено кілька гравців, що відповідають: \n{matches}",
+  "Time Muted Player Joined": "{player} тимчасово заглушений. Залишився час: {time}",
+  "Time Muted Player Chat": "Ви не можете писати в чат, ви тимчасово заглушені. Залишився час: {time}",
+  "Muted Player Joined": "{player} заглушений назавжди.",
+  "Muted Player Chat": "Ви не можете писати в чат, ви заглушені назавжди.",
+  "Global Mute Enabled": "Глобальний заглушеня чату увімкнено. Ніхто не може писати в чат, поки глобальне заглушеня чату активне.",
+  "Global Mute Disabled": "Глобальний заглушеня чату. Всі знову можуть писати в чат.",
+  "Global Mute Active": "Глобальний заглушеня чату, ви не можете писати в чат."
+}

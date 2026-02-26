@@ -1,0 +1,6 @@
+{
+  "AlreadyHasPermission": "Vous n'avez pas besoin d'utiliser cette commande : vous avez déjà l'autorisation de récupérer le kit RustMagic !",
+  "Cooldown": "Vous devez attendre {0} secondes avant de pouvoir utiliser cette commande.",
+  "SuccessMessage": "Vous avez utilisé le code de parrainage \"BESTRUST\" sur RustMagic.com ; vous pouvez maintenant récupérer le kit RustMagic !",
+  "FailMessage": "Vous devez utiliser le code de parrainage \"BESTRUST\" sur RustMagic.com pour pouvoir récupérer le kit RustMagic."
+}

@@ -1,0 +1,7 @@
+{
+  "AdminMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> Ha segítségre van szükséged vagy jelenteni szeretnél egy játékost, kérjük, hozz létre egy ticketet a discordunkon. Mindig szívesen segítünk! <color=#ff5c45>discord.gg/bestrustservers</color>",
+  "LagMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> Ha akadozással találkozol, kérjük, jelezd nekünk a discordon, hogy mielőbb megoldhassuk. Elnézést a kellemetlenségért. <color=#ff5c45>discord.gg/bestrustservers</color>",
+  "BugMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> Találtál egy hibát? Lépj kapcsolatba velünk a discordon, és súlyosság szerint megjutalmazunk! <color=#ff5c45>discord.gg/bestrustservers</color>",
+  "ReportMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> Köszönjük a jelentést. A gyorsabb támogatás érdekében kérjük, hozz létre egy ticketet a discordunkon: <color=#ff5c45>discord.gg/bestrustservers</color> A csapatunk ott hatékonyabban tud segíteni neked.",
+  "ReportToast": "<size=14>Köszönjük a jelentést.</size>\n<size=12>A gyorsabb támogatásért kérjük, hozz létre egy ticketet a discordunkon.\ndiscord.gg/bestrustservers</size>"
+}

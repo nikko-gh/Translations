@@ -1,0 +1,15 @@
+{
+  "Usage": "Χρήση:\n/trade playerName\n/trade yes\n/trade no",
+  "NoPending": "Δεν υπάρχουν εκκρεμείς ανταλλαγές!",
+  "RequestAlreadyPending": "Αυτός ο παίκτης έχει ήδη εκκρεμείς αιτήσεις!",
+  "TradeBegins": "Η ανταλλαγή μεταξύ του {name1} και του {name2} ξεκινά!",
+  "RequestSent": "Έστειλες αίτηση ανταλλαγής στον {name}",
+  "RequestReceived": "Έλαβες αίτηση ανταλλαγής από τον {name}\nΓια αποδοχή: <color=green>/trade yes</color>\nΓια απόρριψη: <color=red>/trade no</color>",
+  "TradeCancelled": "Η ανταλλαγή ακυρώθηκε",
+  "CantRightNow": "Δεν μπορείς να το κάνεις τώρα",
+  "OnlyInBuildingPriv": "Μπορείς να ανταλλάξεις μόνο μέσα στη ζώνη του TC σου",
+  "Cooldown": "Πρέπει να περιμένεις {seconds} δευτερόλεπτα πριν ξανακάνεις ανταλλαγή.",
+  "Permission": "Δεν έχεις άδεια να το κάνεις αυτό!",
+  "NoPlayers": "Δεν υπάρχουν παίκτες με αυτό το 'Όνομα' ή 'Steam ID' ({name})",
+  "MultiplePlayers": "Υπάρχουν πολλοί παίκτες με αυτό το 'Όνομα':\n{list}"
+}

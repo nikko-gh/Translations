@@ -1,0 +1,23 @@
+{
+  "No Permission": "Немате дозволу да користите ову команду.",
+  "No Reason": "Непознат разлог",
+  "Muted": "{player} је утишан: {reason}.",
+  "Muted Time": "{player} је утишан на {time}: {reason}.",
+  "Unmuted": "{player} је више није утишан од стране {initiator}.",
+  "Not Muted": "{player} тренутно није утишан.",
+  "Mute Expired": "{player} више није утишан.",
+  "Invalid Time Format": "Неисправан формат времена. Пример: 1d2h3m4s = 1 дан, 2 сата, 3 мин, 4 сек",
+  "Nobody Muted": "Тренутно нико није утишан.",
+  "Invalid Syntax Mute": "/mute <player|steamid> \"[reason]\" [time: 1d1h1m1s]",
+  "Invalid Syntax Unmute": "/unmute <player|steamid>",
+  "Player Name Not Found": "Није могуће пронаћи играча са именом '{name}'",
+  "Player ID Not Found": "Није могуће пронаћи играча са ID '{id}'",
+  "Multiple Players Found": "Пронађено више играча: \n{matches}",
+  "Time Muted Player Joined": "{player} је привремено утишан. Преостало време: {time}",
+  "Time Muted Player Chat": "Не можете ћаскати, привремено сте утишани. Преостало време: {time}",
+  "Muted Player Joined": "{player} је трајно утишан.",
+  "Muted Player Chat": "Не можете ћаскати, трајно сте утишани.",
+  "Global Mute Enabled": "Глобално утишавање је омогућено. Нико не може ћаскати док је глобално утишавање активно.",
+  "Global Mute Disabled": "Глобално утишавање је онемогућено. Сви могу поново да ћаскају.",
+  "Global Mute Active": "Глобално утишавање је активно, не можете ћаскати."
+}

@@ -1,0 +1,12 @@
+{
+  "Error.NoPermission": "Je hebt geen toestemming om dit commando te gebruiken",
+  "Format.ButtonText": "Sorteren",
+  "Format.Category": "<color=#D2691E>Categorie</color>",
+  "Format.Disabled": "<color=#B22222>Uitgeschakeld</color>",
+  "Format.Enabled": "<color=#228B22>Ingeschakeld</color>",
+  "Format.Name": "<color=#00BFFF>Naam</color>",
+  "Format.Prefix": "<color=#00FF00>[Sorteerknop]</color>: ",
+  "Info.ButtonStatus": "Sorteerknop is nu {0}",
+  "Info.SortType": "Sorteertype is nu {0}",
+  "Info.Help": "Lijst Commerciële:\n<color=#FFFF00>/{0}</color> - In-/uitschakelen van Sorteerknop.\n<color=#FFFF00>/{0} <sort | type></color> - verander sorteertype."
+}

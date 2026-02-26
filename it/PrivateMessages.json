@@ -1,0 +1,23 @@
+{
+  "PMTo": "[#00FFFF]PM a {0}[/#]: {1}",
+  "PMFrom": "[#00FFFF]PM da {0}[/#]: {1}",
+  "PlayerNotOnline": "{0} non è online.",
+  "NotOnlineAnymore": "L'ultima persona con cui stavi parlando non è più online.",
+  "NotMessaged": "Non hai inviato messaggi a nessuno o non ne hai ricevuti.",
+  "IgnoreYou": "[#FF0000]{0} ti sta ignorando e non può ricevere i tuoi PM[/#]",
+  "SelfPM": "Non puoi inviare messaggi a te stesso.",
+  "SyntaxR": "Sintassi errata, usa: /r <msg>",
+  "HistorySyntax": "Sintassi errata, usa: /pmhistory <nome>",
+  "SyntaxPM": "Sintassi errata, usa: /{0} <nome> <msg>",
+  "NotAllowedToChat": "Non ti è permesso chattare qui",
+  "History": "La tua cronologia:\n{0}",
+  "CooldownMessage": "Potrai inviare un messaggio privato tra {0} secondi",
+  "NoHistory": "Non c'è cronologia dei pm salvata con questo giocatore.",
+  "CannotFindUser": "Impossibile trovare questo utente",
+  "CommandDisabled": "Questo comando è stato disabilitato",
+  "IsMuted": "Sei attualmente silenziato e non puoi inviare messaggi privati",
+  "TargetMuted": "Questa persona è silenziata e non può ricevere il tuo messaggio privato",
+  "NoPermission": "Non hai i permessi corretti per eseguire questo comando",
+  "HistoryPM": "[#00FFFF]{0}[/#]: {1}",
+  "Logging": "[PM]{0}->{1}:{2}"
+}

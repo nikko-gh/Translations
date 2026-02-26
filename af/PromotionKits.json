@@ -1,0 +1,7 @@
+{
+  "InvalidCommand": "Ongeldige opdrag.",
+  "CheckCommand": "{0} spelers het jou kode tot dusver gebruik en {1} van hulle het ten minste 1 uur op ons bedieners gespeel. :)",
+  "Success": "Dankie dat jy hierdie kode gebruik, jy kan die kit eis deur /kitclaim bestrustmain2xserver te gebruik",
+  "InvalidPromoter": "Ek kon niemand met die naam {0} vind nie",
+  "InvalidKit": "Kit nie gevind nie."
+}

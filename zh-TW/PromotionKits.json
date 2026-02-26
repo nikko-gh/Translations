@@ -1,0 +1,7 @@
+{
+  "InvalidCommand": "無效的指令。",
+  "CheckCommand": "到目前為止，有 {0} 名玩家使用了你的代碼，其中 {1} 名在我們的伺服器上玩了至少 1 小時。:)",
+  "Success": "感謝你使用此代碼，你可以使用 /kitclaim bestrustmain2xserver 領取 kit",
+  "InvalidPromoter": "找不到名為 {0} 的人",
+  "InvalidKit": "找不到 kit。"
+}

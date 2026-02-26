@@ -1,0 +1,4 @@
+{
+  "ModdedMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> لقد لعبت <color=#d9b650>{0} ساعة</color> على خوادمنا حتى الآن!\n\nمكافآت الوقت:\n- المبتدئ (0 ساعة) كيت المبتدئين، كيت البيت الخشبية\n- Rookie (50 ساعة) كيتRookie\n- Survivor (100 ساعة) ترتيب الفرن و ترتيب الصناديق تلقائي\n- Regular (250 ساعة) كيتRegular\n- Loyal (500 ساعة) كيتLoyal، تحميل الصور إلى لافتات(/sil)\n- Veteran (750 ساعة)  تحصل على تخطي الانتظار\n- Warrior (1000 ساعة) كيتWarrior\n- Elite (1500 ساعة) كيتElite، Skinbox\n- Legend (2000 ساعة) كيتLegends\n- Champion (3000 ساعة) كيتChampion\n- Demigod (5000 ساعة) كيتDemigod\n- God (10000 ساعة) كيتGod",
+  "VanillaMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> لقد لعبت <color=#d9b650>{0} ساعة</color> على خوادمنا حتى الآن!\n\nمكافآت الوقت:\n- Veteran (750 ساعة) تخطي الانتظار"
+}

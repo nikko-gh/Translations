@@ -1,0 +1,5 @@
+{
+  "Chat": "<color=#bebebe>[<color=#de8732>Kiterjesztett Munkaasztal Hatótáv</color>] {0}</color>",
+  "Notification": "A munkaasztal hatótávolságát megnöveltük, így az egész bázisodra kiterjed.",
+  "CraftCanceledV1": "A munkaasztal szintje megváltozott. Azok a tárgyak, amelyek magasabb szintet igényeltek, megszakadtak."
+}

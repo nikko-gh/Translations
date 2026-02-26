@@ -1,0 +1,14 @@
+{
+  "ConnectionError": "Det uppstod ett anslutningsfel. Försök igen, eller kontakta en admin om problemet kvarstår.",
+  "RemovedMsg": "Du har tagits bort från den autentiserade gruppen eftersom du kopplat bort dina konton.\nKontakta en admin om du inte kopplade bort dem.",
+  "RemovedNitroMsg": "Du har tagits bort från nitrogruppen eftersom din boost togs bort.\nKontakta en admin om detta är ett problem.",
+  "VerifyMsg": "Hej, se till att verifiera på {0} för att få fantastiska belöningar.",
+  "ThanksMsg": "Du har framgångsrikt verifierat och länkat dina konton. Tack!",
+  "SteamNotVerified": "Du är i Steamgruppen men är inte verifierad. Vänligen verifiera på vår webbplats.",
+  "ThanksNitroMsg": "Du har framgångsrikt boostat vår Discord. Tack!",
+  "RemovedSteamMsg": "Du har tagits bort från Steam Rewards-gruppen för att du lämnat Steamgruppen.",
+  "ThanksSteamMsg": "Du har framgångsrikt gått med i vår Steamgrupp. Tack!",
+  "NotClient": "Detta kommando är tänkt att köras från en klient, inte från konsolen.",
+  "OnCooldown": "Du har just nu en väntetid för att använda detta kommando.",
+  "NoUsers": "UniversalLink: Svaret som mottogs innehåller inga användare."
+}

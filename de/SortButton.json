@@ -1,0 +1,12 @@
+{
+  "Error.NoPermission": "Du hast keine Berechtigung, diesen Befehl zu verwenden",
+  "Format.ButtonText": "Sortieren",
+  "Format.Category": "<color=#D2691E>Kategorie</color>",
+  "Format.Disabled": "<color=#B22222>Deaktiviert</color>",
+  "Format.Enabled": "<color=#228B22>Aktiviert</color>",
+  "Format.Name": "<color=#00BFFF>Name</color>",
+  "Format.Prefix": "<color=#00FF00>[Sortier-Button]</color>: ",
+  "Info.ButtonStatus": "Sortier-Button ist jetzt {0}",
+  "Info.SortType": "Der Sortiertyp ist jetzt {0}",
+  "Info.Help": "Befehlsliste:\n<color=#FFFF00>/{0}</color> - Sortier-Button aktivieren/deaktivieren.\n<color=#FFFF00>/{0} <sort | type></color> - Sortiertyp ändern."
+}

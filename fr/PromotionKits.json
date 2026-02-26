@@ -1,0 +1,7 @@
+{
+  "InvalidCommand": "Commande invalide.",
+  "CheckCommand": "{0} joueurs ont utilisé votre code et {1} ont joué au moins une heure sur nos serveurs.",
+  "Success": "Merci d'avoir utilisé ce code. Récupérez le kit avec /kitclaim bestrustmain2xserver",
+  "InvalidPromoter": "Aucun joueur nommé {0} trouvé",
+  "InvalidKit": "Kit introuvable"
+}

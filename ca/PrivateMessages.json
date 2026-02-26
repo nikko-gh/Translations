@@ -1,0 +1,23 @@
+{
+  "PMTo": "[#00FFFF]Missatge privat a {0}[/#]: {1}",
+  "PMFrom": "[#00FFFF]Missatge privat de {0}[/#]: {1}",
+  "PlayerNotOnline": "{0} no està en línia.",
+  "NotOnlineAnymore": "La persona amb qui parlaves ja no està en línia.",
+  "NotMessaged": "No has enviat missatges a ningú o no t'han enviat missatges a tu.",
+  "IgnoreYou": "[#FF0000]{0} t'està ignorant i no pot rebre els teus missatges privats[/#]",
+  "SelfPM": "No pots enviar-te missatges a tu mateix.",
+  "SyntaxR": "Sintaxi incorrecta: /r <missatge>",
+  "HistorySyntax": "Sintaxi incorrecta: /pmhistory <nom>",
+  "SyntaxPM": "Sintaxi incorrecta: /{0} <nom> <missatge>",
+  "NotAllowedToChat": "No tens permís per xatejar aquí",
+  "History": "El teu historial:\n{0}",
+  "CooldownMessage": "Podràs enviar un missatge privat en {0} segons",
+  "NoHistory": "No hi ha cap historial de missatges privats guardat amb aquest jugador.",
+  "CannotFindUser": "No es pot trobar aquest usuari",
+  "CommandDisabled": "Aquesta comanda ha estat desactivada",
+  "IsMuted": "Actualment estàs silenciat i no pots enviar missatges privats",
+  "TargetMuted": "Aquesta persona està silenciada i no pot rebre el teu missatge privat",
+  "NoPermission": "No tens els permisos necessaris per executar aquesta comanda",
+  "HistoryPM": "[#00FFFF]{0}[/#]: {1}",
+  "Logging": "[PM]{0}->{1}:{2}"
+}

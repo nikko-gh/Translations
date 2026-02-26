@@ -1,0 +1,4 @@
+{
+  "ModdedMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> Ви грали <color=#d9b650>{0} годин</color> на наших серверах!\n\nВинагороди за час гри:\n- Newbie (0 годин) Набір новачка, Набір дерев'яного будинку\n- Rookie (50 годин) Набір Rookie\n- Survivor (100 годин) Сортувальник для печі, Сортувальник ящиків\n- Regular (250 годин) Набір Regular\n- Loyal (500 годин) Набір Loyal, Завантаження зображень на знаки (/sil)\n- Veteran (750 годин) Пропуск черги\n- Warrior (1000 годин) Набір Warrior\n- Elite (1500 годин) Набір Elite, Skinbox\n- Legend (2000 годин) Набір Legends\n- Champion (3000 годин) Набір Champion\n- Demigod (5000 годин) Набір Demigod\n- God (10000 годин) Набір God",
+  "VanillaMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> Ви грали <color=#d9b650>{0} годин</color> на наших серверах!\n\nВинагороди за час гри:\n- Veteran (750 годин) Пропуск черги"
+}

@@ -1,0 +1,7 @@
+{
+  "InvalidCommand": "פקודה לא חוקית.",
+  "CheckCommand": "{0} שחקנים השתמשו בקוד שלך עד כה, ו-{1} מהם שיחקו לפחות שעה אחת בשרתים שלנו. :)",
+  "Success": "תודה שהשתמשת בקוד! תוכל לדרוש את ה-kit באמצעות /kitclaim bestrustmain2xserver",
+  "InvalidPromoter": "לא נמצא שחקן בשם {0}.",
+  "InvalidKit": "לא נמצא kit מתאים."
+}

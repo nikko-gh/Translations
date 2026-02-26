@@ -1,0 +1,15 @@
+{
+  "Usage": "Használat:\n/trade playerName\n/trade yes\n/trade no",
+  "NoPending": "Nincsenek függőben lévő csereajánlatok!",
+  "RequestAlreadyPending": "Annak a játékosnak már vannak függőben lévő kérelmei!",
+  "TradeBegins": "Csere kezdődik {name1} és {name2} között!",
+  "RequestSent": "Csereajánlatot küldtél {name} felhasználónak",
+  "RequestReceived": "Csereajánlatot kaptál {name} felhasználótól\nElfogadáshoz: <color=green>/trade yes</color>\nElutasításhoz: <color=red>/trade no</color>",
+  "TradeCancelled": "A csere meg lett szakítva",
+  "CantRightNow": "Ezt most nem teheted meg",
+  "OnlyInBuildingPriv": "Csak a TC építési zónádban lehet cserélni",
+  "Cooldown": "Várnod kell {seconds} másodpercet, mielőtt újra cserélnél.",
+  "Permission": "Nincs jogosultságod ezt megtenni!",
+  "NoPlayers": "Nincs ilyen nevű vagy 'Steam ID'-jú ({name}) játékos",
+  "MultiplePlayers": "Több ilyen nevű játékos van:\n{list}"
+}

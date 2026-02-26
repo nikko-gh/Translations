@@ -1,0 +1,15 @@
+{
+  "Usage": "Se folosește:\n/trade playerName\n/trade yes\n/trade no",
+  "NoPending": "Nu există schimburi în așteptare!",
+  "RequestAlreadyPending": "Acest jucător are deja cereri în așteptare!",
+  "TradeBegins": "Schimbul între {name1} și {name2} începe!",
+  "RequestSent": "Ai trimis cerere de schimb la {name}",
+  "RequestReceived": "Ai primit cerere de schimb de la {name}\nPentru a accepta: <color=green>/trade yes</color>\nPentru a refuza: <color=red>/trade no</color>",
+  "TradeCancelled": "Schimbul a fost anulat",
+  "CantRightNow": "Nu poți face asta acum",
+  "OnlyInBuildingPriv": "Poți face schimb doar în zona clădirii TC",
+  "Cooldown": "Trebuie să aștepți {seconds} secunde înainte de a schimba din nou.",
+  "Permission": "Nu ai permisiunea să faci asta!",
+  "NoPlayers": "Nu există jucători cu acel 'Nume' sau 'Steam ID' ({name})",
+  "MultiplePlayers": "Există mai mulți jucători cu acel 'Nume' :\n{list}"
+}

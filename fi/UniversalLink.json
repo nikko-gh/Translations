@@ -1,0 +1,14 @@
+{
+  "ConnectionError": "Yhteysvirhe. Yritä uudelleen, tai ota yhteyttä ylläpitäjään, jos ongelma jatkuu.",
+  "RemovedMsg": "Sinut on poistettu vahvistetusta ryhmästä, koska päättänyt linkityksesi.\nOta yhteyttä ylläpitäjään, jos et itse poistanut linkitystä.",
+  "RemovedNitroMsg": "Sinut on poistettu nitro-ryhmästä, koska boostisi poistettiin.\nOta yhteyttä ylläpitäjään, jos tämä on ongelma.",
+  "VerifyMsg": "Hei, varmista tunnistautuminen osoitteessa {0} saadaksesi mahtavia palkintoja.",
+  "ThanksMsg": "Olet vahvistanut ja linkittänyt tilisi onnistuneesti. Kiitos!",
+  "SteamNotVerified": "Olet Steam-ryhmässä, mutta et ole vahvistanut itseäsi. Varmista tunnistautuminen nettisivuillamme.",
+  "ThanksNitroMsg": "Olet boostannut Discordimme onnistuneesti. Kiitos!",
+  "RemovedSteamMsg": "Sinut on poistettu Steam Rewards -ryhmästä, koska lähdit Steam-ryhmästä.",
+  "ThanksSteamMsg": "Olet liittynyt Steam-ryhmäämme onnistuneesti. Kiitos!",
+  "NotClient": "Tämä komento on tarkoitettu suoritettavaksi asiakasohjelmasta, ei konsolista.",
+  "OnCooldown": "Olet tällä hetkellä jäähyllä tämän komennon käytöstä.",
+  "NoUsers": "UniversalLink: Vastauksessa ei ole käyttäjiä."
+}

@@ -1,0 +1,15 @@
+{
+  "Usage": "Utilisation :\n/trade playerName\n/trade yes\n/trade no",
+  "NoPending": "Aucun échange en attente.",
+  "RequestAlreadyPending": "Ce joueur a déjà une demande en attente.",
+  "TradeBegins": "L'échange entre {name1} et {name2} commence !",
+  "RequestSent": "Vous avez envoyé une demande d'échange à {name}.",
+  "RequestReceived": "Vous avez reçu une demande d'échange de {name}\nPour accepter : <color=green>/trade yes</color>\nPour refuser : <color=red>/trade no</color>",
+  "TradeCancelled": "L'échange a été annulé.",
+  "CantRightNow": "Vous ne pouvez pas faire cela pour le moment.",
+  "OnlyInBuildingPriv": "Vous ne pouvez échanger que dans votre zone d'autorisation de construction.",
+  "Cooldown": "Vous devez attendre {seconds} secondes avant de pouvoir échanger de nouveau.",
+  "Permission": "Vous n'avez pas l'autorisation de faire cela !",
+  "NoPlayers": "Aucun joueur trouvé avec ce nom ou Steam ID ({name})",
+  "MultiplePlayers": "Plusieurs joueurs portent ce nom :\n{list}"
+}

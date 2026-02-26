@@ -1,0 +1,5 @@
+{
+  "DiscordAdvertisement": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color>\nВас нет на нашем <color=#5865F2>Discord</color> или Вы не прошли верификацию. Пожалуйста, присоединитесь здесь: <color=#ff5c45>https://discord.gg/bestrustservers</color> и выполните процесс привязки.\nВы также можете найти полезную информацию, получить помощь от нашего доброго и активного персонала, пообщаться с нашим сообществом и получить уведомления о наших серверах в <color=#5865F2>Discord</color>.",
+  "GameTipMessage": "<size=14>Вас нет на нашем Discord или Вы не прошли верификацию.</size>\n<size=12>Пожалуйста, присоединитесь здесь и привяжите свой аккаунт:\n<color=#ff5c45>discord.gg/bestrustservers</color></size>",
+  "ChatBlocked": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color>\nВы не можете писать в чат, так как Вас нет на нашем <color=#5865F2>Discord</color> или Вы не прошли верификацию. Пожалуйста, присоединитесь к нашему <color=#5865F2>Discord</color> и пройдите верификацию: <color=#ff5c45>https://discord.gg/bestrustservers</color>"
+}

@@ -1,0 +1,23 @@
+{
+  "PMTo": "[#00FFFF]PW do {0}[/#]: {1}",
+  "PMFrom": "[#00FFFF]PW od {0}[/#]: {1}",
+  "PlayerNotOnline": "{0} nie jest online.",
+  "NotOnlineAnymore": "Osoba, z którą ostatnio rozmawiałeś, nie jest już online.",
+  "NotMessaged": "Nie wysłałeś wiadomości do nikogo lub nikt nie wysłał do ciebie.",
+  "IgnoreYou": "[#FF0000]{0} cię ignoruje i nie może otrzymać twoich PW[/#]",
+  "SelfPM": "Nie możesz wysyłać wiadomości do siebie.",
+  "SyntaxR": "Niepoprawna składnia użyj: /r <wiadomość>",
+  "HistorySyntax": "Niepoprawna składnia użyj: /pmhistory <nazwa>",
+  "SyntaxPM": "Niepoprawna składnia użyj: /{0} <nazwa> <wiadomość>",
+  "NotAllowedToChat": "Nie możesz tutaj czatować",
+  "History": "Twoja Historia:\n{0}",
+  "CooldownMessage": "Będziesz mógł wysłać prywatną wiadomość za {0} sekund",
+  "NoHistory": "Brak zapisanej historii PW z tym graczem.",
+  "CannotFindUser": "Nie można znaleźć tego użytkownika",
+  "CommandDisabled": "To polecenie zostało wyłączone",
+  "IsMuted": "Jesteś obecnie wyciszony i nie możesz wysyłać prywatnych wiadomości",
+  "TargetMuted": "Ta osoba jest wyciszona i nie może otrzymać twojej prywatnej wiadomości",
+  "NoPermission": "Nie masz odpowiednich uprawnień do uruchomienia tego polecenia",
+  "HistoryPM": "[#00FFFF]{0}[/#]: {1}",
+  "Logging": "[PM]{0}->{1}:{2}"
+}

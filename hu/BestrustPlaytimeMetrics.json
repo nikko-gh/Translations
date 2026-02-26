@@ -1,0 +1,4 @@
+{
+  "ModdedMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> Eddig <color=#d9b650>{0} órát</color> játszottál a szervereinken!\n\nJátékidő Jutalmak:\n- Newbie (0 óra) Kezdő kit, Fa Bázis kit\n- Rookie (50 óra) Rookie kit\n- Survivor (100 óra) Kemence és Láda rendező\n- Regular (250 óra) Regular kit\n- Loyal (500 óra) Loyal kit, Képek feltöltése táblákra (/sil)\n- Veteran (750 óra) Várólista Átugrása\n- Warrior (1000 óra) Warrior kit\n- Elite (1500 óra) Elite kit, Skinbox\n- Legend (2000 óra) Legends kit\n- Champion (3000 óra) Champion kit\n- Demigod (5000 óra) Demigod kit\n- God (10000 óra) God kit",
+  "VanillaMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> Eddig <color=#d9b650>{0} órát</color> játszottál a szervereinken!\n\nJátékidő Jutalmak:\n- Veteran (750 óra) Várólista Átugrása"
+}

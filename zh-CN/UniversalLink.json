@@ -1,0 +1,14 @@
+{
+  "ConnectionError": "连接错误。请重试，如果问题仍然存在，请联系管理员。",
+  "RemovedMsg": "由于您取消了账户链接，您已被移出认证组。\n如果您没有取消链接，请联系管理员。",
+  "RemovedNitroMsg": "您已被移出Nitro组，因为您的boost已被移除。\n如果这是个问题，请联系管理员。",
+  "VerifyMsg": "嘿，记得到 {0} 验证以获得一些很棒的奖励。",
+  "ThanksMsg": "您已成功验证并链接账户。感谢！",
+  "SteamNotVerified": "您在Steam组中，但尚未验证。请在我们的网站进行验证。",
+  "ThanksNitroMsg": "您已成功boost我们的Discord。感谢！",
+  "RemovedSteamMsg": "您已因退出Steam组而被移出Steam奖励组。",
+  "ThanksSteamMsg": "您已成功加入我们的Steam组。感谢！",
+  "NotClient": "此指令需从客户端运行，而不是控制台。",
+  "OnCooldown": "您目前正在使用此指令的冷却时间中。",
+  "NoUsers": "UniversalLink: 收到的回复不包含任何用户。"
+}

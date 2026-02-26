@@ -1,0 +1,23 @@
+{
+  "PMTo": "[#00FFFF]私信给 {0}[/#]: {1}",
+  "PMFrom": "[#00FFFF]来自 {0} 的私信[/#]: {1}",
+  "PlayerNotOnline": "{0} 不在线。",
+  "NotOnlineAnymore": "你最后聊天的人已不在线。",
+  "NotMessaged": "你没有发过或收到过任何消息。",
+  "IgnoreYou": "[#FF0000]{0} 正在忽略你，无法接收你的私信[/#]",
+  "SelfPM": "你不能给自己发送消息。",
+  "SyntaxR": "语法错误，使用: /r <消息>",
+  "HistorySyntax": "语法错误，使用: /pmhistory <名字>",
+  "SyntaxPM": "语法错误，使用: /{0} <名字> <消息>",
+  "NotAllowedToChat": "你没有权限在这里聊天",
+  "History": "你的历史记录:\n{0}",
+  "CooldownMessage": "你将在 {0} 秒后可以发送私信",
+  "NoHistory": "没有与此玩家的私信历史记录。",
+  "CannotFindUser": "找不到此用户",
+  "CommandDisabled": "该命令已被禁用",
+  "IsMuted": "你当前被静音，无法发送私信",
+  "TargetMuted": "此人被静音，无法接收你的私信",
+  "NoPermission": "你没有执行此命令的权限",
+  "HistoryPM": "[#00FFFF]{0}[/#]: {1}",
+  "Logging": "[PM]{0}->{1}:{2}"
+}

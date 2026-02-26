@@ -1,0 +1,23 @@
+{
+  "No Permission": "Non hai il permesso di usare questo comando.",
+  "No Reason": "Motivo sconosciuto",
+  "Muted": "{player} è stato mutato: {reason}.",
+  "Muted Time": "{player} è stato mutato per {time}: {reason}.",
+  "Unmuted": "{player} è stato smutato da {initiator}.",
+  "Not Muted": "{player} non è attualmente mutato.",
+  "Mute Expired": "{player} non è più mutato.",
+  "Invalid Time Format": "Formato del tempo non valido. Esempio: 1d2h3m4s = 1 giorno, 2 ore, 3 min, 4 sec",
+  "Nobody Muted": "Al momento non c'è nessuno mutato.",
+  "Invalid Syntax Mute": "/mute <player|steamid> \"[reason]\" [time: 1d1h1m1s]",
+  "Invalid Syntax Unmute": "/unmute <player|steamid>",
+  "Player Name Not Found": "Impossibile trovare un giocatore con il nome '{name}'",
+  "Player ID Not Found": "Impossibile trovare un giocatore con l'ID '{id}'",
+  "Multiple Players Found": "Trovati più giocatori corrispondenti: \n{matches}",
+  "Time Muted Player Joined": "{player} è temporaneamente mutato. Tempo rimanente: {time}",
+  "Time Muted Player Chat": "Non puoi chattare, sei temporaneamente mutato. Tempo rimanente: {time}",
+  "Muted Player Joined": "{player} è mutato permanentemente.",
+  "Muted Player Chat": "Non puoi chattare, sei mutato permanentemente.",
+  "Global Mute Enabled": "Il muto globale è stato attivato. Nessuno può chattare mentre il muto globale è attivo.",
+  "Global Mute Disabled": "Il muto globale è stato disattivato. Tutti possono tornare a chattare.",
+  "Global Mute Active": "Il muto globale è attivo, non puoi chattare."
+}

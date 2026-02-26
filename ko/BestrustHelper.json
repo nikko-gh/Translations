@@ -1,0 +1,7 @@
+{
+  "AdminMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> 도움이 필요하시거나 플레이어를 신고하고 싶다면, 디스코드에서 티켓을 생성해 주세요. 언제나 도와드리겠습니다! <color=#ff5c45>discord.gg/bestrustservers</color>",
+  "LagMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> 렉을 경험하고 계시다면, 디스코드로 알려주시면 최대한 빠르게 해결하겠습니다. 불편을 드려 죄송합니다. <color=#ff5c45>discord.gg/bestrustservers</color>",
+  "BugMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> 버그나 악용 사례를 발견하셨나요? 디스코드로 연락 주시면, 심각도에 따라 보상을 드리겠습니다! <color=#ff5c45>discord.gg/bestrustservers</color>",
+  "ReportMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> 신고해주셔서 감사합니다. 더 빠른 지원과 효율적인 트래킹을 위해, 디스코드에서 티켓을 생성해 주세요: <color=#ff5c45>discord.gg/bestrustservers</color> 저희 팀이 더 효과적으로 도와드릴 수 있습니다.",
+  "ReportToast": "<size=14>신고해주셔서 감사합니다.</size>\n<size=12>더 빠른 지원을 위해, 디스코드에서 티켓을 생성해 주세요.\ndiscord.gg/bestrustservers</size>"
+}

@@ -1,0 +1,12 @@
+{
+  "Error.NoPermission": "Du har inte behörighet att använda detta kommando",
+  "Format.ButtonText": "Sortera",
+  "Format.Category": "<color=#D2691E>Kategori</color>",
+  "Format.Disabled": "<color=#B22222>Avaktiverad</color>",
+  "Format.Enabled": "<color=#228B22>Aktiverad</color>",
+  "Format.Name": "<color=#00BFFF>Namn</color>",
+  "Format.Prefix": "<color=#00FF00>[Sorteringsknapp]</color>: ",
+  "Info.ButtonStatus": "Sorteringsknappen är nu {0}",
+  "Info.SortType": "Sorteringstypen är nu {0}",
+  "Info.Help": "Listkommando:\n<color=#FFFF00>/{0}</color> - Aktivera/Inaktivera sorteringsknapp.\n<color=#FFFF00>/{0} <sort | type></color> - ändra sorteringstyp."
+}

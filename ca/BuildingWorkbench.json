@@ -1,0 +1,5 @@
+{
+  "Chat": "<color=#bebebe>[<color=#de8732>Rang Estès del Banc de Treball</color>] {0}</color>",
+  "Notification": "El rang del teu banc de treball s'ha ampliat per cobrir tota la teva base.",
+  "CraftCanceledV1": "El nivell del teu banc de treball ha canviat. Les creacions que requerien un nivell superior han estat cancel·lades."
+}

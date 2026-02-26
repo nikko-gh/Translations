@@ -1,0 +1,5 @@
+{
+  "DiscordAdvertisement": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color>\nDu är inte på vår <color=#5865F2>Discord</color> eller så är du inte verifierad. Gå med här: <color=#ff5c45>https://discord.gg/bestrustservers</color> och genomför länkprocessen.\nDu kan också hitta användbar info, få hjälp av vår vänliga och aktiva personal, chatta med vår community och få notiser om våra servrar på <color=#5865F2>Discord</color>.",
+  "GameTipMessage": "<size=14>Du är inte på vår Discord eller så är du inte verifierad.</size>\n<size=12>Gå med här och länka dina konton:\n<color=#ff5c45>discord.gg/bestrustservers</color></size>",
+  "ChatBlocked": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color>\nDu kan inte skriva i chatten eftersom du inte är på vår <color=#5865F2>Discord</color> eller inte är verifierad. Gå med på vår <color=#5865F2>Discord</color> och verifiera dig: <color=#ff5c45>https://discord.gg/bestrustservers</color>"
+}

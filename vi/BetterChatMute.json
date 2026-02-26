@@ -1,0 +1,23 @@
+{
+  "No Permission": "Bạn không có quyền sử dụng lệnh này.",
+  "No Reason": "Lý do không xác định",
+  "Muted": "{player} đã bị cấm chat: {reason}.",
+  "Muted Time": "{player} đã bị cấm chat trong {time}: {reason}.",
+  "Unmuted": "{player} đã được bỏ cấm chat bởi {initiator}.",
+  "Not Muted": "{player} hiện không bị cấm chat.",
+  "Mute Expired": "{player} không còn bị cấm chat nữa.",
+  "Invalid Time Format": "Định dạng thời gian không hợp lệ. Ví dụ: 1d2h3m4s = 1 ngày, 2 giờ, 3 phút, 4 giây",
+  "Nobody Muted": "Hiện không có ai bị cấm chat.",
+  "Invalid Syntax Mute": "/mute <player|steamid> \"[reason]\" [time: 1d1h1m1s]",
+  "Invalid Syntax Unmute": "/unmute <player|steamid>",
+  "Player Name Not Found": "Không tìm thấy người chơi với tên '{name}'",
+  "Player ID Not Found": "Không tìm thấy người chơi với ID '{id}'",
+  "Multiple Players Found": "Tìm thấy nhiều người chơi trùng khớp: \n{matches}",
+  "Time Muted Player Joined": "{player} đang bị cấm chat tạm thời. Thời gian còn lại: {time}",
+  "Time Muted Player Chat": "Bạn không thể chat, bạn đang bị cấm chat tạm thời. Thời gian còn lại: {time}",
+  "Muted Player Joined": "{player} đã bị cấm chat vĩnh viễn.",
+  "Muted Player Chat": "Bạn không thể chat, bạn đã bị cấm chat vĩnh viễn.",
+  "Global Mute Enabled": "Tắt tiếng toàn cầu đã được bật. Không ai có thể chat khi tắt tiếng toàn cầu đang hoạt động.",
+  "Global Mute Disabled": "Tắt tiếng toàn cầu đã được tắt. Mọi người có thể chat lại.",
+  "Global Mute Active": "Tắt tiếng toàn cầu đang hoạt động, bạn không thể chat."
+}

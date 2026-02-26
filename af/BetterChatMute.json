@@ -1,0 +1,23 @@
+{
+  "No Permission": "Jy het nie toestemming om hierdie opdrag te gebruik nie.",
+  "No Reason": "Onbekende rede",
+  "Muted": "{player} is gedemp: {reason}.",
+  "Muted Time": "{player} is gedemp vir {time}: {reason}.",
+  "Unmuted": "{player} is ontdemp deur {initiator}.",
+  "Not Muted": "{player} is tans nie gedemp nie.",
+  "Mute Expired": "{player} is nie meer gedemp nie.",
+  "Invalid Time Format": "Ongeldige tydformaat. Voorbeeld: 1d2h3m4s = 1 dag, 2 ure, 3 min, 4 sek",
+  "Nobody Muted": "Daar is niemand tans gedemp nie.",
+  "Invalid Syntax Mute": "/mute <player|steamid> \"[rede]\" [tyd: 1d1h1m1s]",
+  "Invalid Syntax Unmute": "/unmute <player|steamid>",
+  "Player Name Not Found": "Kon nie speler met naam '{name}' vind nie",
+  "Player ID Not Found": "Kon nie speler met ID '{id}' vind nie",
+  "Multiple Players Found": "Meer as een ooreenstemmende speler gevind: \n{matches}",
+  "Time Muted Player Joined": "{player} is tydelik gedemp. Oorblywende tyd: {time}",
+  "Time Muted Player Chat": "Jy mag nie gesels nie, jy is tydelik gedemp. Oorblywende tyd: {time}",
+  "Muted Player Joined": "{player} is permanent gedemp.",
+  "Muted Player Chat": "Jy mag nie gesels nie, jy is permanent gedemp.",
+  "Global Mute Enabled": "Globale demping is geaktiveer. Niemand kan gesels terwyl globale demping aktief is nie.",
+  "Global Mute Disabled": "Globale demping is gedeaktiveer. Almal kan weer gesels.",
+  "Global Mute Active": "Globale demping is aktief, jy mag nie gesels nie."
+}

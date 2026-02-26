@@ -1,0 +1,23 @@
+{
+  "No Permission": "Nincs jogosultságod a parancs használatához.",
+  "No Reason": "Ismeretlen ok",
+  "Muted": "{player} némítva lett: {reason}.",
+  "Muted Time": "{player} némítva lett {time} időre: {reason}.",
+  "Unmuted": "{player} némítása feloldva lett {initiator} által.",
+  "Not Muted": "{player} jelenleg nincs némítva.",
+  "Mute Expired": "{player} némítása lejárt.",
+  "Invalid Time Format": "Érvénytelen időformátum. Példa: 1d2h3m4s = 1 nap, 2 óra, 3 perc, 4 mp",
+  "Nobody Muted": "Jelenleg senki sincs némítva.",
+  "Invalid Syntax Mute": "/mute <player|steamid> \"[ok]\" [idő: 1d1h1m1s]",
+  "Invalid Syntax Unmute": "/unmute <player|steamid>",
+  "Player Name Not Found": "Nem található játékos a névvel: '{name}'",
+  "Player ID Not Found": "Nem található játékos az ID-val: '{id}'",
+  "Multiple Players Found": "Több egyező játékos található: \n{matches}",
+  "Time Muted Player Joined": "{player} átmenetileg némítva van. Hátralévő idő: {time}",
+  "Time Muted Player Chat": "Nem tudsz csevegni, mert átmenetileg némítva vagy. Hátralévő idő: {time}",
+  "Muted Player Joined": "{player} tartósan némítva van.",
+  "Muted Player Chat": "Nem tudsz csevegni, mert tartósan némítva vagy.",
+  "Global Mute Enabled": "Globális némítás aktiválva. Senki sem tud csevegni, amíg a globális némítás aktív.",
+  "Global Mute Disabled": "Globális némítás kikapcsolva. Mindenki újra cseveghet.",
+  "Global Mute Active": "Globális némítás aktív, nem tudsz csevegni."
+}

@@ -1,0 +1,4 @@
+{
+  "ModdedMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> Je hebt tot nu toe <color=#d9b650>{0} uur</color> op onze servers gespeeld!\n\nSpeeltijd Beloningen:\n- Newbie (0 uur) Starter kit, Houten basis kit\n- Rookie (50 uur) Rookie kit\n- Survivor (100 uur) Oven sorteerder, Box sorteerder\n- Regular (250 uur) Regular kit\n- Loyal (500 uur) Loyal kit, Afbeeldingen uploaden naar borden (/sil)\n- Veteran (750 uur) Wachtlijn overslaan\n- Warrior (1000 uur) Warrior kit\n- Elite (1500 uur) Elite kit, Skinbox\n- Legend (2000 uur) Legends kit\n- Champion (3000 uur) Champion kit\n- Demigod (5000 uur) Demigod kit\n- God (10000 uur) God kit",
+  "VanillaMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> Je hebt tot nu toe <color=#d9b650>{0} uur</color> op onze servers gespeeld!\n\nSpeeltijd Beloningen:\n- Veteran (750 uur) Wachtlijn overslaan"
+}

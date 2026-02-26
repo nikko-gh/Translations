@@ -1,0 +1,6 @@
+{
+  "AlreadyHasPermission": "Du trenger ikke bruke denne kommandoen. Du har allerede tillatelse til å hente RustMagic-kitet!",
+  "Cooldown": "Du må vente {0} sekunder før du kan bruke denne kommandoen.",
+  "SuccessMessage": "Du brukte henvisningskoden \"BESTRUST\" på RustMagic.com, så du kan hente RustMagic-kitet!",
+  "FailMessage": "Du må bruke henvisningskoden \"BESTRUST\" på RustMagic.com for å kunne hente RustMagic-kitet."
+}

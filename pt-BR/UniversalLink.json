@@ -1,0 +1,14 @@
+{
+  "ConnectionError": "Houve um erro de conexão. Tente novamente ou entre em contato com um admin se o problema persistir.",
+  "RemovedMsg": "Você foi removido do grupo autenticado porque desvinculou suas contas.\nEntre em contato com um admin se você não desvinculou.",
+  "RemovedNitroMsg": "Você foi removido do grupo nitro porque seu boost foi removido.\nEntre em contato com um admin se isso for um problema.",
+  "VerifyMsg": "Ei, certifique-se de verificar em {0} para receber algumas recompensas incríveis.",
+  "ThanksMsg": "Você verificou e vinculou suas contas com sucesso. Obrigado!",
+  "SteamNotVerified": "Você está no Grupo Steam, mas não está verificado. Por favor, verifique em nosso site.",
+  "ThanksNitroMsg": "Você impulsionou nosso discord com sucesso. Obrigado!",
+  "RemovedSteamMsg": "Você foi removido do grupo Recompensas Steam por sair do Grupo Steam.",
+  "ThanksSteamMsg": "Você entrou no nosso Grupo Steam com sucesso. Obrigado!",
+  "NotClient": "Este comando deve ser executado a partir de um cliente, não do console.",
+  "OnCooldown": "Você está atualmente em espera para usar este comando.",
+  "NoUsers": "UniversalLink: A resposta recebida não contém nenhum usuário."
+}

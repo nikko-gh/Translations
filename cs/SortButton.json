@@ -1,0 +1,12 @@
+{
+  "Error.NoPermission": "Nemáš oprávnění použít tento příkaz",
+  "Format.ButtonText": "Seřadit",
+  "Format.Category": "<color=#D2691E>Kategorie</color>",
+  "Format.Disabled": "<color=#B22222>Vypnuto</color>",
+  "Format.Enabled": "<color=#228B22>Zapnuto</color>",
+  "Format.Name": "<color=#00BFFF>Jméno</color>",
+  "Format.Prefix": "<color=#00FF00>[Tlačítko Seřadit]</color>: ",
+  "Info.ButtonStatus": "Tlačítko Seřadit je nyní {0}",
+  "Info.SortType": "Typ řazení je nyní {0}",
+  "Info.Help": "Seznam příkazů:\n<color=#FFFF00>/{0}</color> - Zapnout/Vypnout Tlačítko Seřadit.\n<color=#FFFF00>/{0} <sort | type></color> - změnit typ řazení."
+}

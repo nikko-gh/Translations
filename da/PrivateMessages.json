@@ -1,0 +1,23 @@
+{
+  "PMTo": "[#00FFFF]PM til {0}[/#]: {1}",
+  "PMFrom": "[#00FFFF]PM fra {0}[/#]: {1}",
+  "PlayerNotOnline": "{0} er ikke online.",
+  "NotOnlineAnymore": "Den sidste person, du talte med, er ikke online længere.",
+  "NotMessaged": "Du har ikke skrevet til nogen, eller de har ikke skrevet til dig.",
+  "IgnoreYou": "[#FF0000]{0} ignorerer dig og kan ikke modtage dine PM'er[/#]",
+  "SelfPM": "Du kan ikke sende beskeder til dig selv.",
+  "SyntaxR": "Forkert syntaks brug: /r <besked>",
+  "HistorySyntax": "Forkert syntaks brug: /pmhistory <navn>",
+  "SyntaxPM": "Forkert syntaks brug: /{0} <navn> <besked>",
+  "NotAllowedToChat": "Du må ikke chatte her",
+  "History": "Din Historik:\n{0}",
+  "CooldownMessage": "Du kan sende en privatbesked om {0} sekunder",
+  "NoHistory": "Der er ingen gemt pm-historik med denne spiller.",
+  "CannotFindUser": "Kan ikke finde denne bruger",
+  "CommandDisabled": "Denne kommando er blevet deaktiveret",
+  "IsMuted": "Du er i øjeblikket mutet og kan ikke sende private beskeder",
+  "TargetMuted": "Denne person er mutet og kan ikke modtage din private besked",
+  "NoPermission": "Du har ikke tilladelse til at bruge denne kommando",
+  "HistoryPM": "[#00FFFF]{0}[/#]: {1}",
+  "Logging": "[PM]{0}->{1}:{2}"
+}

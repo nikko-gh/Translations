@@ -1,0 +1,23 @@
+{
+  "No Permission": "Du har ikke tilladelse til at bruge denne kommando.",
+  "No Reason": "Ukendt årsag",
+  "Muted": "{player} blev muted: {reason}.",
+  "Muted Time": "{player} blev muted i {time}: {reason}.",
+  "Unmuted": "{player} blev unmuted af {initiator}.",
+  "Not Muted": "{player} er ikke muted i øjeblikket.",
+  "Mute Expired": "{player} er ikke længere muted.",
+  "Invalid Time Format": "Ugyldigt tidsformat. Eksempel: 1d2h3m4s = 1 dag, 2 timer, 3 min, 4 sek",
+  "Nobody Muted": "Der er ingen muted lige nu.",
+  "Invalid Syntax Mute": "/mute <player|steamid> \"[reason]\" [time: 1d1h1m1s]",
+  "Invalid Syntax Unmute": "/unmute <player|steamid>",
+  "Player Name Not Found": "Kunne ikke finde spiller med navnet '{name}'",
+  "Player ID Not Found": "Kunne ikke finde spiller med ID '{id}'",
+  "Multiple Players Found": "Flere matchende spillere fundet: \n{matches}",
+  "Time Muted Player Joined": "{player} er midlertidigt muted. Tilbageværende tid: {time}",
+  "Time Muted Player Chat": "Du må ikke chatte, du er midlertidigt muted. Tilbageværende tid: {time}",
+  "Muted Player Joined": "{player} er permanent muted.",
+  "Muted Player Chat": "Du må ikke chatte, du er permanent muted.",
+  "Global Mute Enabled": "Global mute er aktiveret. Ingen kan chatte, mens global mute er aktiv.",
+  "Global Mute Disabled": "Global mute er deaktiveret. Alle kan chatte igen.",
+  "Global Mute Active": "Global mute er aktiv, du må ikke chatte."
+}

@@ -1,0 +1,15 @@
+{
+  "Usage": "Användning:\n/trade playerName\n/trade yes\n/trade no",
+  "NoPending": "Det finns inga väntande byten!",
+  "RequestAlreadyPending": "Den spelaren har redan väntande förfrågningar!",
+  "TradeBegins": "Bytet mellan {name1} och {name2} börjar!",
+  "RequestSent": "Du skickade en bytesförfrågan till {name}",
+  "RequestReceived": "Du fick en bytesförfrågan från {name}\nFör att acceptera: <color=green>/trade yes</color>\nFör att avböja: <color=red>/trade no</color>",
+  "TradeCancelled": "Bytet avbröts",
+  "CantRightNow": "Du kan inte göra det just nu",
+  "OnlyInBuildingPriv": "Du kan bara byta inom din TC-byggnadszon",
+  "Cooldown": "Du måste vänta {seconds} sekunder innan du kan byta igen.",
+  "Permission": "Du har inte behörighet att göra det!",
+  "NoPlayers": "Det finns inga spelare med det namnet eller 'Steam ID' ({name})",
+  "MultiplePlayers": "Det finns flera spelare med det namnet:\n{list}"
+}

@@ -1,0 +1,23 @@
+{
+    "No Permission": "Vous n'avez pas l'autorisation d'utiliser cette commande.",
+    "No Reason": "Raison inconnue",
+    "Muted": "{player} a été réduit au silence : {reason}.",
+    "Muted Time": "{player} a été réduit au silence pendant {time} : {reason}.",
+    "Unmuted": "{player} n'est plus muet grâce à {initiator}.",
+    "Not Muted": "{player} n'est pas muet.",
+    "Mute Expired": "{player} n'est plus muet.",
+    "Invalid Time Format": "Format de durée invalide. Exemple : 1d2h3m4s = 1 jour, 2 heures, 3 min, 4 s",
+    "Nobody Muted": "Aucun joueur n'est actuellement muet.",
+    "Invalid Syntax Mute": "/mute <player|steamid> \"[reason]\" [time: 1d1h1m1s]",
+    "Invalid Syntax Unmute": "/unmute <player|steamid>",
+    "Player Name Not Found": "Impossible de trouver un joueur portant le nom '{name}'",
+    "Player ID Not Found": "Impossible de trouver un joueur avec l'identifiant '{id}'",
+    "Multiple Players Found": "Plusieurs joueurs correspondent :\n{matches}",
+    "Time Muted Player Joined": "{player} est temporairement muet. Temps restant : {time}",
+    "Time Muted Player Chat": "Vous ne pouvez pas discuter, vous êtes temporairement muet. Temps restant : {time}",
+    "Muted Player Joined": "{player} est muet de façon permanente.",
+    "Muted Player Chat": "Vous ne pouvez pas discuter, vous êtes muet de façon permanente.",
+    "Global Mute Enabled": "Le mode muet global a été activé : personne ne peut discuter tant qu'il reste actif.",
+    "Global Mute Disabled": "Le mode muet global a été désactivé : tout le monde peut à nouveau discuter.",
+    "Global Mute Active": "Le mode muet global est actif, vous ne pouvez pas discuter."
+}

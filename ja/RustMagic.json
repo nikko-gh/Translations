@@ -1,0 +1,6 @@
+{
+  "AlreadyHasPermission": "このコマンドを使う必要はありません。RustMagicキットを受け取る権限があります！",
+  "Cooldown": "このコマンドを使用するにはあと{0}秒待つ必要があります。",
+  "SuccessMessage": "RustMagic.comで\"BESTRUST\"紹介コードを使用したので、RustMagicキットを獲得できます！",
+  "FailMessage": "RustMagicキットを獲得するには、RustMagic.comで\"BESTRUST\"紹介コードを使用する必要があります。"
+}

@@ -1,0 +1,23 @@
+{
+  "PMTo": "[#00FFFF]PM {0}lle[/#]: {1}",
+  "PMFrom": "[#00FFFF]PM {0}ltä[/#]: {1}",
+  "PlayerNotOnline": "{0} ei ole verkossa.",
+  "NotOnlineAnymore": "Henkilö, jolle puhuit viimeksi, ei ole enää verkossa.",
+  "NotMessaged": "Et ole lähettänyt tai vastaanottanut viestejä kenenkään kanssa.",
+  "IgnoreYou": "[#FF0000]{0} on estänyt sinut eikä voi vastaanottaa yksityisviestejäsi[/#]",
+  "SelfPM": "Et voi lähettää viestejä itsellesi.",
+  "SyntaxR": "Virheellinen syntaksi, käytä: /r <viesti>",
+  "HistorySyntax": "Virheellinen syntaksi, käytä: /pmhistory <nimi>",
+  "SyntaxPM": "Virheellinen syntaksi, käytä: /{0} <nimi> <viesti>",
+  "NotAllowedToChat": "Sinulla ei ole lupaa jutella täällä",
+  "History": "Historiasi:\n{0}",
+  "CooldownMessage": "Voit lähettää yksityisviestin {0} sekunnin kuluttua",
+  "NoHistory": "Tämän pelaajan kanssa ei ole tallennettua viestihistoriaa.",
+  "CannotFindUser": "Käyttäjää ei löydy",
+  "CommandDisabled": "Tämä komento on poistettu käytöstä",
+  "IsMuted": "Olet tällä hetkellä mykistetty etkä voi lähettää yksityisviestejä",
+  "TargetMuted": "Tämä henkilö on mykistetty eikä voi vastaanottaa yksityisviestiäsi",
+  "NoPermission": "Sinulla ei ole oikeutta suorittaa tätä komentoa",
+  "HistoryPM": "[#00FFFF]{0}[/#]: {1}",
+  "Logging": "[PM]{0}->{1}:{2}"
+}

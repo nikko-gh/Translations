@@ -1,0 +1,23 @@
+{
+  "PMTo": "[#00FFFF]PM til {0}[/#]: {1}",
+  "PMFrom": "[#00FFFF]PM fra {0}[/#]: {1}",
+  "PlayerNotOnline": "{0} er ikke online.",
+  "NotOnlineAnymore": "Den siste personen du snakket med er ikke lenger online.",
+  "NotMessaged": "Du har ikke sendt meldinger til noen eller de har ikke sendt til deg.",
+  "IgnoreYou": "[#FF0000]{0} ignorerer deg og kan ikke motta PMene dine[/#]",
+  "SelfPM": "Du kan ikke sende meldinger til deg selv.",
+  "SyntaxR": "Feil syntaks, bruk: /r <melding>",
+  "HistorySyntax": "Feil syntaks, bruk: /pmhistory <navn>",
+  "SyntaxPM": "Feil syntaks, bruk: /{0} <navn> <melding>",
+  "NotAllowedToChat": "Du har ikke tillatelse til å chatte her",
+  "History": "Din historikk:\n{0}",
+  "CooldownMessage": "Du kan sende en privat melding om {0} sekunder",
+  "NoHistory": "Det er ingen lagret pm-historikk med denne spilleren.",
+  "CannotFindUser": "Kan ikke finne denne brukeren",
+  "CommandDisabled": "Denne kommandoen er deaktivert",
+  "IsMuted": "Du er for øyeblikket dempet og kan ikke sende private meldinger",
+  "TargetMuted": "Denne personen er dempet og kan ikke motta din private melding",
+  "NoPermission": "Du har ikke riktige tillatelser til å kjøre denne kommandoen",
+  "HistoryPM": "[#00FFFF]{0}[/#]: {1}",
+  "Logging": "[PM]{0}->{1}:{2}"
+}

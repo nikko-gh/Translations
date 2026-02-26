@@ -1,0 +1,17 @@
+{
+  "AlreadyOnList": "{0} 已经是你的好友",
+  "CannotAddSelf": "你不能添加自己",
+  "CommandFriend": "friend",
+  "FriendAdded": "{0} 现在是你的好友",
+  "FriendRemoved": "{0} 已从你的好友列表中移除",
+  "FriendList": "好友 {0}:\n{1}",
+  "FriendListFull": "你的好友列表已满",
+  "NoFriends": "你还没有任何好友",
+  "NotAllowed": "你没有权限使用 '{0}' 命令",
+  "NoPlayersFound": "没有找到名为或ID为 '{0}' 的玩家",
+  "NotOnFriendList": "{0} 不在你的好友列表中",
+  "PlayerNotFound": "未找到玩家 '{0}'",
+  "PlayersFound": "找到多个玩家，请指定: {0}",
+  "PlayersOnly": "命令 '{0}' 只能由玩家使用",
+  "UsageFriend": "用法 {0} <add|remove|list> <玩家名或id>"
+}

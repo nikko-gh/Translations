@@ -1,0 +1,12 @@
+{
+  "Error.NoPermission": "Nu ai permisiunea să folosești această comandă",
+  "Format.ButtonText": "Sortare",
+  "Format.Category": "<color=#D2691E>Categorie</color>",
+  "Format.Disabled": "<color=#B22222>Dezactivat</color>",
+  "Format.Enabled": "<color=#228B22>Activat</color>",
+  "Format.Name": "<color=#00BFFF>Nume</color>",
+  "Format.Prefix": "<color=#00FF00>[Buton Sortare]</color>: ",
+  "Info.ButtonStatus": "Butonul Sortare este acum {0}",
+  "Info.SortType": "Tipul de sortare este acum {0}",
+  "Info.Help": "Comenzi Listă:\n<color=#FFFF00>/{0}</color> - Activează/Dezactivează Butonul Sortare.\n<color=#FFFF00>/{0} <sortare | tip></color> - schimbă tipul de sortare."
+}

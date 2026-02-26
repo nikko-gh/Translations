@@ -1,0 +1,17 @@
+{
+  "AlreadyOnList": "{0} ja és el teu amic",
+  "CannotAddSelf": "No et pots afegir a tu mateix",
+  "CommandFriend": "amic",
+  "FriendAdded": "{0} ara és el teu amic",
+  "FriendRemoved": "{0} ha estat eliminat de la teva llista d'amics",
+  "FriendList": "Amics {0}:\n{1}",
+  "FriendListFull": "La teva llista d'amics està plena",
+  "NoFriends": "No tens cap amic",
+  "NotAllowed": "No tens permís per utilitzar la comanda '{0}'",
+  "NoPlayersFound": "No s'ha trobat cap jugador amb el nom o ID '{0}'",
+  "NotOnFriendList": "{0} no s'ha trobat a la teva llista d'amics",
+  "PlayerNotFound": "No s'ha trobat el jugador '{0}'",
+  "PlayersFound": "S'han trobat diversos jugadors, si us plau especifica: {0}",
+  "PlayersOnly": "La comanda '{0}' només la poden usar els jugadors",
+  "UsageFriend": "Ús {0} <add|remove|list> <nom del jugador o id>"
+}

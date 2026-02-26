@@ -1,0 +1,7 @@
+{
+    "AdminMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> צריכים עזרה או רוצים לדווח על שחקן? פתחו טיקט בדיסקורד שלנו ונשמח לעזור! <color=#ff5c45>discord.gg/bestrustservers</color>",
+    "LagMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> חווים לאגים? דווחו לנו בדיסקורד ונפתור את זה בהקדם. מתנצלים על חוסר הנוחות! <color=#ff5c45>discord.gg/bestrustservers</color>",
+    "BugMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> מצאתם באג או אקספלויט? דווחו לנו בדיסקורד ותקבלו פרס בהתאם לחומרה! <color=#ff5c45>discord.gg/bestrustservers</color>",
+    "ReportMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> תודה! לקבלת טיפול מהיר ומעקב טוב יותר, מומלץ לפתוח טיקט בדיסקורד שלנו:<color=#ff5c45>discord.gg/bestrustservers</color> הצוות שלנו יכול להעניק עזרה בצורה יותר יעילה ומהירה שם.",
+    "ReportToast": "<size=14>הדיווח התקבל, תודה.</size>\n<size=12>לקבלת סיוע מהיר, צרו טיקט בדיסקורד שלנו.\ndiscord.gg/bestrustservers</size>"
+}

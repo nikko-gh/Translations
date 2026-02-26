@@ -1,0 +1,12 @@
+{
+  "Error.NoPermission": "ليس لديك الإذن لاستخدام هذا الأمر",
+  "Format.ButtonText": "ترتيب",
+  "Format.Category": "<color=#D2691E>الفئة</color>",
+  "Format.Disabled": "<color=#B22222>معطل</color>",
+  "Format.Enabled": "<color=#228B22>مفعل</color>",
+  "Format.Name": "<color=#00BFFF>الاسم</color>",
+  "Format.Prefix": "<color=#00FF00>[زر الترتيب]</color>: ",
+  "Info.ButtonStatus": "زر الترتيب الآن {0}",
+  "Info.SortType": "نوع الترتيب الآن {0}",
+  "Info.Help": "قائمة الأوامر:\n<color=#FFFF00>/{0}</color> - تفعيل/تعطيل زر الترتيب.\n<color=#FFFF00>/{0} <sort | type></color> - تغيير نوع الترتيب."
+}

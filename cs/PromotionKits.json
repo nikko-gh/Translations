@@ -1,0 +1,7 @@
+{
+  "InvalidCommand": "Neplatný příkaz.",
+  "CheckCommand": "{0} hráčů zatím použilo váš kód a {1} z nich hrálo alespoň 1 hodinu na našich serverech. :)",
+  "Success": "Díky za použití tohoto kódu, můžete si vyzvednout kit pomocí /kitclaim bestrustmain2xserver",
+  "InvalidPromoter": "Nemohu nikoho s názvem {0} najít",
+  "InvalidKit": "Kit nenalezen."
+}

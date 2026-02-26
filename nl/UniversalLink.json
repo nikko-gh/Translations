@@ -1,0 +1,14 @@
+{
+  "ConnectionError": "Er was een verbindingsfout. Probeer het opnieuw, of neem contact op met een admin als het probleem blijft.",
+  "RemovedMsg": "Je bent uit de geauthenticeerde groep verwijderd omdat je je accounts hebt losgekoppeld.\nNeem contact op met een admin als je ze niet hebt losgekoppeld.",
+  "RemovedNitroMsg": "Je bent uit de nitro-groep verwijderd omdat je boost is verwijderd.\nNeem contact op met een admin als dit een probleem is.",
+  "VerifyMsg": "Hoi, zorg ervoor dat je je verifieert op {0} om leuke rewards te ontvangen.",
+  "ThanksMsg": "Je hebt je succesvol geverifieerd en je accounts gelinkt. Dank je!",
+  "SteamNotVerified": "Je bent in de Steam Group, maar je bent niet geverifieerd. Verifieer op onze website.",
+  "ThanksNitroMsg": "Je hebt onze discord succesvol geboost. Dank je!",
+  "RemovedSteamMsg": "Je bent uit de Steam Rewards-groep verwijderd omdat je de Steam Group hebt verlaten.",
+  "ThanksSteamMsg": "Je bent succesvol lid geworden van onze Steam Group. Dank je!",
+  "NotClient": "Deze opdracht is bedoeld om vanuit een client te worden uitgevoerd, niet vanuit de console.",
+  "OnCooldown": "Je hebt momenteel een cooldown voor het gebruik van deze opdracht.",
+  "NoUsers": "UniversalLink: De ontvangen reactie bevat geen gebruikers."
+}

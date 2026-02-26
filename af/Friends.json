@@ -1,0 +1,17 @@
+{
+  "AlreadyOnList": "{0} is reeds jou vriend",
+  "CannotAddSelf": "Jy kan nie jouself byvoeg nie",
+  "CommandFriend": "vriend",
+  "FriendAdded": "{0} is nou jou vriend",
+  "FriendRemoved": "{0} is van jou vriendelys verwyder",
+  "FriendList": "Vriende {0}:\n{1}",
+  "FriendListFull": "Jou vriendelys is vol",
+  "NoFriends": "Jy het geen vriende nie",
+  "NotAllowed": "Jy mag nie die '{0}' opdrag gebruik nie",
+  "NoPlayersFound": "Geen spelers gevind met naam of ID '{0}' nie",
+  "NotOnFriendList": "{0} is nie op jou vriendelys gevind nie",
+  "PlayerNotFound": "Speler '{0}' is nie gevind nie",
+  "PlayersFound": "Meerdere spelers is gevind, spesifiseer asseblief: {0}",
+  "PlayersOnly": "Opdrag '{0}' kan slegs deur spelers gebruik word",
+  "UsageFriend": "Gebruik {0} <add|remove|list> <speler naam of id>"
+}

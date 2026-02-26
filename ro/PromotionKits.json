@@ -1,0 +1,7 @@
+{
+  "InvalidCommand": "Comandă invalidă.",
+  "CheckCommand": "{0} de jucători au folosit codul tău până acum și {1} dintre ei au jucat cel puțin 1 oră pe serverele noastre. :)",
+  "Success": "Mulțumim că ai folosit acest cod, poți revendica kit-ul folosind /kitclaim bestrustmain2xserver",
+  "InvalidPromoter": "Nu am găsit pe nimeni cu numele {0}",
+  "InvalidKit": "Kit-ul nu a fost găsit."
+}

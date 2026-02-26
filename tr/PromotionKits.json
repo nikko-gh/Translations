@@ -1,0 +1,7 @@
+{
+  "InvalidCommand": "Geçersiz komut.",
+  "CheckCommand": "Şimdiye kadar {0} oyuncu kodunu kullandı ve {1} tanesi sunucularımızda en az 1 saat oynadı. :)",
+  "Success": "Bu kodu kullandığınız için teşekkürler, /kitclaim bestrustmain2xserver komutunu kullanarak kiti alabilirsiniz.",
+  "InvalidPromoter": "{0} adlı biri bulunamadı.",
+  "InvalidKit": "Kit bulunamadı."
+}

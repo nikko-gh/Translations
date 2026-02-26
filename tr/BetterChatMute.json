@@ -1,0 +1,23 @@
+{
+  "No Permission": "Bu komutu kullanma izniniz yok.",
+  "No Reason": "Bilinmeyen sebep",
+  "Muted": "{player} susturuldu: {reason}.",
+  "Muted Time": "{player} {time} süreyle susturuldu: {reason}.",
+  "Unmuted": "{player}, {initiator} tarafından susturulması kaldırıldı.",
+  "Not Muted": "{player} şu anda susturulmuş değil.",
+  "Mute Expired": "{player} artık susturulmuş değil.",
+  "Invalid Time Format": "Geçersiz zaman formatı. Örnek: 1d2h3m4s = 1 gün, 2 saat, 3 dakika, 4 saniye",
+  "Nobody Muted": "Şu anda kimse susturulmuş değil.",
+  "Invalid Syntax Mute": "/mute <player|steamid> \"[sebep]\" [süre: 1d1h1m1s]",
+  "Invalid Syntax Unmute": "/unmute <player|steamid>",
+  "Player Name Not Found": "'{name}' adlı oyuncu bulunamadı",
+  "Player ID Not Found": "'{id}' kimlikli oyuncu bulunamadı",
+  "Multiple Players Found": "Birden fazla eşleşen oyuncu bulundu: \n{matches}",
+  "Time Muted Player Joined": "{player} geçici olarak susturuldu. Kalan süre: {time}",
+  "Time Muted Player Chat": "Sohbet edemezsiniz, geçici olarak susturuldunuz. Kalan süre: {time}",
+  "Muted Player Joined": "{player} kalıcı olarak susturuldu.",
+  "Muted Player Chat": "Sohbet edemezsiniz, kalıcı olarak susturuldunuz.",
+  "Global Mute Enabled": "Global susturma etkinleştirildi. Global susturma aktifken kimse sohbet edemez.",
+  "Global Mute Disabled": "Global susturma devre dışı bırakıldı. Herkes tekrar sohbet edebilir.",
+  "Global Mute Active": "Global susturma aktif, sohbet edemezsiniz."
+}

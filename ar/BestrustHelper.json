@@ -1,0 +1,7 @@
+{
+  "AdminMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> إذا كنت بحاجة إلى مساعدة أو ترغب في الإبلاغ عن لاعب، يرجى فتح تذكرة على ديسكورد الخاص بنا. نحن دائمًا سعداء بمساعدتك! <color=#ff5c45>discord.gg/bestrustservers</color>",
+  "LagMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> إذا كنت تعاني من التأخير والتقطيع في اللعبة، يرجى إبلاغنا على ديسكورد، لكي نقوم بحله في أسرع وقت ممكن. نأسف للإزعاج. <color=#ff5c45>discord.gg/bestrustservers</color>",
+  "BugMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> هل وجدت خلل أو ثغرة؟ اتصل بنا على ديسكورد وسنقوم بمكافأتك حسب الخطورة! <color=#ff5c45>discord.gg/bestrustservers</color>",
+  "ReportMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> شكرًا للتقرير. لدعم أسرع وتتبع أفضل، يرجى فتح تذكرة على ديسكورد الخاص بنا: <color=#ff5c45>discord.gg/bestrustservers</color> سيكون فريقنا قادرًا على مساعدتك بشكل أكثر فعالية هناك.",
+  "ReportToast": "<size=14>شكرًا للتقرير.</size>\n<size=12>لدعم أسرع، يرجى إنشاء تذكرة على ديسكورد.\ndiscord.gg/bestrustservers</size>"
+}

@@ -1,0 +1,17 @@
+{
+  "AlreadyOnList": "{0} is al je vriend",
+  "CannotAddSelf": "Je kunt jezelf niet toevoegen",
+  "CommandFriend": "vriend",
+  "FriendAdded": "{0} is nu je vriend",
+  "FriendRemoved": "{0} is verwijderd uit je vriendenlijst",
+  "FriendList": "Vrienden {0}:\n{1}",
+  "FriendListFull": "Je vriendenlijst is vol",
+  "NoFriends": "Je hebt geen vrienden",
+  "NotAllowed": "Je mag het commando '{0}' niet gebruiken",
+  "NoPlayersFound": "Geen spelers gevonden met naam of ID '{0}'",
+  "NotOnFriendList": "{0} niet gevonden op je vriendenlijst",
+  "PlayerNotFound": "Speler '{0}' niet gevonden",
+  "PlayersFound": "Meerdere spelers gevonden, geef specifieker aan: {0}",
+  "PlayersOnly": "Commando '{0}' kan alleen door spelers worden gebruikt",
+  "UsageFriend": "Gebruik {0} <add|remove|list> <spelersnaam of id>"
+}

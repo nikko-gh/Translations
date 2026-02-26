@@ -1,0 +1,4 @@
+{
+  "ModdedMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> 당신은 지금까지 우리 서버에서 <color=#d9b650>{0} 시간</color>동안 플레이하셨습니다!\n\n플레이시간 보상:\n- Newbie (0 시간) 시작 kit, 나무 집 kit\n- Rookie (50 시간) Rookie kit\n- Survivor (100 시간) 화로 정렬기, 박스 정렬기\n- Regular (250 시간) Regular kit\n- Loyal (500 시간) Loyal kit, 간판에 이미지 업로드 (/sil)\n- Veteran (750 시간) 대기열 건너뛰기\n- Warrior (1000 시간) Warrior kit\n- Elite (1500 시간) Elite kit, Skinbox\n- Legend (2000 시간) Legends kit\n- Champion (3000 시간) Champion kit\n- Demigod (5000 시간) Demigod kit\n- God (10000 시간) God kit",
+  "VanillaMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> 당신은 지금까지 우리 서버에서 <color=#d9b650>{0} 시간</color>동안 플레이하셨습니다!\n\n플레이시간 보상:\n- Veteran (750 시간) 대기열 건너뛰기"
+}

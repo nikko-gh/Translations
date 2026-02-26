@@ -1,0 +1,23 @@
+{
+  "No Permission": "У вас нет прав на использование этой команды.",
+  "No Reason": "Неизвестная причина",
+  "Muted": "{player} был замучен: {reason}.",
+  "Muted Time": "{player} замучен на {time}: {reason}.",
+  "Unmuted": "{player} был размучен {initiator}.",
+  "Not Muted": "{player} сейчас не замучен.",
+  "Mute Expired": "{player} больше не замучен.",
+  "Invalid Time Format": "Неверный формат времени. Пример: 1d, 2h, 3m, 4s = 1 день, 2 часа, 3 мин, 4 сек",
+  "Nobody Muted": "В данный момент никто не замучен.",
+  "Invalid Syntax Mute": "/mute <player|steamid> \"[reason]\" [time: 1d1h1m1s]",
+  "Invalid Syntax Unmute": "/unmute <player|steamid>",
+  "Player Name Not Found": "Не удалось найти игрока с именем '{name}'",
+  "Player ID Not Found": "Не удалось найти игрока с ID '{id}'",
+  "Multiple Players Found": "Найдено несколько игроков: \n{matches}",
+  "Time Muted Player Joined": "{player} временно замучен. Оставшееся время: {time}",
+  "Time Muted Player Chat": "Вы не можете писать в чат, вы временно замучены. Оставшееся время: {time}",
+  "Muted Player Joined": "{player} замучен навсегда.",
+  "Muted Player Chat": "Вы не можете писать в чат, вы замучены навсегда.",
+  "Global Mute Enabled": "Глобальное заглушение включено. Никто не может писать в чат, пока включено глобальное заглушение.",
+  "Global Mute Disabled": "Глобальное заглушение отключено. Все снова могут писать в чат.",
+  "Global Mute Active": "Глобальное заглушение активно, вы не можете писать в чат."
+}

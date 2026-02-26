@@ -1,0 +1,12 @@
+{
+  "Error.NoPermission": "Sinulla ei ole lupaa käyttää tätä komentoa",
+  "Format.ButtonText": "Järjestä",
+  "Format.Category": "<color=#D2691E>Kategoria</color>",
+  "Format.Disabled": "<color=#B22222>Ei käytössä</color>",
+  "Format.Enabled": "<color=#228B22>Käytössä</color>",
+  "Format.Name": "<color=#00BFFF>Nimi</color>",
+  "Format.Prefix": "<color=#00FF00>[Järjestä-painike]</color>: ",
+  "Info.ButtonStatus": "Järjestä-painike on nyt {0}",
+  "Info.SortType": "Järjestelytyyppi on nyt {0}",
+  "Info.Help": "Komennot:\n<color=#FFFF00>/{0}</color> - Ota Järjestä-painike käyttöön/pois käytöstä.\n<color=#FFFF00>/{0} <sort | type></color> - vaihda järjestelytyyppiä."
+}

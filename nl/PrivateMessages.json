@@ -1,0 +1,23 @@
+{
+  "PMTo": "[#00FFFF]PM naar {0}[/#]: {1}",
+  "PMFrom": "[#00FFFF]PM van {0}[/#]: {1}",
+  "PlayerNotOnline": "{0} is niet online.",
+  "NotOnlineAnymore": "De laatste persoon met wie je sprak is niet meer online.",
+  "NotMessaged": "Je hebt niemand gestuurd of zij hebben jou niet gestuurd.",
+  "IgnoreYou": "[#FF0000]{0} negeert je en kan je PM's niet ontvangen[/#]",
+  "SelfPM": "Je kunt geen berichten naar jezelf sturen.",
+  "SyntaxR": "Onjuiste syntax gebruik: /r <bericht>",
+  "HistorySyntax": "Onjuiste syntax gebruik: /pmhistory <naam>",
+  "SyntaxPM": "Onjuiste syntax gebruik: /{0} <naam> <bericht>",
+  "NotAllowedToChat": "Je mag hier niet chatten",
+  "History": "Je geschiedenis:\n{0}",
+  "CooldownMessage": "Je kunt over {0} seconden een privébericht sturen",
+  "NoHistory": "Er is geen opgeslagen pm-geschiedenis met deze speler.",
+  "CannotFindUser": "Kan deze gebruiker niet vinden",
+  "CommandDisabled": "Dit commando is uitgeschakeld",
+  "IsMuted": "Je bent momenteel gedempt en kunt geen privéberichten sturen",
+  "TargetMuted": "Deze persoon is gedempt en kan je privébericht niet ontvangen",
+  "NoPermission": "Je hebt niet de juiste permissies om dit commando uit te voeren",
+  "HistoryPM": "[#00FFFF]{0}[/#]: {1}",
+  "Logging": "[PM]{0}->{1}:{2}"
+}

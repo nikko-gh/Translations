@@ -1,0 +1,4 @@
+{
+  "ModdedMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> До сада сте играли <color=#d9b650>{0} сати</color> на нашим серверима!\n\nНаграде за време играња:\n- Почетник (0 сати) Стартни кит, Комплет за дрвену базу\n- Rookie (50 сати) Rookie кит\n- Survivor (100 сати) Пећ за сортирање, Бокс сортер\n- Regular (250 сати) Regular кит\n- Loyal (500 сати) Loyal кит, Отпремање слика на знакове (/sil)\n- Veteran (750 сати) Прескочи чекање\n- Warrior (1000 сати) Warrior кит\n- Elite (1500 сати) Elite кит, Skinbox\n- Legend (2000 сати) Legends кит\n- Champion (3000 сати) Champion кит\n- Demigod (5000 сати) Demigod кит\n- God (10000 сати) God кит",
+  "VanillaMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> До сада сте играли <color=#d9b650>{0} сати</color> на нашим серверима!\n\nНаграде за време играња:\n- Veteran (750 сати) Прескочи чекање"
+}

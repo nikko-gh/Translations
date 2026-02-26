@@ -1,0 +1,23 @@
+{
+  "No Permission": "No tens permís per utilitzar aquesta comanda.",
+  "No Reason": "Raó desconeguda",
+  "Muted": "{player} ha estat silenciat: {reason}.",
+  "Muted Time": "{player} ha estat silenciat durant {time}: {reason}.",
+  "Unmuted": "{player} ha estat desilenciat per {initiator}.",
+  "Not Muted": "{player} actualment no està silenciat.",
+  "Mute Expired": "{player} ja no està silenciat.",
+  "Invalid Time Format": "Format de temps no vàlid. Exemple: 1d2h3m4s = 1 dia, 2 hores, 3 min, 4 seg",
+  "Nobody Muted": "No hi ha ningú silenciat en aquest moment.",
+  "Invalid Syntax Mute": "/mute <player|steamid> \"[reason]\" [time: 1d1h1m1s]",
+  "Invalid Syntax Unmute": "/unmute <player|steamid>",
+  "Player Name Not Found": "No s'ha trobat el jugador amb el nom '{name}'",
+  "Player ID Not Found": "No s'ha trobat el jugador amb l'ID '{id}'",
+  "Multiple Players Found": "S'han trobat diversos jugadors coincidents: \n{matches}",
+  "Time Muted Player Joined": "{player} està silenciat temporalment. Temps restant: {time}",
+  "Time Muted Player Chat": "No pots xatejar, estàs silenciat temporalment. Temps restant: {time}",
+  "Muted Player Joined": "{player} està silenciat permanentment.",
+  "Muted Player Chat": "No pots xatejar, estàs silenciat permanentment.",
+  "Global Mute Enabled": "El silenci global ha estat habilitat. Ningú pot xatejar mentre el silenci global està actiu.",
+  "Global Mute Disabled": "El silenci global ha estat desactivat. Tothom pot tornar a xatejar.",
+  "Global Mute Active": "El silenci global està actiu, no pots xatejar."
+}

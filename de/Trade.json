@@ -1,0 +1,15 @@
+{
+  "Usage": "Verwendung:\n/trade SpielerName\n/trade yes\n/trade no",
+  "NoPending": "Es gibt keine ausstehenden Handelsanfragen!",
+  "RequestAlreadyPending": "Dieser Spieler hat bereits ausstehende Handelsanfragen!",
+  "TradeBegins": "Handel zwischen {name1} und {name2} beginnt!",
+  "RequestSent": "Du hast eine Handelsanfrage an {name} gesendet",
+  "RequestReceived": "Du hast eine Handelsanfrage von {name} erhalten\nZum Annehmen: <color=green>/trade yes</color>\nZum Ablehnen: <color=red>/trade no</color>",
+  "TradeCancelled": "Handel wurde abgebrochen",
+  "CantRightNow": "Das kannst du jetzt nicht tun",
+  "OnlyInBuildingPriv": "Du kannst nur in deiner TC-Bauzone handeln",
+  "Cooldown": "Du musst {seconds} Sekunden warten, bevor du erneut handeln kannst.",
+  "Permission": "Du hast keine Berechtigung dazu!",
+  "NoPlayers": "Es gibt keine Spieler mit diesem 'Name' oder 'Steam ID' ({name})",
+  "MultiplePlayers": "Es gibt mehrere Spieler mit diesem 'Name':\n{list}"
+}

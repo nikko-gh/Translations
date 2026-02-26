@@ -1,0 +1,17 @@
+{
+  "AlreadyOnList": "{0}님은 이미 친구입니다",
+  "CannotAddSelf": "자기 자신은 추가할 수 없습니다",
+  "CommandFriend": "friend",
+  "FriendAdded": "{0}님이 이제 친구입니다",
+  "FriendRemoved": "{0}님을 친구 목록에서 제거했습니다",
+  "FriendList": "친구 {0}:\n{1}",
+  "FriendListFull": "친구 목록이 가득 찼습니다",
+  "NoFriends": "친구가 없습니다",
+  "NotAllowed": "'{0}' 명령어를 사용할 수 없습니다",
+  "NoPlayersFound": "이름이나 ID '{0}'로 플레이어를 찾을 수 없습니다",
+  "NotOnFriendList": "친구 목록에 {0}님이 없습니다",
+  "PlayerNotFound": "플레이어 '{0}'을(를) 찾을 수 없습니다",
+  "PlayersFound": "여러 플레이어가 발견되었습니다. 구체적으로 명시해 주세요: {0}",
+  "PlayersOnly": "'{0}' 명령어는 플레이어만 사용할 수 있습니다",
+  "UsageFriend": "사용법 {0} <add|remove|list> <플레이어 이름 또는 id>"
+}

@@ -1,0 +1,7 @@
+{
+  "InvalidCommand": "無効なコマンドです。",
+  "CheckCommand": "{0} 人のプレイヤーがあなたのコードを使用し、そのうち {1} 人が私たちのサーバーで少なくとも 1 時間プレイしました。 :)",
+  "Success": "このコードを使ってくれてありがとう。/kitclaim bestrustmain2xserver を使ってキットを請求できます。",
+  "InvalidPromoter": "{0} という名前の人が見つかりませんでした。",
+  "InvalidKit": "キットが見つかりません。"
+}

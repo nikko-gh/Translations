@@ -1,0 +1,15 @@
+{  
+  "Usage": "طريقة الاستخدام:\n/trade playerName\n/trade yes\n/trade no",
+  "NoPending": "لا توجد صفقات في انتظار التنفيذ!",
+  "RequestAlreadyPending": "هذا اللاعب لديه طلبات معلقة بالفعل!",
+  "TradeBegins": "تبدأ الصفقة بين {name1} و {name2}!",
+  "RequestSent": "لقد أرسلت طلب صفقة إلى {name}",
+  "RequestReceived": "لقد تلقيت طلب صفقة من {name}\nللقبول: <color=green>/trade yes</color>\nللرفض: <color=red>/trade no</color>",
+  "TradeCancelled": "تم إلغاء الصفقة",
+  "CantRightNow": "لا يمكنك القيام بذلك الآن",
+  "OnlyInBuildingPriv": "يمكنك القيام بالصفقات فقط داخل منطقة بناء TC الخاصة بك",
+  "Cooldown": "عليك الانتظار {seconds} ثانية قبل التداول مرة أخرى.",
+  "Permission": "ليس لديك إذن للقيام بذلك!",
+  "NoPlayers": "لا يوجد لاعبون بهذا 'الاسم' أو 'Steam ID' ({name})",
+  "MultiplePlayers": "هناك عدة لاعبين بهذا 'الاسم':\n{list}"
+}

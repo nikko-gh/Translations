@@ -1,0 +1,4 @@
+{
+  "ModdedMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> שיחקת אצלנו <color=#d9b650>{0} שעות</color> עד כה!\n\nפרסי זמן משחק:\n- Newbie (0 שעות): ערכת התחלה + ערכת בסיס מעץ\n- Rookie (50 שעות): ערכת Rookie\n- Survivor (100 שעות): ממיין תנורים + ממיין תיבות\n- Regular (250 שעות): ערכת Regular\n- Loyal (500 שעות): ערכת Loyal + אפשרות העלאת תמונות לשלטים (/sil)\n- Veteran (750 שעות): עקיפת תור\n- Warrior (1000 שעות): ערכת Warrior\n- Elite (1500 שעות): ערכת Elite + Skinbox\n- Legend (2000 שעות): ערכת Legend\n- Champion (3000 שעות): ערכת Champion\n- Demigod (5000 שעות): ערכת Demigod\n- God (10000 שעות): ערכת God",
+  "VanillaMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> שיחקת אצלנו <color=#d9b650>{0} שעות</color> עד כה!\n\nפרסי זמן משחק:\n- Veteran (750 שעות): עקיפת תור"
+}

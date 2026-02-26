@@ -1,0 +1,4 @@
+{
+  "ModdedMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> 你在我们的服务器上已经玩了 <color=#d9b650>{0} 小时</color>！\n\n游戏时间奖励:\n- 新手 (0 小时) 新手包, 木制基地包\n- Rookie (50 小时) Rookie kit\n- Survivor (100 小时) 熔炉分类器, 箱子分类器\n- Regular (250 小时) Regular kit\n- Loyal (500 小时) Loyal kit, 上传图像到标志 (/sil)\n- Veteran (750 小时) 跳过等待队列\n- Warrior (1000 小时) Warrior kit\n- Elite (1500 小时) Elite kit, Skinbox\n- Legend (2000 小时) Legends kit\n- Champion (3000 小时) Champion kit\n- Demigod (5000 小时) Demigod kit\n- God (10000 小时) God kit",
+  "VanillaMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> 你在我们的服务器上已经玩了 <color=#d9b650>{0} 小时</color>！\n\n游戏时间奖励:\n- Veteran (750 小时) 跳过等待队列"
+}

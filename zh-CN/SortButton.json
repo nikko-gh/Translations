@@ -1,0 +1,12 @@
+{
+  "Error.NoPermission": "你没有权限使用这个命令",
+  "Format.ButtonText": "排序",
+  "Format.Category": "<color=#D2691E>分类</color>",
+  "Format.Disabled": "<color=#B22222>已禁用</color>",
+  "Format.Enabled": "<color=#228B22>已启用</color>",
+  "Format.Name": "<color=#00BFFF>名称</color>",
+  "Format.Prefix": "<color=#00FF00>[排序按钮]</color>: ",
+  "Info.ButtonStatus": "排序按钮现在是 {0}",
+  "Info.SortType": "排序类型现在是 {0}",
+  "Info.Help": "命令列表:\n<color=#FFFF00>/{0}</color> - 启用/禁用排序按钮。\n<color=#FFFF00>/{0} <sort | type></color> - 更改排序类型。"
+}

@@ -1,0 +1,15 @@
+{
+  "Usage": "Gebruik:\n/trade spelerNaam\n/trade yes\n/trade no",
+  "NoPending": "Er staan geen ruilverzoeken open!",
+  "RequestAlreadyPending": "Die speler heeft al openstaande verzoeken!",
+  "TradeBegins": "Ruil tussen {name1} en {name2} begint!",
+  "RequestSent": "Je hebt een ruilverzoek gestuurd naar {name}",
+  "RequestReceived": "Je hebt een ruilverzoek ontvangen van {name}\nAccepteren: <color=green>/trade yes</color>\nWeigeren: <color=red>/trade no</color>",
+  "TradeCancelled": "Ruil is geannuleerd",
+  "CantRightNow": "Dat kun je nu niet doen",
+  "OnlyInBuildingPriv": "Je kunt alleen ruilen binnen je TC-gebouwzone",
+  "Cooldown": "Je moet {seconds} seconden wachten voordat je weer kunt ruilen.",
+  "Permission": "Je hebt geen toestemming om dat te doen!",
+  "NoPlayers": "Er zijn geen spelers met die 'Naam' of 'Steam ID' ({name})",
+  "MultiplePlayers": "Er zijn meerdere spelers met die 'Naam':\n{list}"
+}

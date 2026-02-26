@@ -1,0 +1,12 @@
+{
+  "Error.NoPermission": "Non hai il permesso di usare questo comando",
+  "Format.ButtonText": "Ordina",
+  "Format.Category": "<color=#D2691E>Categoria</color>",
+  "Format.Disabled": "<color=#B22222>Disabilitato</color>",
+  "Format.Enabled": "<color=#228B22>Abilitato</color>",
+  "Format.Name": "<color=#00BFFF>Nome</color>",
+  "Format.Prefix": "<color=#00FF00>[Pulsante Ordina]</color>: ",
+  "Info.ButtonStatus": "Il Pulsante Ordina è ora {0}",
+  "Info.SortType": "Il Tipo di Ordinamento è ora {0}",
+  "Info.Help": "Comandi Lista:\n<color=#FFFF00>/{0}</color> - Abilita/Disabilita Pulsante Ordina.\n<color=#FFFF00>/{0} <sort | type></color> - cambia tipo di ordinamento."
+}

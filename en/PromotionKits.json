@@ -1,0 +1,7 @@
+{
+  "InvalidCommand": "Invalid command.",
+  "CheckCommand": "{0} players used your code so far and {1} of them played for at least 1 hour on our servers. :)",
+  "Success": "Thanks for using this code, you can claim the kit by using /kitclaim bestrustmain2xserver",
+  "InvalidPromoter": "I couldn't find anyone named {0}",
+  "InvalidKit": "Kit not found."
+}

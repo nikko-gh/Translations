@@ -1,0 +1,15 @@
+{
+  "Usage": "Kullanım:\n/trade oyuncuAdı\n/trade yes\n/trade no",
+  "NoPending": "Bekleyen takas yok!",
+  "RequestAlreadyPending": "Bu oyuncunun zaten bekleyen istekleri var!",
+  "TradeBegins": "{name1} ve {name2} arasında takas başlıyor!",
+  "RequestSent": "{name} adlı oyuncuya takas isteği gönderdiniz",
+  "RequestReceived": "{name} adlı oyuncudan takas isteği aldınız\nKabul etmek için: <color=green>/trade yes</color>\nReddetmek için: <color=red>/trade no</color>",
+  "TradeCancelled": "Takas iptal edildi",
+  "CantRightNow": "Şu anda bunu yapamazsınız",
+  "OnlyInBuildingPriv": "Sadece alet dolabınızın olduğu yerde takas yapabilirsiniz",
+  "Cooldown": "Yeniden takas yapabilmek için {seconds} saniye beklemelisiniz.",
+  "Permission": "Bunu yapmak için izniniz yok!",
+  "NoPlayers": "Bu 'Ad' ya da 'Steam ID' ({name}) ile oyuncu yok",
+  "MultiplePlayers": "Bu 'Ad' ile birden fazla oyuncu var:\n{list}"
+}

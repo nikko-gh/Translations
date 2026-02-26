@@ -1,0 +1,12 @@
+{
+  "Error.NoPermission": "Vous n'avez pas la permission d'utiliser cette commande",
+  "Format.ButtonText": "Trier",
+  "Format.Category": "<color=#D2691E>Catégorie</color>",
+  "Format.Disabled": "<color=#B22222>Désactivé</color>",
+  "Format.Enabled": "<color=#228B22>Activé</color>",
+  "Format.Name": "<color=#00BFFF>Nom</color>",
+  "Format.Prefix": "<color=#00FF00>[Bouton de Tri]</color>: ",
+  "Info.ButtonStatus": "Bouton de Tri est maintenant {0}",
+  "Info.SortType": "Le type de tri est maintenant {0}",
+  "Info.Help": "Commandes de liste :\n<color=#FFFF00>/{0}</color> - Activer/Désactiver le Bouton de Tri.\n<color=#FFFF00>/{0} <sort | type></color> - changer le type de tri."
+}

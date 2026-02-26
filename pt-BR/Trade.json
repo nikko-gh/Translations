@@ -1,0 +1,15 @@
+{
+  "Usage": "Como usar:\n/trade playerName\n/trade yes\n/trade no",
+  "NoPending": "Não há trocas pendentes!",
+  "RequestAlreadyPending": "Esse jogador já possui solicitações pendentes!",
+  "TradeBegins": "A troca entre {name1} e {name2} começou!",
+  "RequestSent": "Você enviou uma solicitação de troca para {name}",
+  "RequestReceived": "Você recebeu uma solicitação de troca de {name}\nPara aceitar: <color=green>/trade yes</color>\nPara recusar: <color=red>/trade no</color>",
+  "TradeCancelled": "A troca foi cancelada",
+  "CantRightNow": "Você não pode fazer isso agora",
+  "OnlyInBuildingPriv": "Você só pode trocar dentro da zona de construção do seu TC",
+  "Cooldown": "Você precisa esperar {seconds} segundos antes de trocar novamente.",
+  "Permission": "Você não tem permissão para fazer isso!",
+  "NoPlayers": "Não há jogadores com esse 'Nome' ou 'Steam ID' ({name})",
+  "MultiplePlayers": "Há vários jogadores com esse 'Nome':\n{list}"
+}

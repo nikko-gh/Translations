@@ -1,0 +1,4 @@
+{
+  "NoSpaceMessage": "你的库存空间不足！",
+  "NoSpaceToast": "你的库存空间不足！\n<size=10>购买数量已减少。</color>"
+}

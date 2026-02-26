@@ -1,0 +1,15 @@
+{
+  "Usage": "Brug:\n/trade playerName\n/trade yes\n/trade no",
+  "NoPending": "Der er ingen ventende handler!",
+  "RequestAlreadyPending": "Den spiller har allerede ventende anmodninger!",
+  "TradeBegins": "Handel mellem {name1} og {name2} starter!",
+  "RequestSent": "Du sendte handelsanmodning til {name}",
+  "RequestReceived": "Du modtog en handelsanmodning fra {name}\nFor at acceptere: <color=green>/trade yes</color>\nFor at afvise: <color=red>/trade no</color>",
+  "TradeCancelled": "Handel blev annulleret",
+  "CantRightNow": "Du kan ikke gøre det lige nu",
+  "OnlyInBuildingPriv": "Du kan kun handle inde i din TC bygningszone",
+  "Cooldown": "Du skal vente {seconds} sekunder før du kan handle igen.",
+  "Permission": "Du har ikke tilladelse til det!",
+  "NoPlayers": "Der er ingen spillere med det 'Navn' eller 'Steam ID' ({name})",
+  "MultiplePlayers": "Der er flere spillere med det 'Navn':\n{list}"
+}

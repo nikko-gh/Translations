@@ -1,0 +1,14 @@
+{
+  "ConnectionError": "Đã xảy ra lỗi kết nối. Vui lòng thử lại hoặc liên hệ admin nếu vấn đề này tiếp tục.",
+  "RemovedMsg": "Bạn đã bị xóa khỏi nhóm xác thực vì đã hủy liên kết tài khoản.\nLiên hệ admin nếu bạn không hủy liên kết.",
+  "RemovedNitroMsg": "Bạn đã bị xóa khỏi nhóm nitro vì boost của bạn đã bị hủy.\nLiên hệ admin nếu đây là vấn đề.",
+  "VerifyMsg": "Chào, hãy chắc chắn bạn xác thực tại {0} để nhận được những phần thưởng tuyệt vời.",
+  "ThanksMsg": "Bạn đã xác thực và liên kết tài khoản thành công. Cảm ơn!",
+  "SteamNotVerified": "Bạn thuộc Nhóm Steam, nhưng chưa xác thực. Vui lòng xác thực tại trang web của chúng tôi.",
+  "ThanksNitroMsg": "Bạn đã boost discord của chúng tôi thành công. Cảm ơn!",
+  "RemovedSteamMsg": "Bạn đã bị xóa khỏi nhóm Phần Thưởng Steam vì đã rời Nhóm Steam.",
+  "ThanksSteamMsg": "Bạn đã tham gia Nhóm Steam của chúng tôi thành công. Cảm ơn!",
+  "NotClient": "Lệnh này chỉ dành để chạy từ máy khách, không phải từ bảng điều khiển.",
+  "OnCooldown": "Bạn hiện đang trong thời gian chờ để sử dụng lại lệnh này.",
+  "NoUsers": "UniversalLink: Phản hồi nhận được không chứa người dùng nào."
+}

@@ -1,0 +1,6 @@
+{
+  "AlreadyHasPermission": "ليس عليك استخدام هذا الأمر. لديك بالفعل الإذن بالمطالبة بـ RustMagic kit!",
+  "Cooldown": "عليك الانتظار {0} ثانية قبل أن تتمكن من استخدام هذا الأمر.",
+  "SuccessMessage": "لقد استخدمت كود الإحالة \"BESTRUST\" على RustMagic.com، لذا يمكنك المطالبة بـ RustMagic kit!",
+  "FailMessage": "عليك استخدام كود الإحالة \"BESTRUST\" على RustMagic.com لتتمكن من المطالبة بـ RustMagic kit."
+}

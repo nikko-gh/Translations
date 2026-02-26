@@ -1,0 +1,14 @@
+{
+  "ConnectionError": "Došlo k chybě připojení. Zkuste to prosím znovu nebo kontaktujte administrátora, pokud problém přetrvává.",
+  "RemovedMsg": "Byl jsi odebrán z autentizované skupiny, protože jsi odpojil své účty.\nKontaktuj administrátora, pokud jsi neodpojil.",
+  "RemovedNitroMsg": "Byl jsi odebrán z nitro skupiny, protože tvůj boost byl odebrán.\nKontaktuj administrátora, pokud je to problém.",
+  "VerifyMsg": "Ahoj, nezapomeň se ověřit na {0}, aby ses dostal k úžasným odměnám.",
+  "ThanksMsg": "Úspěšně jsi ověřil a propojil své účty. Děkujeme!",
+  "SteamNotVerified": "Jsi v Steam skupině, ale nejsi ověřený. Prosím ověř se na našem webu.",
+  "ThanksNitroMsg": "Úspěšně jsi boostnul náš Discord. Díky!",
+  "RemovedSteamMsg": "Byl jsi odebrán ze skupiny Steam Rewards, protože jsi opustil Steam skupinu.",
+  "ThanksSteamMsg": "Úspěšně jsi se přidal do naší Steam skupiny. Díky!",
+  "NotClient": "Tento příkaz by měl být spuštěn z klienta, ne z konzole.",
+  "OnCooldown": "Právě máš pauzu na používání tohoto příkazu.",
+  "NoUsers": "UniversalLink: Odpověď neobsahuje žádné uživatele."
+}

@@ -1,0 +1,5 @@
+{
+  "Permission": "Vous n'avez pas la permission d'utiliser cette commande",
+  "Tags.Disabled": "Vous avez désactivé vos tags dans le chat.",
+  "Tags.Enabled": "Vous avez activé vos tags. Ils seront maintenant visibles dans le chat."
+}

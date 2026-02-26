@@ -1,0 +1,23 @@
+{
+  "PMTo": "[#00FFFF]Privát üzenet {0}-nak/nek[/#]: {1}",
+  "PMFrom": "[#00FFFF]Privát üzenet {0}-tól/től[/#]: {1}",
+  "PlayerNotOnline": "{0} nincs online.",
+  "NotOnlineAnymore": "Az utolsó személy, akivel beszéltél, már nincs online.",
+  "NotMessaged": "Még senkinek sem küldtél, vagy tőled nem kaptál üzenetet.",
+  "IgnoreYou": "[#FF0000]{0} ignorál téged, és nem tud üzenetet fogadni tőled[/#]",
+  "SelfPM": "Nem küldhetsz üzenetet magadnak.",
+  "SyntaxR": "Helytelen szintaxis, használd: /r <üzenet>",
+  "HistorySyntax": "Helytelen szintaxis, használd: /pmhistory <név>",
+  "SyntaxPM": "Helytelen szintaxis, használd: /{0} <név> <üzenet>",
+  "NotAllowedToChat": "Nincs engedélyed itt csevegni",
+  "History": "Az előzményeid:\n{0}",
+  "CooldownMessage": "{0} másodperc múlva küldhetsz privát üzenetet",
+  "NoHistory": "Nincs mentett privát üzenet előzmény ezzel a játékossal.",
+  "CannotFindUser": "Nem található a felhasználó",
+  "CommandDisabled": "Ez a parancs le lett tiltva",
+  "IsMuted": "Jelenleg el vagy némítva, és nem küldhetsz privát üzenetet",
+  "TargetMuted": "Ez a személy el van némítva, és nem tud privát üzenetet fogadni",
+  "NoPermission": "Nincs megfelelő jogosultságod ennek a parancsnak a futtatásához",
+  "HistoryPM": "[#00FFFF]{0}[/#]: {1}",
+  "Logging": "[PM]{0}->{1}:{2}"
+}

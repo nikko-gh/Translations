@@ -1,0 +1,23 @@
+{
+  "No Permission": "このコマンドを使う権限がありません。",
+  "No Reason": "理由不明",
+  "Muted": "{player} はミュートされました: {reason}。",
+  "Muted Time": "{player} は {time} ミュートされました: {reason}。",
+  "Unmuted": "{player} のミュートを {initiator} が解除しました。",
+  "Not Muted": "{player} は現在ミュートされていません。",
+  "Mute Expired": "{player} のミュートは終了しました。",
+  "Invalid Time Format": "時間の形式が無効です。例: 1d2h3m4s = 1日、2時間、3分、4秒",
+  "Nobody Muted": "現在ミュートされている人はいません。",
+  "Invalid Syntax Mute": "/mute <player|steamid> \"[理由]\" [期間: 1d1h1m1s]",
+  "Invalid Syntax Unmute": "/unmute <player|steamid>",
+  "Player Name Not Found": "名前が '{name}' のプレイヤーが見つかりませんでした。",
+  "Player ID Not Found": "IDが '{id}' のプレイヤーが見つかりませんでした。",
+  "Multiple Players Found": "複数の一致するプレイヤーが見つかりました: \n{matches}",
+  "Time Muted Player Joined": "{player} は一時的にミュートされています。残り時間: {time}",
+  "Time Muted Player Chat": "チャットできません。一時的にミュートされています。残り時間: {time}",
+  "Muted Player Joined": "{player} は永久にミュートされています。",
+  "Muted Player Chat": "チャットできません。永久にミュートされています。",
+  "Global Mute Enabled": "グローバルミュートが有効になりました。グローバルミュートが有効な間は誰もチャットできません。",
+  "Global Mute Disabled": "グローバルミュートが解除されました。全員が再びチャットできます。",
+  "Global Mute Active": "グローバルミュート中のため、チャットできません。"
+}

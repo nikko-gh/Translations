@@ -1,0 +1,6 @@
+{
+  "AlreadyHasPermission": "Bạn không cần phải sử dụng lệnh này. Bạn đã có quyền nhận kit RustMagic rồi!",
+  "Cooldown": "Bạn phải đợi {0} giây để có thể sử dụng lệnh này.",
+  "SuccessMessage": "Bạn đã sử dụng mã giới thiệu \"BESTRUST\" trên RustMagic.com, vì vậy bạn đủ điều kiện để nhận kit RustMagic!",
+  "FailMessage": "Bạn phải sử dụng mã giới thiệu \"BESTRUST\" trên RustMagic.com để có thể nhận kit RustMagic."
+}

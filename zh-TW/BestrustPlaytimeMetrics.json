@@ -1,0 +1,4 @@
+{
+  "ModdedMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> 你在我們的伺服器上已經玩了 <color=#d9b650>{0} 小時</color>！\n\n遊戲時間獎勵:\n- Newbie (0 小時) 新手包，木製基地包\n- Rookie (50 小時) Rookie 包\n- Survivor (100 小時) 高爐排序器，箱子排序器\n- Regular (250 小時) Regular 包\n- Loyal (500 小時) Loyal 包，上傳圖片到標誌 (/sil)\n- Veteran (750 小時) 跳過等待線\n- Warrior (1000 小時) Warrior 包\n- Elite (1500 小時) Elite 包，Skinbox\n- Legend (2000 小時) Legend 包\n- Champion (3000 小時) Champion 包\n- Demigod (5000 小時) Demigod 包\n- God (10000 小時) God 包",
+  "VanillaMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> 你在我們的伺服器上已經玩了 <color=#d9b650>{0} 小時</color>！\n\n遊戲時間獎勵:\n- Veteran (750 小時) 跳過等待線"
+}

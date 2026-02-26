@@ -1,0 +1,4 @@
+{
+  "ModdedMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> Du har spilt <color=#d9b650>{0} timer</color> på våre servere så langt!\n\nTidspille-belønninger:\n- Newbie (0 timer) Starter kit, Trebase kit\n- Rookie (50 timer) Rookie kit\n- Survivor (100 timer) Ovn-sorterer, Bokssorterer\n- Regular (250 timer) Regular kit\n- Loyal (500 timer) Loyal kit, Last opp bilder til skilt (/sil)\n- Veteran (750 timer) Hopp over ventekø\n- Warrior (1000 timer) Warrior kit\n- Elite (1500 timer) Elite kit, Skinbox\n- Legend (2000 timer) Legends kit\n- Champion (3000 timer) Champion kit\n- Demigod (5000 timer) Demigod kit\n- God (10000 timer) God kit",
+  "VanillaMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> Du har spilt <color=#d9b650>{0} timer</color> på våre servere så langt!\n\nTidspille-belønninger:\n- Veteran (750 timer) Hopp over ventekø"
+}

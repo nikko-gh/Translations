@@ -1,0 +1,17 @@
+{
+  "AlreadyOnList": "{0} már a barátod",
+  "CannotAddSelf": "Nem adhatod hozzá magad",
+  "CommandFriend": "friend",
+  "FriendAdded": "{0} most már a barátod",
+  "FriendRemoved": "{0} eltávolítva a barátlistádról",
+  "FriendList": "Barátok {0}:\n{1}",
+  "FriendListFull": "A barátlistád megtelt",
+  "NoFriends": "Nincsenek barátaid",
+  "NotAllowed": "Nincs jogosultságod a '{0}' parancs használatára",
+  "NoPlayersFound": "Nincs ilyen nevű vagy azonosítójú játékos: '{0}'",
+  "NotOnFriendList": "{0} nem található a barátlistádon",
+  "PlayerNotFound": "Játékos nem található: '{0}'",
+  "PlayersFound": "Több játékos is van, kérlek pontosítsd: {0}",
+  "PlayersOnly": "A '{0}' parancsot csak játékosok használhatják",
+  "UsageFriend": "Használat {0} <add|remove|list> <játékos neve vagy azonosítója>"
+}

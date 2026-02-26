@@ -1,0 +1,17 @@
+{
+  "AlreadyOnList": "{0} este deja prietenul tău",
+  "CannotAddSelf": "Nu te poți adăuga singur",
+  "CommandFriend": "prieten",
+  "FriendAdded": "{0} este acum prietenul tău",
+  "FriendRemoved": "{0} a fost eliminat din lista ta de prieteni",
+  "FriendList": "Prieteni {0}:\n{1}",
+  "FriendListFull": "Lista ta de prieteni este plină",
+  "NoFriends": "Nu ai niciun prieten",
+  "NotAllowed": "Nu ai permisiunea de a folosi comanda '{0}'",
+  "NoPlayersFound": "Nu au fost găsiți jucători cu numele sau ID-ul '{0}'",
+  "NotOnFriendList": "{0} nu a fost găsit pe lista ta de prieteni",
+  "PlayerNotFound": "Jucătorul '{0}' nu a fost găsit",
+  "PlayersFound": "Au fost găsiți mai mulți jucători, te rugăm să specifici: {0}",
+  "PlayersOnly": "Comanda '{0}' poate fi folosită doar de jucători",
+  "UsageFriend": "Utilizare {0} <add|remove|list> <nume jucător sau id>"
+}

@@ -1,0 +1,12 @@
+{
+  "Error.NoPermission": "אין לך הרשאה להשתמש בפקודה הזו",
+  "Format.ButtonText": "מיון",
+  "Format.Category": "<color=#D2691E>קטגוריה</color>",
+  "Format.Disabled": "<color=#B22222>כבוי</color>",
+  "Format.Enabled": "<color=#228B22>פעיל</color>",
+  "Format.Name": "<color=#00BFFF>שם</color>",
+  "Format.Prefix": "<color=#00FF00>[כפתור מיון]</color>: ",
+  "Info.ButtonStatus": "כפתור המיון כעת במצב {0}",
+  "Info.SortType": "סוג המיון הנוכחי: {0}",
+  "Info.Help": "פקודות זמינות:\n<color=#FFFF00>/{0}</color> - הפעלה/כיבוי של כפתור המיון.\n<color=#FFFF00>/{0} <sort | type></color> - שינוי סוג המיון."
+}

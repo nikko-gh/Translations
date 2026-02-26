@@ -1,0 +1,7 @@
+{
+  "InvalidCommand": "Comandament invàlid.",
+  "CheckCommand": "{0} jugadors han utilitzat el teu codi fins ara i {1} d'ells han jugat almenys 1 hora als nostres servidors. :)",
+  "Success": "Gràcies per utilitzar aquest codi, pots reclamar el kit fent servir /kitclaim bestrustmain2xserver",
+  "InvalidPromoter": "No he trobat ningú anomenat {0}",
+  "InvalidKit": "Kit no trobat."
+}

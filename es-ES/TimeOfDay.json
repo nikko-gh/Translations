@@ -1,0 +1,9 @@
+{
+  "SettingsHeader": "-------- Configuración --------",
+  "CurrentTime": "Hora Actual",
+  "SunriseHour": "Hora del Amanecer",
+  "SunsetHour": "Hora del Anochecer",
+  "DayLength": "Duración del Día",
+  "NightLength": "Duración de la Noche",
+  "Minutes": "minutos"
+}

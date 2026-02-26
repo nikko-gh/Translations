@@ -1,0 +1,14 @@
+{
+  "ConnectionError": "Une erreur de connexion s'est produite. Réessayez ou contactez un administrateur si le problème persiste.",
+  "RemovedMsg": "Vous avez été retiré du groupe authentifié parce que vos comptes ont été déliés.\nContactez un administrateur si ce n'est pas le cas.",
+  "RemovedNitroMsg": "Vous avez été retiré du groupe Nitro car votre boost a été supprimé.\nContactez un administrateur si nécessaire.",
+  "VerifyMsg": "Bonjour, pensez à vous vérifier sur {0} pour recevoir de super récompenses.",
+  "ThanksMsg": "Vos comptes ont été vérifiés et liés avec succès. Merci !",
+  "SteamNotVerified": "Vous faites partie du groupe Steam mais vous n'êtes pas vérifié. Veuillez compléter la vérification sur notre site.",
+  "ThanksNitroMsg": "Merci d'avoir boosté notre Discord.",
+  "RemovedSteamMsg": "Vous avez été retiré du groupe de récompenses Steam pour avoir quitté le groupe Steam.",
+  "ThanksSteamMsg": "Vous avez rejoint notre groupe Steam avec succès. Merci !",
+  "NotClient": "Cette commande doit être exécutée depuis le client, pas depuis la console.",
+  "OnCooldown": "Vous devez patienter avant de réutiliser cette commande.",
+  "NoUsers": "UniversalLink : aucune donnée d'utilisateur reçue."
+}

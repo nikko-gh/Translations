@@ -1,0 +1,4 @@
+{
+  "Enabled": "Bảo vệ chống đột kích ngoại tuyến hiện đang kích hoạt.\nBạn chỉ có thể đột kích từ 13:00 đến 23:59 CET.",
+  "Disabled": "Bảo vệ chống đột kích ngoại tuyến không còn hoạt động.\nBạn có thể đột kích đến 23:59 CET."
+}

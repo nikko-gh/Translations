@@ -1,0 +1,5 @@
+{
+  "Chat": "<color=#bebebe>[<color=#de8732>Rango Extendido del Banco de Trabajo</color>] {0}</color>",
+  "Notification": "El rango de tu banco de trabajo ha sido aumentado para cubrir toda tu base.",
+  "CraftCanceledV1": "El nivel de tu banco de trabajo ha cambiado. Los crafteos que requerían un nivel superior han sido cancelados."
+}

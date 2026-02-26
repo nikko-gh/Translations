@@ -1,0 +1,7 @@
+{
+  "InvalidCommand": "Virheellinen komento.",
+  "CheckCommand": "{0} pelaajaa on käyttänyt koodiasi tähän mennessä ja {1} heistä on pelannut ainakin 1 tunnin servereillämme. :)",
+  "Success": "Kiitos koodin käytöstä, voit lunastaa kittisi käyttämällä /kitclaim bestrustmain2xserver",
+  "InvalidPromoter": "En löytänyt ketään nimeltä {0}",
+  "InvalidKit": "Kittiä ei löydy."
+}

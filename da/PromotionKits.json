@@ -1,0 +1,7 @@
+{
+  "InvalidCommand": "Ugyldig kommando.",
+  "CheckCommand": "{0} spillere har brugt din kode indtil nu, og {1} af dem har spillet i mindst 1 time på vores servere. :)",
+  "Success": "Tak for at bruge denne kode, du kan få kittet ved at bruge /kitclaim bestrustmain2xserver",
+  "InvalidPromoter": "Jeg kunne ikke finde nogen ved navn {0}",
+  "InvalidKit": "Kit ikke fundet."
+}

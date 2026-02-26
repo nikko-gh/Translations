@@ -1,0 +1,12 @@
+{
+  "Error.NoPermission": "このコマンドを使用する権限がありません",
+  "Format.ButtonText": "並べ替え",
+  "Format.Category": "<color=#D2691E>カテゴリー</color>",
+  "Format.Disabled": "<color=#B22222>無効</color>",
+  "Format.Enabled": "<color=#228B22>有効</color>",
+  "Format.Name": "<color=#00BFFF>名前</color>",
+  "Format.Prefix": "<color=#00FF00>[並べ替えボタン]</color>: ",
+  "Info.ButtonStatus": "並べ替えボタンは現在 {0}",
+  "Info.SortType": "並べ替えタイプは現在 {0}",
+  "Info.Help": "コマンドリスト:\n<color=#FFFF00>/{0}</color> - 並べ替えボタンを有効/無効にします。\n<color=#FFFF00>/{0} <sort | type></color> - 並べ替えタイプを変更します。"
+}

@@ -1,0 +1,12 @@
+{
+  "Error.NoPermission": "No tens permís per utilitzar aquesta comanda",
+  "Format.ButtonText": "Ordenar",
+  "Format.Category": "<color=#D2691E>Categoria</color>",
+  "Format.Disabled": "<color=#B22222>Desactivat</color>",
+  "Format.Enabled": "<color=#228B22>Activat</color>",
+  "Format.Name": "<color=#00BFFF>Nom</color>",
+  "Format.Prefix": "<color=#00FF00>[Botó Ordenar]</color>: ",
+  "Info.ButtonStatus": "El Botó Ordenar està ara {0}",
+  "Info.SortType": "El tipus d'ordenació és ara {0}",
+  "Info.Help": "Llista de Comandes:\n<color=#FFFF00>/{0}</color> - Activa/Desactiva el Botó Ordenar.\n<color=#FFFF00>/{0} <sort | type></color> - canvia el tipus d'ordenació."
+}

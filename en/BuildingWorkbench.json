@@ -1,0 +1,5 @@
+{
+  "Chat": "<color=#bebebe>[<color=#de8732>Extended Workbench Range</color>] {0}</color>",
+  "Notification": "The range of your workbench has been increased to cover your entire base.",
+  "CraftCanceledV1": "Your workbench level has changed. Crafts that required a higher level have been cancelled."
+}

@@ -1,0 +1,14 @@
+{
+  "ConnectionError": "A apărut o eroare de conexiune. Te rugăm să încerci din nou sau să contactezi un admin dacă problema persistă.",
+  "RemovedMsg": "Ai fost eliminat din grupul autentificat pentru că ți-ai deconectat conturile.\nContactează un admin dacă nu ai făcut asta.",
+  "RemovedNitroMsg": "Ai fost eliminat din grupul nitro pentru că boost-ul tău a fost retras.\nContactează un admin dacă este o problemă.",
+  "VerifyMsg": "Salut, asigură-te că te verifici la {0} pentru a primi niște recompense grozave.",
+  "ThanksMsg": "Ai verificat și conectat conturile cu succes. Mulțumim!",
+  "SteamNotVerified": "Ești în grupul Steam, dar nu ești verificat. Te rugăm să te verifici pe site-ul nostru.",
+  "ThanksNitroMsg": "Ai dat boost la Discord-ul nostru cu succes. Mulțumim!",
+  "RemovedSteamMsg": "Ai fost eliminat din grupul Steam Rewards pentru că ai părăsit grupul Steam.",
+  "ThanksSteamMsg": "Te-ai alăturat cu succes in grupul nostru de Steam. Mulțumim!",
+  "NotClient": "Această comandă trebuie rulată dintr-un client, nu din consolă.",
+  "OnCooldown": "Ești în așteptare pentru a folosi din nou această comandă.",
+  "NoUsers": "UniversalLink: Răspunsul primit nu conține niciun utilizator."
+}

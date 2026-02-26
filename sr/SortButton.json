@@ -1,0 +1,12 @@
+{
+  "Error.NoPermission": "Немате дозволу да користите ову команду",
+  "Format.ButtonText": "Сортирај",
+  "Format.Category": "<color=#D2691E>Категорија</color>",
+  "Format.Disabled": "<color=#B22222>Искључено</color>",
+  "Format.Enabled": "<color=#228B22>Укључено</color>",
+  "Format.Name": "<color=#00BFFF>Име</color>",
+  "Format.Prefix": "<color=#00FF00>[Дугме Сортирај]</color>: ",
+  "Info.ButtonStatus": "Дугме Сортирај је сада {0}",
+  "Info.SortType": "Тип сортирања је сада {0}",
+  "Info.Help": "Команде листе:\n<color=#FFFF00>/{0}</color> - Укључи/Искључи Дугме Сортирај.\n<color=#FFFF00>/{0} <sort | type></color> - промени тип сортирања."
+}

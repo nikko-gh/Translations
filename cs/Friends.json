@@ -1,0 +1,17 @@
+{
+  "AlreadyOnList": "{0} už je tvůj kamarád",
+  "CannotAddSelf": "Nemůžeš přidat sebe",
+  "CommandFriend": "friend",
+  "FriendAdded": "{0} je nyní tvůj kamarád",
+  "FriendRemoved": "{0} byl odstraněn z tvého seznamu přátel",
+  "FriendList": "Přátelé {0}:\n{1}",
+  "FriendListFull": "Tvůj seznam přátel je plný",
+  "NoFriends": "Nemáš žádné kamarády",
+  "NotAllowed": "Nemáš povolení použít příkaz '{0}'",
+  "NoPlayersFound": "Žádní hráči nebyli nalezeni s tímto jménem nebo ID '{0}'",
+  "NotOnFriendList": "{0} nebyl nalezen na tvém seznamu přátel",
+  "PlayerNotFound": "Hráč '{0}' nebyl nalezen",
+  "PlayersFound": "Bylo nalezeno více hráčů, upřesni prosím: {0}",
+  "PlayersOnly": "Příkaz '{0}' může být použit pouze hráči",
+  "UsageFriend": "Použití {0} <add|remove|list> <jméno hráče nebo id>"
+}

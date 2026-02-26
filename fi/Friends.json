@@ -1,0 +1,17 @@
+{
+  "AlreadyOnList": "{0} on jo ystäväsi",
+  "CannotAddSelf": "Et voi lisätä itseäsi",
+  "CommandFriend": "friend",
+  "FriendAdded": "{0} on nyt ystäväsi",
+  "FriendRemoved": "{0} poistettiin ystävälistaltasi",
+  "FriendList": "Ystävät {0}:\n{1}",
+  "FriendListFull": "Ystävälistasi on täynnä",
+  "NoFriends": "Sinulla ei ole ystäviä",
+  "NotAllowed": "Sinulla ei ole lupaa käyttää komentoa '{0}'",
+  "NoPlayersFound": "Yhtään pelaajaa ei löytynyt nimellä tai ID:llä '{0}'",
+  "NotOnFriendList": "{0} ei löytynyt ystävälistaltasi",
+  "PlayerNotFound": "Pelaajaa '{0}' ei löydetty",
+  "PlayersFound": "Useita pelaajia löytyi, tarkenna: {0}",
+  "PlayersOnly": "Komento '{0}' on tarkoitettu vain pelaajille",
+  "UsageFriend": "Käyttö {0} <add|remove|list> <pelaajan nimi tai id>"
+}

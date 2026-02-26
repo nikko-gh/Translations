@@ -1,0 +1,4 @@
+{
+  "Enabled": "Ochrana proti offline raidům je momentálně aktivní.\nMůžete raidit pouze mezi 13:00 a 23:59 CET.",
+  "Disabled": "Ochrana proti offline raidům již není aktivní.\nMůžete raidit do 23:59 CET."
+}

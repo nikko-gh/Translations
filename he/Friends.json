@@ -1,0 +1,17 @@
+{
+  "AlreadyOnList": "{0} כבר נמצא ברשימת החברים שלך",
+  "CannotAddSelf": "אי אפשר להוסיף את עצמך לרשימת החברים",
+  "CommandFriend": "friend",
+  "FriendAdded": "{0} נוסף לרשימת החברים שלך",
+  "FriendRemoved": "{0} הוסר מרשימת החברים שלך",
+  "FriendList": "רשימת חברים ({0}):\n{1}",
+  "FriendListFull": "רשימת החברים שלך מלאה",
+  "NoFriends": "אין לך חברים ברשימה",
+  "NotAllowed": "אין לך הרשאה להשתמש בפקודה '{0}'",
+  "NoPlayersFound": "לא נמצאו שחקנים עם השם או ה-ID '{0}'",
+  "NotOnFriendList": "{0} לא נמצא ברשימת החברים שלך",
+  "PlayerNotFound": "לא נמצא שחקן בשם '{0}'",
+  "PlayersFound": "נמצאו מספר שחקנים, נא לפרט: {0}",
+  "PlayersOnly": "פקודה '{0}' מיועדת לשחקנים בלבד",
+  "UsageFriend": "שימוש: {0} <add|remove|list> <שם שחקן או ID>"
+}

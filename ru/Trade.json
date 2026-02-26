@@ -1,0 +1,15 @@
+{
+  "Usage": "Использование:\n/trade playerName\n/trade yes\n/trade no",
+  "NoPending": "Нет ожидаемых обменов!",
+  "RequestAlreadyPending": "У данного игрока уже есть ожидающие запросы!",
+  "TradeBegins": "Обмен между {name1} и {name2} начался!",
+  "RequestSent": "Вы отправили запрос на обмен игроку {name}",
+  "RequestReceived": "Вы получили запрос на обмен от {name}\nЧтобы принять: <color=green>/trade yes</color>\nЧтобы отклонить: <color=red>/trade no</color>",
+  "TradeCancelled": "Обмен был отменен",
+  "CantRightNow": "Сейчас это сделать нельзя",
+  "OnlyInBuildingPriv": "Вы можете обмениваться только в зоне действия вашего шкафа",
+  "Cooldown": "Вам нужно подождать {seconds} секунд перед следующим обменом.",
+  "Permission": "У вас нет прав для данного действия!",
+  "NoPlayers": "Нет игроков с таким ником или 'Steam ID' ({name})",
+  "MultiplePlayers": "Есть несколько игроков с таким ником :\n{list}"
+}

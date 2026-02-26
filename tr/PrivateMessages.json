@@ -1,0 +1,23 @@
+{
+  "PMTo": "[#00FFFF]{0} kişisine mesaj[/#]: {1}",
+  "PMFrom": "[#00FFFF]{0} kişisinden mesaj[/#]: {1}",
+  "PlayerNotOnline": "{0} çevrim içi değil.",
+  "NotOnlineAnymore": "Konuştuğun son kişi artık çevrim içi değil.",
+  "NotMessaged": "Hiç kimseyle mesajlaşmadınız veya kimse size mesaj göndermedi.",
+  "IgnoreYou": "[#FF0000]{0} sizi görmezden geliyor ve mesajlarınızı alamıyor[/#]",
+  "SelfPM": "Kendinize mesaj gönderemezsiniz.",
+  "SyntaxR": "Yanlış komut kullanımı: /r <mesaj>",
+  "HistorySyntax": "Yanlış komut kullanımı: /pmhistory <isim>",
+  "SyntaxPM": "Yanlış komut kullanımı: /{0} <isim> <mesaj>",
+  "NotAllowedToChat": "Burada sohbet etmenize izin verilmiyor",
+  "History": "Geçmişiniz:\n{0}",
+  "CooldownMessage": "{0} saniye içinde özel mesaj gönderebileceksiniz",
+  "NoHistory": "Bu oyuncuyla kaydedilmiş bir mesaj geçmişi yok.",
+  "CannotFindUser": "Bu kullanıcı bulunamıyor",
+  "CommandDisabled": "Bu komut devre dışı bırakıldı",
+  "IsMuted": "Şu anda susturulmuşsunuz ve özel mesaj gönderemezsiniz",
+  "TargetMuted": "Bu kişi susturulmuş ve özel mesajınızı alamaz",
+  "NoPermission": "Bu komutu çalıştırmak için gerekli izinlere sahip değilsiniz",
+  "HistoryPM": "[#00FFFF]{0}[/#]: {1}",
+  "Logging": "[PM]{0}->{1}:{2}"
+}

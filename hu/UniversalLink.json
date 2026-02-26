@@ -1,0 +1,14 @@
+{
+  "ConnectionError": "Kapcsolati hiba történt. Kérjük, próbáld újra, vagy vedd fel a kapcsolatot egy adminnal, ha a probléma továbbra is fennáll.",
+  "RemovedMsg": "Eltávolítottunk az authentikált csoportból, mert összekapcsoltad a fiókjaidat.\nHa nem te tetted, vedd fel a kapcsolatot egy adminnal.",
+  "RemovedNitroMsg": "Eltávolítottunk a nitro csoportból, mert megszűnt a boostod.\nVedd fel a kapcsolatot egy adminnal, ha ez probléma.",
+  "VerifyMsg": "Szia, ellenőrizd magad itt: {0}, hogy szuper jutalmakat kapj.",
+  "ThanksMsg": "Sikeresen ellenőrizted és összekapcsoltad a fiókjaidat. Köszi!",
+  "SteamNotVerified": "Benne vagy a Steam csoportban, de még nem ellenőrizted magad. Kérjük, ellenőrizd magad a weboldalunkon.",
+  "ThanksNitroMsg": "Sikeresen boostoltad a Discordunkat. Köszi!",
+  "RemovedSteamMsg": "Eltávolítottunk a Steam Jutalmak csoportból, mert kiléptél a Steam csoportból.",
+  "ThanksSteamMsg": "Sikeresen csatlakoztál a Steam csoportunkhoz. Köszi!",
+  "NotClient": "Ezt a parancsot a kliensből, nem a konzolból kell futtatni.",
+  "OnCooldown": "Jelenleg várakozási időn vagy ennek a parancsnak a használatához.",
+  "NoUsers": "UniversalLink: A válasz nem tartalmaz felhasználókat."
+}

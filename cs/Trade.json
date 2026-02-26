@@ -1,0 +1,15 @@
+{
+  "Usage": "Použití:\n/trade hráčJméno\n/trade yes\n/trade no",
+  "NoPending": "Žádné čekající obchody!",
+  "RequestAlreadyPending": "Tento hráč už má čekající žádosti!",
+  "TradeBegins": "Obchod mezi {name1} a {name2} začíná!",
+  "RequestSent": "Odeslal jsi obchodní žádost hráči {name}",
+  "RequestReceived": "Obdržel jsi obchodní žádost od hráče {name}\nPro přijetí: <color=green>/trade yes</color>\nPro odmítnutí: <color=red>/trade no</color>",
+  "TradeCancelled": "Obchod byl zrušen",
+  "CantRightNow": "To teď nemůžeš udělat",
+  "OnlyInBuildingPriv": "Obchodovat můžeš jen v zóně své TC budovy",
+  "Cooldown": "Musíš počkat {seconds} sekund před dalším obchodováním.",
+  "Permission": "Nemáš oprávnění to provést!",
+  "NoPlayers": "Žádní hráči s tímto 'Jménem' nebo 'Steam ID' ({name})",
+  "MultiplePlayers": "Je více hráčů s tímto 'Jménem':\n{list}"
+}

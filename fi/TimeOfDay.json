@@ -1,0 +1,9 @@
+{
+  "SettingsHeader": "-------- Asetukset --------",
+  "CurrentTime": "Nykyinen aika",
+  "SunriseHour": "Auringonnousun aika",
+  "SunsetHour": "Auringonlaskun aika",
+  "DayLength": "Päivän pituus",
+  "NightLength": "Yön pituus",
+  "Minutes": "minuuttia"
+}

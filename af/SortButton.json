@@ -1,0 +1,12 @@
+{
+  "Error.NoPermission": "Jy het nie toestemming om hierdie opdrag te gebruik nie",
+  "Format.ButtonText": "Rangskik",
+  "Format.Category": "<color=#D2691E>Kategorie</color>",
+  "Format.Disabled": "<color=#B22222>Gedeaktiveer</color>",
+  "Format.Enabled": "<color=#228B22>Geaktiveer</color>",
+  "Format.Name": "<color=#00BFFF>Naam</color>",
+  "Format.Prefix": "<color=#00FF00>[Rangskik Knoppie]</color>: ",
+  "Info.ButtonStatus": "Rangskik Knoppie is nou {0}",
+  "Info.SortType": "Rangskik Tipe is nou {0}",
+  "Info.Help": "Lys Opdragte:\n<color=#FFFF00>/{0}</color> - Aktiveer/Deaktiveer Rangskik Knoppie.\n<color=#FFFF00>/{0} <sort | type></color> - verander rangskik tipe."
+}

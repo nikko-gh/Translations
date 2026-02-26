@@ -1,0 +1,12 @@
+{
+  "Error.NoPermission": "Bạn không có quyền sử dụng lệnh này",
+  "Format.ButtonText": "Sắp xếp",
+  "Format.Category": "<color=#D2691E>Danh mục</color>",
+  "Format.Disabled": "<color=#B22222>Vô hiệu</color>",
+  "Format.Enabled": "<color=#228B22>Kích hoạt</color>",
+  "Format.Name": "<color=#00BFFF>Tên</color>",
+  "Format.Prefix": "<color=#00FF00>[Nút Sắp xếp]</color>: ",
+  "Info.ButtonStatus": "Nút Sắp xếp hiện đang {0}",
+  "Info.SortType": "Kiểu Sắp xếp hiện là {0}",
+  "Info.Help": "Danh sách Lệnh:\n<color=#FFFF00>/{0}</color> - Bật/Tắt Nút Sắp xếp.\n<color=#FFFF00>/{0} <sort | type></color> - thay đổi kiểu sắp xếp."
+}

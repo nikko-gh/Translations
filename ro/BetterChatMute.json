@@ -1,0 +1,23 @@
+{
+  "No Permission": "Nu ai permisiunea de a folosi această comandă.",
+  "No Reason": "Motiv necunoscut",
+  "Muted": "{player} a fost tăcut: {reason}.",
+  "Muted Time": "{player} a fost tăcut pentru {time}: {reason}.",
+  "Unmuted": "{player} a fost detăcut de {initiator}.",
+  "Not Muted": "{player} nu este tăcut momentan.",
+  "Mute Expired": "{player} nu mai este tăcut.",
+  "Invalid Time Format": "Format de timp invalid. Exemplu: 1d2h3m4s = 1 zi, 2 ore, 3 min, 4 sec",
+  "Nobody Muted": "Nimeni nu este tăcut în acest moment.",
+  "Invalid Syntax Mute": "/mute <player|steamid> \"[reason]\" [time: 1d1h1m1s]",
+  "Invalid Syntax Unmute": "/unmute <player|steamid>",
+  "Player Name Not Found": "Nu s-a putut găsi jucătorul cu numele '{name}'",
+  "Player ID Not Found": "Nu s-a putut găsi jucătorul cu ID-ul '{id}'",
+  "Multiple Players Found": "Au fost găsiți mai mulți jucători care se potrivesc: \n{matches}",
+  "Time Muted Player Joined": "{player} este temporar tăcut. Timp rămas: {time}",
+  "Time Muted Player Chat": "Nu poți scrie în chat, ești temporar tăcut. Timp rămas: {time}",
+  "Muted Player Joined": "{player} este permanent tăcut.",
+  "Muted Player Chat": "Nu poți scrie în chat, ești permanent tăcut.",
+  "Global Mute Enabled": "Tăcerea globală a fost activată. Nimeni nu poate scrie în chat cât timp este activă.",
+  "Global Mute Disabled": "Tăcerea globală a fost dezactivată. Toată lumea poate scrie în chat din nou.",
+  "Global Mute Active": "Tăcerea globală este activă, nu poți scrie în chat."
+}

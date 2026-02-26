@@ -1,0 +1,23 @@
+{
+  "PMTo": "[#00FFFF]PM aan {0}[/#]: {1}",
+  "PMFrom": "[#00FFFF]PM van {0}[/#]: {1}",
+  "PlayerNotOnline": "{0} is nie aanlyn nie.",
+  "NotOnlineAnymore": "Die laaste persoon met wie jy gepraat het, is nie meer aanlyn nie.",
+  "NotMessaged": "Jy het niemand gemessage nie of hulle het jou nie gemessage nie.",
+  "IgnoreYou": "[#FF0000]{0} ignoreer jou en kan nie jou PMs ontvang nie[/#]",
+  "SelfPM": "Jy kan nie boodskappe aan jouself stuur nie.",
+  "SyntaxR": "Verkeerde Sintaks gebruik: /r <boodskap>",
+  "HistorySyntax": "Verkeerde Sintaks gebruik: /pmhistory <naam>",
+  "SyntaxPM": "Verkeerde Sintaks gebruik: /{0} <naam> <boodskap>",
+  "NotAllowedToChat": "Jy mag nie hier gesels nie",
+  "History": "Jou Geskiedenis:\n{0}",
+  "CooldownMessage": "Jy sal oor {0} sekondes 'n privaat boodskap kan stuur",
+  "NoHistory": "Daar is geen gestoorde pm geskiedenis met hierdie speler nie.",
+  "CannotFindUser": "Kan nie hierdie gebruiker vind nie",
+  "CommandDisabled": "Hierdie opdrag is gedeaktiveer",
+  "IsMuted": "Jy is tans gedemp en kan nie privaat boodskappe stuur nie",
+  "TargetMuted": "Hierdie persoon is gedemp en kan nie jou privaat boodskap ontvang nie",
+  "NoPermission": "Jy het nie die regte toestemmings om hierdie opdrag uit te voer nie",
+  "HistoryPM": "[#00FFFF]{0}[/#]: {1}",
+  "Logging": "[PM]{0}->{1}:{2}"
+}

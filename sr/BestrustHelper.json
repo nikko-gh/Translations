@@ -1,0 +1,7 @@
+{
+  "AdminMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> Ако вам је потребна помоћ или желите да пријавите играча, направите тикет на нашем дискорду. Увек смо срећни да вам помогнемо! <color=#ff5c45>discord.gg/bestrustservers</color>",
+  "LagMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> Ако доживљавате лаг, обавестите нас на дискорду како бисмо га решили што је пре могуће. Извините због непријатности. <color=#ff5c45>discord.gg/bestrustservers</color>",
+  "BugMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> Јесте ли пронашли баг или експлоат? Контактирајте нас на дискорду и наградићемо вас у зависности од озбиљности! <color=#ff5c45>discord.gg/bestrustservers</color>",
+  "ReportMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> Хвала на пријави. За бржу подршку и боље праћење, молимо вас да направите тикет на нашем дискорду: <color=#ff5c45>discord.gg/bestrustservers</color> Наш тим ће вам тамо ефикасније помоћи.",
+  "ReportToast": "<size=14>Хвала на пријави.</size>\n<size=12>За бржу подршку, молимо вас да направите тикет на нашем дискорду.\ndiscord.gg/bestrustservers</size>"
+}

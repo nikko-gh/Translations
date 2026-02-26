@@ -1,0 +1,14 @@
+{
+  "ConnectionError": "連接錯誤。請重試，若問題持續，請聯繫管理員。",
+  "RemovedMsg": "由於您取消了帳號綁定，已從認證群組中移除。\n若非您本人取消綁定，請聯繫管理員。",
+  "RemovedNitroMsg": "由於您的增強被移除，已從 nitro 群組中移除。\n如果這有問題，請聯繫管理員。",
+  "VerifyMsg": "嘿，請務必在 {0} 驗證，以獲得一些很棒的獎勵。",
+  "ThanksMsg": "您已成功驗證並綁定帳號。謝謝！",
+  "SteamNotVerified": "您在 Steam 群組中，但未驗證。請在我們的網站上驗證。",
+  "ThanksNitroMsg": "您已成功為我們的 Discord 增強。謝謝！",
+  "RemovedSteamMsg": "由於您退出了 Steam 群組，已從 Steam 獎勵群組中移除。",
+  "ThanksSteamMsg": "您已成功加入我們的 Steam 群組。謝謝！",
+  "NotClient": "此指令僅限於客戶端運行，不能從控制台運行。",
+  "OnCooldown": "您目前正在此指令使用的冷卻中。",
+  "NoUsers": "UniversalLink: 收到的響應中不包含任何用戶。"
+}

@@ -1,0 +1,14 @@
+{
+  "ConnectionError": "Wystąpił błąd połączenia. Spróbuj ponownie lub skontaktuj się z administratorem, jeśli problem będzie się powtarzał.",
+  "RemovedMsg": "Zostałeś usunięty z grupy uwierzytelnionej, ponieważ odłączyłeś swoje konta.\nSkontaktuj się z administratorem, jeśli nie odłączyłeś kont.",
+  "RemovedNitroMsg": "Zostałeś usunięty z grupy nitro, ponieważ usunięto Twój boost.\nSkontaktuj się z administratorem, jeśli to problem.",
+  "VerifyMsg": "Hej, upewnij się, że zweryfikujesz się na {0}, aby otrzymać świetne nagrody.",
+  "ThanksMsg": "Pomyślnie zweryfikowano i połączono konta. Dzięki!",
+  "SteamNotVerified": "Jesteś w grupie Steam, ale nie zostałeś zweryfikowany. Zweryfikuj się na naszej stronie internetowej.",
+  "ThanksNitroMsg": "Pomyślnie boostowałeś naszego Discord. Dzięki!",
+  "RemovedSteamMsg": "Zostałeś usunięty z grupy Steam Rewards za opuszczenie grupy Steam.",
+  "ThanksSteamMsg": "Pomyślnie dołączyłeś do naszej grupy Steam. Dzięki!",
+  "NotClient": "Ta komenda jest przeznaczona do uruchomienia z klienta, a nie z konsoli.",
+  "OnCooldown": "Obecnie jesteś w trybie odczekiwania po użyciu tej komendy.",
+  "NoUsers": "UniversalLink: Otrzymana odpowiedź nie zawiera żadnych użytkowników."
+}

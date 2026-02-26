@@ -1,0 +1,14 @@
+{
+  "ConnectionError": "Es gab einen Verbindungsfehler. Bitte versuche es erneut oder kontaktiere einen Admin, falls das Problem fortbesteht.",
+  "RemovedMsg": "Du wurdest aus der verifizierten Gruppe entfernt, weil du deine Accounts getrennt hast.\nKontaktiere einen Admin, wenn du das nicht getan hast.",
+  "RemovedNitroMsg": "Du wurdest aus der Nitro-Gruppe entfernt, weil dein Boost entfernt wurde.\nKontaktiere einen Admin, wenn das ein Problem ist.",
+  "VerifyMsg": "Hey, verifiziere dich auf {0}, um tolle Rewards zu erhalten.",
+  "ThanksMsg": "Du hast deine Accounts erfolgreich verifiziert und verlinkt. Danke!",
+  "SteamNotVerified": "Du bist in der Steam-Gruppe, aber nicht verifiziert. Bitte verifiziere dich auf unserer Webseite.",
+  "ThanksNitroMsg": "Du hast unseren Discord erfolgreich geboostet. Danke!",
+  "RemovedSteamMsg": "Du wurdest aus der Steam Rewards-Gruppe entfernt, weil du die Steam-Gruppe verlassen hast.",
+  "ThanksSteamMsg": "Du bist unserer Steam-Gruppe erfolgreich beigetreten. Danke!",
+  "NotClient": "Dieser Befehl sollte von einem Client, nicht der Konsole, ausgeführt werden.",
+  "OnCooldown": "Du hast momentan eine Abklingzeit für die Nutzung dieses Befehls.",
+  "NoUsers": "UniversalLink: Die erhaltene Antwort enthält keine Benutzer."
+}

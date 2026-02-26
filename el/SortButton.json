@@ -1,0 +1,12 @@
+{
+  "Error.NoPermission": "Δεν έχετε άδεια να χρησιμοποιήσετε αυτή την εντολή",
+  "Format.ButtonText": "Ταξινόμηση",
+  "Format.Category": "<color=#D2691E>Κατηγορία</color>",
+  "Format.Disabled": "<color=#B22222>Απενεργοποιημένο</color>",
+  "Format.Enabled": "<color=#228B22>Ενεργοποιημένο</color>",
+  "Format.Name": "<color=#00BFFF>Όνομα</color>",
+  "Format.Prefix": "<color=#00FF00>[Κουμπί Ταξινόμησης]</color>: ",
+  "Info.ButtonStatus": "Το Κουμπί Ταξινόμησης είναι τώρα {0}",
+  "Info.SortType": "Ο Τύπος Ταξινόμησης είναι τώρα {0}",
+  "Info.Help": "Λίστα Εντολών:\n<color=#FFFF00>/{0}</color> - Ενεργοποίηση/Απενεργοποίηση Κουμπιού Ταξινόμησης.\n<color=#FFFF00>/{0} <sort | type></color> - αλλαγή τύπου ταξινόμησης."
+}

@@ -1,0 +1,23 @@
+{
+  "No Permission": "ليس لديك الإذن لاستخدام هذا الأمر.",
+  "No Reason": "سبب غير معروف",
+  "Muted": "تم كتم {player}: {reason}.",
+  "Muted Time": "تم كتم {player} لمدة {time}: {reason}.",
+  "Unmuted": "تم إلغاء كتم {player} بواسطة {initiator}.",
+  "Not Muted": "{player} غير مكتوم حاليًا.",
+  "Mute Expired": "{player} لم يعد مكتومًا.",
+  "Invalid Time Format": "صيغة الوقت غير صحيحة. مثال: 1d2h3m4s = 1 يوم، 2 ساعة، 3 دقائق، 4 ثوانٍ",
+  "Nobody Muted": "لا يوجد أحد مكتوم في الوقت الحالي.",
+  "Invalid Syntax Mute": "/mute <player|steamid> \"[reason]\" [time: 1d1h1m1s]",
+  "Invalid Syntax Unmute": "/unmute <player|steamid>",
+  "Player Name Not Found": "لم يتم العثور على لاعب بالاسم '{name}'",
+  "Player ID Not Found": "لم يتم العثور على لاعب بالمعرف '{id}'",
+  "Multiple Players Found": "تم العثور على عدة لاعبين متطابقين: \n{matches}",
+  "Time Muted Player Joined": "{player} مكتوم مؤقتًا. الوقت المتبقي: {time}",
+  "Time Muted Player Chat": "لا يمكنك الدردشة، أنت مكتوم مؤقتًا. الوقت المتبقي: {time}",
+  "Muted Player Joined": "{player} مكتوم بشكل دائم.",
+  "Muted Player Chat": "لا يمكنك الدردشة، أنت مكتوم بشكل دائم.",
+  "Global Mute Enabled": "تم تفعيل الكتم الجماعي. لا يمكن لأحد الدردشة أثناء تفعيل الكتم الجماعي.",
+  "Global Mute Disabled": "تم إلغاء الكتم الجماعي. يمكن للجميع الدردشة مرة أخرى.",
+  "Global Mute Active": "الكتم الجماعي مفعل، لا يمكنك الدردشة."
+}

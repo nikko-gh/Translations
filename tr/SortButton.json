@@ -1,0 +1,12 @@
+{
+  "Error.NoPermission": "Bu komutu kullanma izniniz yok",
+  "Format.ButtonText": "Sırala",
+  "Format.Category": "<color=#D2691E>Kategori</color>",
+  "Format.Disabled": "<color=#B22222>Devre Dışı</color>",
+  "Format.Enabled": "<color=#228B22>Etkin</color>",
+  "Format.Name": "<color=#00BFFF>İsim</color>",
+  "Format.Prefix": "<color=#00FF00>[Sıralama Düğmesi]</color>: ",
+  "Info.ButtonStatus": "Sıralama Düğmesi şimdi {0}",
+  "Info.SortType": "Sıralama Türü şimdi {0}",
+  "Info.Help": "Komut Listesi:\n<color=#FFFF00>/{0}</color> - Sıralama Düğmesini Etkinleştir/Devre Dışı Bırak.\n<color=#FFFF00>/{0} <sort | type></color> - sıralama türünü değiştir."
+}

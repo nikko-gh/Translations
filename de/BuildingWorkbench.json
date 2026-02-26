@@ -1,0 +1,5 @@
+{
+  "Chat": "<color=#bebebe>[<color=#de8732>Erweiterte Werkbank-Reichweite</color>] {0}</color>",
+  "Notification": "Die Reichweite deiner Werkbank wurde erhöht, um deine gesamte Basis abzudecken.",
+  "CraftCanceledV1": "Dein Werkbank-Level hat sich geändert. Handwerke, die ein höheres Level erforderten, wurden abgebrochen."
+}

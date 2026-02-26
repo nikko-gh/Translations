@@ -1,0 +1,15 @@
+{
+  "Usage": "Käyttö:\n/trade pelaajanNimi\n/trade yes\n/trade no",
+  "NoPending": "Ei odottavia kauppoja!",
+  "RequestAlreadyPending": "Tällä pelaajalla on jo odottavia pyyntöjä!",
+  "TradeBegins": "Kauppa {name1} ja {name2} välillä alkaa!",
+  "RequestSent": "Lähetit kauppapyynnön pelaajalle {name}",
+  "RequestReceived": "Sait kauppapyynnön pelaajalta {name}\nHyväksy: <color=green>/trade yes</color>\nHylkää: <color=red>/trade no</color>",
+  "TradeCancelled": "Kauppa peruttiin",
+  "CantRightNow": "Et voi tehdä sitä juuri nyt",
+  "OnlyInBuildingPriv": "Voit käydä kauppaa vain TC-alueesi sisällä",
+  "Cooldown": "Sinun täytyy odottaa {seconds} sekuntia ennen kuin voit käydä kauppaa uudelleen.",
+  "Permission": "Sinulla ei ole oikeuksia tehdä sitä!",
+  "NoPlayers": "Ei pelaajia sillä 'Nimellä' tai 'Steam ID':llä ({name})",
+  "MultiplePlayers": "Useita pelaajia sillä 'Nimellä':\n{list}"
+}

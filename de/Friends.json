@@ -1,0 +1,17 @@
+{
+  "AlreadyOnList": "{0} ist bereits dein Freund",
+  "CannotAddSelf": "Du kannst dich nicht selbst hinzufügen",
+  "CommandFriend": "friend",
+  "FriendAdded": "{0} ist jetzt dein Freund",
+  "FriendRemoved": "{0} wurde von deiner Freundesliste entfernt",
+  "FriendList": "Freunde {0}:\n{1}",
+  "FriendListFull": "Deine Freundesliste ist voll",
+  "NoFriends": "Du hast keine Freunde",
+  "NotAllowed": "Du darfst den Befehl '{0}' nicht verwenden",
+  "NoPlayersFound": "Keine Spieler mit dem Namen oder der ID '{0}' gefunden",
+  "NotOnFriendList": "{0} wurde nicht auf deiner Freundesliste gefunden",
+  "PlayerNotFound": "Spieler '{0}' wurde nicht gefunden",
+  "PlayersFound": "Mehrere Spieler gefunden, bitte spezifizieren: {0}",
+  "PlayersOnly": "Befehl '{0}' kann nur von Spielern verwendet werden",
+  "UsageFriend": "Verwendung {0} <add|remove|list> <Spielername oder ID>"
+}

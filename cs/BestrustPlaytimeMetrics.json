@@ -1,0 +1,4 @@
+{
+  "ModdedMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> Na našich serverech jsi zatím odehrál <color=#d9b650>{0} hodin</color>!\n\nOdměny za nahranný čas:\n- Newbie (0 hodin) Starter kit, Wooden base kit\n- Rookie (50 hodin) Rookie kit\n- Survivor (100 hodin) Třídič pecí, Třídič boxů\n- Regular (250 hodin) Regular kit\n- Loyal (500 hodin) Loyal kit, Nahrávej obrázky na cedule (/sil)\n- Veteran (750 hodin) Přeskočit čekací řadu\n- Warrior (1000 hodin) Warrior kit\n- Elite (1500 hodin) Elite kit, Skinbox\n- Legend (2000 hodin) Legends kit\n- Champion (3000 hodin) Champion kit\n- Demigod (5000 hodin) Demigod kit\n- God (10000 hodin) God kit",
+  "VanillaMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> Na našich serverech jsi zatím odehrál <color=#d9b650>{0} hodin</color>!\n\nOdměny za nahranný čas:\n- Veteran (750 hodin) Přeskočit čekací řadu"
+}

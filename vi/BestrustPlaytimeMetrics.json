@@ -1,0 +1,4 @@
+{
+  "ModdedMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> Bạn đã chơi <color=#d9b650>{0} giờ</color> trên máy chủ của chúng tôi cho đến nay!\n\nPhần thưởng Thời gian chơi:\n- Newbie (0 giờ) Bộ khởi đầu, Bộ căn cứ gỗ\n- Rookie (50 giờ) Bộ Rookie\n- Survivor (100 giờ) Trình sắp xếp Lò nung, Trình sắp xếp Hộp\n- Regular (250 giờ) Bộ Regular\n- Loyal (500 giờ) Bộ Loyal, Tải lên hình ảnh lên biển báo (/sil)\n- Veteran (750 giờ) Bỏ qua Hàng chờ\n- Warrior (1000 giờ) Bộ Warrior\n- Elite (1500 giờ) Bộ Elite, Skinbox\n- Legend (2000 giờ) Bộ Legends\n- Champion (3000 giờ) Bộ Champion\n- Demigod (5000 giờ) Bộ Demigod\n- God (10000 giờ) Bộ God",
+  "VanillaMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> Bạn đã chơi <color=#d9b650>{0} giờ</color> trên máy chủ của chúng tôi cho đến nay!\n\nPhần thưởng Thời gian chơi:\n- Veteran (750 giờ) Bỏ qua Hàng chờ"
+}

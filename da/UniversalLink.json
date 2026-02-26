@@ -1,0 +1,14 @@
+{
+  "ConnectionError": "Der var en forbindelsesfejl. Prøv igen, eller kontakt en admin, hvis problemet fortsætter.",
+  "RemovedMsg": "Du er blevet fjernet fra den godkendte gruppe, fordi du har aflinket dine konti.\nKontakt en admin, hvis du ikke har aflinked.",
+  "RemovedNitroMsg": "Du er blevet fjernet fra nitro-gruppen, fordi din boost blev fjernet.\nKontakt en admin, hvis dette er et problem.",
+  "VerifyMsg": "Hej, sørg for at verificere på {0} for at modtage nogle fantastiske rewards.",
+  "ThanksMsg": "Du har succesfuldt verificeret og linket dine konti. Tak!",
+  "SteamNotVerified": "Du er i Steam-gruppen, men ikke verificeret. Verificer venligst på vores hjemmeside.",
+  "ThanksNitroMsg": "Du har succesfuldt boostet vores discord. Tak!",
+  "RemovedSteamMsg": "Du er blevet fjernet fra Steam Rewards-gruppen fordi du forlod Steam-gruppen.",
+  "ThanksSteamMsg": "Du er succesfuldt tilmeldt vores Steam-gruppe. Tak!",
+  "NotClient": "Denne kommando er beregnet til at blive kørt fra en klient, ikke konsollen.",
+  "OnCooldown": "Du er i øjeblikket på ventetid for at bruge denne kommando.",
+  "NoUsers": "UniversalLink: Det modtagne svar indeholder ingen brugere."
+}

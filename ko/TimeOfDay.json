@@ -1,0 +1,9 @@
+{
+  "SettingsHeader": "-------- 설정 --------",
+  "CurrentTime": "현재 시간",
+  "SunriseHour": "일출 시간",
+  "SunsetHour": "일몰 시간",
+  "DayLength": "낮 시간",
+  "NightLength": "밤 시간",
+  "Minutes": "분"
+}

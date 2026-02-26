@@ -1,0 +1,15 @@
+{
+  "Usage": "使い方:\n/trade playerName\n/trade yes\n/trade no",
+  "NoPending": "保留中の取引はありません！",
+  "RequestAlreadyPending": "そのプレイヤーにはすでに保留中のリクエストがあります！",
+  "TradeBegins": "{name1}と{name2}の間で取引が始まります！",
+  "RequestSent": "{name}に取引リクエストを送りました",
+  "RequestReceived": "{name}から取引リクエストを受け取りました\n承認するには: <color=green>/trade yes</color>\n拒否するには: <color=red>/trade no</color>",
+  "TradeCancelled": "取引がキャンセルされました",
+  "CantRightNow": "今はそれをすることができません",
+  "OnlyInBuildingPriv": "TC建物エリア内でのみ取引ができます",
+  "Cooldown": "再び取引を行うには{seconds}秒待つ必要があります。",
+  "Permission": "それを行う権限がありません！",
+  "NoPlayers": "その『名前』または『Steam ID』({name}) のプレイヤーがいません",
+  "MultiplePlayers": "その『名前』のプレイヤーが複数います:\n{list}"
+}

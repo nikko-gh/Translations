@@ -1,0 +1,17 @@
+{
+  "AlreadyOnList": "{0} ile zaten arkadaşınız",
+  "CannotAddSelf": "Kendinizi ekleyemezsiniz",
+  "CommandFriend": "friend",
+  "FriendAdded": "{0} ile artık arkadaşınız",
+  "FriendRemoved": "{0} arkadaş listenizden çıkarıldı",
+  "FriendList": "Arkadaşlarınız {0}:\n{1}",
+  "FriendListFull": "Arkadaş listeniz dolu",
+  "NoFriends": "Hiç arkadaşınız yok",
+  "NotAllowed": "'{0}' komutunu kullanmanıza izin yok",
+  "NoPlayersFound": "'{0}' adı veya kimliğiyle eşleşen oyuncu bulunamadı",
+  "NotOnFriendList": "{0} arkadaş listenizde bulunamadı",
+  "PlayerNotFound": "Oyuncu '{0}' bulunamadı",
+  "PlayersFound": "Birden fazla oyuncu bulundu, lütfen belirtin: {0}",
+  "PlayersOnly": "'{0}' komutu yalnızca oyuncular tarafından kullanılabilir",
+  "UsageFriend": "Kullanım {0} <add|remove|list> <oyuncu adı veya kimliği>"
+}

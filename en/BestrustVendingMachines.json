@@ -1,0 +1,4 @@
+{
+  "NoSpaceMessage": "You don't have enough inventory space!",
+  "NoSpaceToast": "You don't have enough inventory space!\n<size=10>Buy amount has been decreased.</color>"
+}

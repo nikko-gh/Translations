@@ -1,0 +1,23 @@
+{
+  "PMTo": "[#00FFFF]PM đến {0}[/#]: {1}",
+  "PMFrom": "[#00FFFF]PM từ {0}[/#]: {1}",
+  "PlayerNotOnline": "{0} không trực tuyến.",
+  "NotOnlineAnymore": "Người bạn vừa trò chuyện không còn trực tuyến nữa.",
+  "NotMessaged": "Bạn chưa nhắn tin cho ai hoặc họ chưa nhắn tin cho bạn.",
+  "IgnoreYou": "[#FF0000]{0} đang chặn bạn và không thể nhận PM của bạn[/#]",
+  "SelfPM": "Bạn không thể gửi tin nhắn cho chính mình.",
+  "SyntaxR": "Sai Cú pháp: /r <tin nhắn>",
+  "HistorySyntax": "Sai Cú pháp: /pmhistory <tên>",
+  "SyntaxPM": "Sai Cú pháp: /{0} <tên> <tin nhắn>",
+  "NotAllowedToChat": "Bạn không được phép trò chuyện ở đây",
+  "History": "Lịch sử của bạn:\n{0}",
+  "CooldownMessage": "Bạn có thể gửi tin nhắn cá nhân sau {0} giây",
+  "NoHistory": "Không có lịch sử pm nào với người chơi này.",
+  "CannotFindUser": "Không thể tìm thấy người dùng này",
+  "CommandDisabled": "Lệnh này đã bị vô hiệu hóa",
+  "IsMuted": "Bạn hiện đang bị chặn tiếng & không thể gửi tin nhắn cá nhân",
+  "TargetMuted": "Người này bị chặn tiếng & không thể nhận tin nhắn cá nhân của bạn",
+  "NoPermission": "Bạn không có quyền để thực hiện lệnh này",
+  "HistoryPM": "[#00FFFF]{0}[/#]: {1}",
+  "Logging": "[PM]{0}->{1}:{2}"
+}

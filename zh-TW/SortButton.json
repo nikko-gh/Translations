@@ -1,0 +1,12 @@
+{
+  "Error.NoPermission": "您沒有權限使用此指令",
+  "Format.ButtonText": "排序",
+  "Format.Category": "<color=#D2691E>類別</color>",
+  "Format.Disabled": "<color=#B22222>已停用</color>",
+  "Format.Enabled": "<color=#228B22>已啟用</color>",
+  "Format.Name": "<color=#00BFFF>名稱</color>",
+  "Format.Prefix": "<color=#00FF00>[排序按鈕]</color>: ",
+  "Info.ButtonStatus": "排序按鈕現在是 {0}",
+  "Info.SortType": "排序類型現在是 {0}",
+  "Info.Help": "指令列表:\n<color=#FFFF00>/{0}</color> - 啟用/停用排序按鈕。\n<color=#FFFF00>/{0} <sort | type></color> - 更改排序類型。"
+}

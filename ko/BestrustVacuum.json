@@ -1,0 +1,5 @@
+{
+  "DiscordAdvertisement": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color>\n당신은 우리의 <color=#5865F2>Discord</color>에 없거나 인증되지 않았습니다. 여기로 참여하세요: <color=#ff5c45>https://discord.gg/bestrustservers</color> 그리고 연동 절차를 진행하세요.\n유용한 정보도 얻고, 친절하고 활동적인 직원들에게 도움을 받고, 커뮤니티와 채팅하고 서버에 대한 알림도 <color=#5865F2>Discord</color>에서 받을 수 있습니다.",
+  "GameTipMessage": "<size=14>당신은 우리의 Discord에 없거나 인증되지 않았습니다.</size>\n<size=12>여기로 참여하고 계정을 연동하세요:\n<color=#ff5c45>discord.gg/bestrustservers</color></size>",
+  "ChatBlocked": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color>\n당신은 우리의 <color=#5865F2>Discord</color>에 없거나 인증되지 않았기 때문에 채팅할 수 없습니다. 우리의 <color=#5865F2>Discord</color>에 참여하고 인증해주세요: <color=#ff5c45>https://discord.gg/bestrustservers</color>"
+}

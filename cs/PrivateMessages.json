@@ -1,0 +1,23 @@
+{
+  "PMTo": "[#00FFFF]PM pro {0}[/#]: {1}",
+  "PMFrom": "[#00FFFF]PM od {0}[/#]: {1}",
+  "PlayerNotOnline": "{0} není online.",
+  "NotOnlineAnymore": "Osoba, se kterou jsi mluvil, už není online.",
+  "NotMessaged": "Nikomu jsi neposlal zprávu nebo ti nikdo neposlal zprávu.",
+  "IgnoreYou": "[#FF0000]{0} tě ignoruje a nemůže přijímat tvoje PM[/#]",
+  "SelfPM": "Nemůžeš posílat zprávy sám sobě.",
+  "SyntaxR": "Nesprávná syntaxe, použij: /r <zpráva>",
+  "HistorySyntax": "Nesprávná syntaxe, použij: /pmhistory <jméno>",
+  "SyntaxPM": "Nesprávná syntaxe, použij: /{0} <jméno> <zpráva>",
+  "NotAllowedToChat": "Nemáš povolení k psaní zde",
+  "History": "Tvoje historie:\n{0}",
+  "CooldownMessage": "Budeš moct poslat soukromou zprávu za {0} sekund",
+  "NoHistory": "S tímto hráčem nemáš žádnou uloženou historii PM.",
+  "CannotFindUser": "Nemohu najít tohoto uživatele",
+  "CommandDisabled": "Tento příkaz byl deaktivován",
+  "IsMuted": "Momentálně jsi ztlumen a nemůžeš posílat soukromé zprávy",
+  "TargetMuted": "Tato osoba je ztlumena a nemůže přijímat tvoji soukromou zprávu",
+  "NoPermission": "Nemáš správná oprávnění k provedení tohoto příkazu",
+  "HistoryPM": "[#00FFFF]{0}[/#]: {1}",
+  "Logging": "[PM]{0}->{1}:{2}"
+}

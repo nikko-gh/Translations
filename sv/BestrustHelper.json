@@ -1,0 +1,7 @@
+﻿{
+  "AdminMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> Om du behöver hjälp eller vill rapportera en spelare, vänligen skapa ett ärende på vår discord. Vi hjälper dig gärna! <color=#ff5c45>discord.gg/bestrustservers</color>",
+  "LagMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> Upplever du lagg? Meddela oss på discord så löser vi det så snart som möjligt. Vi beklagar besväret. <color=#ff5c45>discord.gg/bestrustservers</color>",
+  "BugMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> Hittade du en bugg eller ett glitch? Kontakta oss på discord så belönar vi dig beroende på allvarlighetsgraden! <color=#ff5c45>discord.gg/bestrustservers</color>",
+  "ReportMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> Tack för rapporten. För snabbare support och bättre spårning, vänligen skapa ett ärende på vår discord: <color=#ff5c45>discord.gg/bestrustservers</color> Vårt team kan hjälpa dig mer effektivt där.",
+  "ReportToast": "<size=14>Tack för rapporten.</size>\n<size=12>För snabbare support, skapa ett ärende på vår discord.\ndiscord.gg/bestrustservers</size>"
+}

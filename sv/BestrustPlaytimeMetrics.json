@@ -1,0 +1,4 @@
+﻿{
+  "ModdedMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> Du har spelat <color=#d9b650>{0} timmar</color> på våra servrar hittills!\n\nTidsbelöningssystem:\n- Newbie (0 timmar) Startpaket, Träbaspaket\n- Rookie (50 timmar) Rookie kit\n- Survivor (100 timmar) Ugnsorterare, Lådsorterare\n- Regular (250 timmar) Regular kit\n- Loyal (500 timmar) Loyal kit, Ladda upp bilder till skyltar (/sil)\n- Veteran (750 timmar) Hoppa över kö\n- Warrior (1000 timmar) Warrior kit\n- Elite (1500 timmar) Elite kit, Skinbox\n- Legend (2000 timmar) Legends kit\n- Champion (3000 timmar) Champion kit\n- Demigod (5000 timmar) Demigod kit\n- God (10000 timmar) God kit",
+  "VanillaMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> Du har spelat <color=#d9b650>{0} timmar</color> på våra servrar hittills!\n\nTidsbelöningssystem:\n- Veteran (750 timmar) Hoppa över kö"
+}

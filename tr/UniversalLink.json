@@ -1,0 +1,14 @@
+{
+  "ConnectionError": "Bir bağlantı hatası oluştu. Lütfen tekrar deneyin veya sorun devam ederse bir adminle iletişime geçin.",
+  "RemovedMsg": "Hesaplarınızın bağlantısını kestiğiniz için onaylı gruptan çıkarıldınız.\nEğer bağlantıyı kesen siz değilseniz bir adminle iletişime geçin.",
+  "RemovedNitroMsg": "Sunucu Takviyeniz kaldırıldığı için nitro grubundan çıkarıldınız.\nBu bir sorun teşkil ediyorsa bir adminle iletişime geçin.",
+  "VerifyMsg": "Hey, harika ödüller almak için {0}'de doğrulamayı gerçekleştirin.",
+  "ThanksMsg": "Hesaplarınızı başarıyla doğruladınız ve bağladınız. Teşekkürler!",
+  "SteamNotVerified": "Steam Grubundasınız, ancak doğrulamadınız. Lütfen web sitemizde doğrulama yapın.",
+  "ThanksNitroMsg": "Discord sunucumuza başarıyla takviye yaptınız. Teşekkürler!",
+  "RemovedSteamMsg": "Steam Grubumuzdan ayrıldığınız için Steam Ödülleri grubundan çıkarıldınız.",
+  "ThanksSteamMsg": "Steam Grubumuza başarıyla katıldınız. Teşekkürler!",
+  "NotClient": "Bu komut, konsoldan değil, bir istemciden çalıştırılmalıdır.",
+  "OnCooldown": "Bu komutu kullanmak için şu anda bekleme süresindesiniz.",
+  "NoUsers": "UniversalLink: Alınan yanıt herhangi bir kullanıcı içermiyor."
+}

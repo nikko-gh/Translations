@@ -1,0 +1,4 @@
+{
+  "ModdedMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> Вы играли <color=#d9b650>{0} часов</color> на наших серверах!\n\nНаграды за время игры:\n- Newbie (0 часов) Кит новичка, Кит для деревянной базы\n- Rookie (50 часов) Кит Rookie\n- Survivor (100 часов) Сортировка печи, Сортировка ящиков\n- Regular (250 часов) Кит Regular\n- Loyal (500 часов) Кит Loyal, Загрузка изображений на таблички (/sil)\n- Veteran (750 часов) Пропуск очереди\n- Warrior (1000 часов) Кит Warrior\n- Elite (1500 часов) Кит Elite, Skinbox\n- Legend (2000 часов) Кит Legend\n- Champion (3000 часов) Кит Champion\n- Demigod (5000 часов) Кит Demigod\n- God (10000 часов) Кит God",
+  "VanillaMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> Вы играли <color=#d9b650>{0} часов</color> на наших серверах!\n\nНаграды за время игры:\n- Veteran (750 часов) Пропуск очереди"
+}

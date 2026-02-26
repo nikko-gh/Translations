@@ -1,0 +1,5 @@
+{
+  "Chat": "<color=#bebebe>[<color=#de8732>Udvidet Arbejdsbænk Rækkevidde</color>] {0}</color>",
+  "Notification": "Rækkevidden af din arbejdsbænk er blevet udvidet til at dække hele din base.",
+  "CraftCanceledV1": "Dit arbejdsbænksniveau er ændret. Håndværk, der krævede et højere niveau, er blevet annulleret."
+}

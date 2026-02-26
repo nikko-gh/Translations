@@ -1,0 +1,23 @@
+{
+  "No Permission": "你沒有權限使用此命令。",
+  "No Reason": "未知原因",
+  "Muted": "{player} 已被靜音：{reason}。",
+  "Muted Time": "{player} 被靜音了 {time}：{reason}。",
+  "Unmuted": "{player} 被 {initiator} 解除靜音。",
+  "Not Muted": "{player} 目前未被靜音。",
+  "Mute Expired": "{player} 已不再被靜音。",
+  "Invalid Time Format": "無效的時間格式。例子：1d2h3m4s = 1天，2小時，3分鐘，4秒",
+  "Nobody Muted": "目前沒有任何人被靜音。",
+  "Invalid Syntax Mute": "/mute <player|steamid> \"[reason]\" [time: 1d1h1m1s]",
+  "Invalid Syntax Unmute": "/unmute <player|steamid>",
+  "Player Name Not Found": "找不到名稱為 '{name}' 的玩家",
+  "Player ID Not Found": "找不到 ID 為 '{id}' 的玩家",
+  "Multiple Players Found": "找到多個匹配的玩家：\n{matches}",
+  "Time Muted Player Joined": "{player} 目前被暫時靜音。剩餘時間：{time}",
+  "Time Muted Player Chat": "你不能聊天，你暫時被靜音。剩餘時間：{time}",
+  "Muted Player Joined": "{player} 永久被靜音。",
+  "Muted Player Chat": "你不能聊天，你被永久靜音。",
+  "Global Mute Enabled": "全球靜音已啟用。全球靜音生效期間，無人可以聊天。",
+  "Global Mute Disabled": "全球靜音已停用。大家可以再次聊天。",
+  "Global Mute Active": "全球靜音生效中，你無法聊天。"
+}

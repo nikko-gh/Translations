@@ -1,0 +1,15 @@
+{
+  "Usage": "Usage:\n/trade playerName\n/trade yes\n/trade no",
+  "NoPending": "There are no pending trades!",
+  "RequestAlreadyPending": "That player already have pending requests!",
+  "TradeBegins": "Trade between {name1} and {name2} begins!",
+  "RequestSent": "You sent trade request to {name}",
+  "RequestReceived": "You received trade request from {name}\nTo accept: <color=green>/trade yes</color>\nTo decline: <color=red>/trade no</color>",
+  "TradeCancelled": "Trade was cancelled",
+  "CantRightNow": "You can't do that right now",
+  "OnlyInBuildingPriv": "You can trade only inside your TC building zone",
+  "Cooldown": "You need to wait {seconds} seconds before trading again.",
+  "Permission": "You don't have permission to do that!",
+  "NoPlayers": "There are no players with that 'Name' or 'Steam ID' ({name})",
+  "MultiplePlayers": "There are multiple players with that 'Name' :\n{list}"
+}

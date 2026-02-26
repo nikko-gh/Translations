@@ -1,0 +1,15 @@
+{
+  "Usage": "Употреба:\n/trade имеИграчa\n/trade yes\n/trade no",
+  "NoPending": "Нема чекајућих трејдова!",
+  "RequestAlreadyPending": "Тај играч већ има чекајуће захтеве!",
+  "TradeBegins": "Трејд између {name1} и {name2} почиње!",
+  "RequestSent": "Послали сте захтев за трејд {name}",
+  "RequestReceived": "Примили сте захтев за трејд од {name}\nЗа прихватање: <color=green>/trade yes</color>\nЗа одбијање: <color=red>/trade no</color>",
+  "TradeCancelled": "Трејд је отказан",
+  "CantRightNow": "То не можете урадити тренутно",
+  "OnlyInBuildingPriv": "Можете трејдовати само унутар вашег TC грађевинског простора",
+  "Cooldown": "Морате чекати {seconds} секунди пре него што поново трејдујете.",
+  "Permission": "Немате дозволу да то урадите!",
+  "NoPlayers": "Нема играча са тим 'Именом' или 'Steam ID' ({name})",
+  "MultiplePlayers": "Постоји више играча са тим 'Именом':\n{list}"
+}

@@ -1,0 +1,23 @@
+﻿{
+  "No Permission": "Du har inte behörighet att använda detta kommando.",
+  "No Reason": "Okänd anledning",
+  "Muted": "{player} blev tystad: {reason}.",
+  "Muted Time": "{player} blev tystad i {time}: {reason}.",
+  "Unmuted": "{player} blev unmutad av {initiator}.",
+  "Not Muted": "{player} är för närvarande inte tystad.",
+  "Mute Expired": "{player} är inte längre tystad.",
+  "Invalid Time Format": "Ogiltigt tidsformat. Exempel: 1d2h3m4s = 1 dag, 2 timmar, 3 min, 4 sek",
+  "Nobody Muted": "Ingen är tystad för tillfället.",
+  "Invalid Syntax Mute": "/mute <player|steamid> \"[reason]\" [time: 1d1h1m1s]",
+  "Invalid Syntax Unmute": "/unmute <player|steamid>",
+  "Player Name Not Found": "Kunde inte hitta spelare med namnet '{name}'",
+  "Player ID Not Found": "Kunde inte hitta spelare med ID '{id}'",
+  "Multiple Players Found": "Flera matchande spelare hittades: \n{matches}",
+  "Time Muted Player Joined": "{player} är tillfälligt tystad. Återstående tid: {time}",
+  "Time Muted Player Chat": "Du får inte chatta, du är tillfälligt tystad. Återstående tid: {time}",
+  "Muted Player Joined": "{player} är permanent tystad.",
+  "Muted Player Chat": "Du får inte chatta, du är permanent tystad.",
+  "Global Mute Enabled": "Global mute har aktiverats. Ingen kan chatta medan global mute är aktiv.",
+  "Global Mute Disabled": "Global mute har avaktiverats. Alla kan chatta igen.",
+  "Global Mute Active": "Global mute är aktiv, du får inte chatta."
+}

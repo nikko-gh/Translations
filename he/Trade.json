@@ -1,0 +1,15 @@
+{
+  "Usage": "שימוש:\n/trade playerName\n/trade yes\n/trade no",
+  "NoPending": "אין בקשות עסקה בהמתנה!",
+  "RequestAlreadyPending": "לשחקן הזה כבר יש בקשה ממתינה!",
+  "TradeBegins": "העסקה בין {name1} ל-{name2} התחילה!",
+  "RequestSent": "שלחת בקשת עסקה ל-{name}",
+  "RequestReceived": "קיבלת בקשת עסקה מ-{name}\nלאישור: <color=green>/trade yes</color>\nלסירוב: <color=red>/trade no</color>",
+  "TradeCancelled": "העסקה בוטלה.",
+  "CantRightNow": "לא ניתן לבצע פעולה זו כרגע.",
+  "OnlyInBuildingPriv": "ניתן לבצע עסקה רק באזור הבנייה המוגן על ידי ה-TC שלך.",
+  "Cooldown": "עליך להמתין {seconds} שניות לפני שתוכל לסחור שוב.",
+  "Permission": "אין לך הרשאה לבצע פעולה זו!",
+  "NoPlayers": "לא נמצאו שחקנים בשם או Steam ID הזה ({name})",
+  "MultiplePlayers": "נמצאו מספר שחקנים תואמים:\n{list}"
+}

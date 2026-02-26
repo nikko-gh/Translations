@@ -1,0 +1,14 @@
+{
+  "ConnectionError": "Hi ha hagut un error de connexió. Si us plau, torna-ho a provar o contacta amb un administrador si el problema persisteix.",
+  "RemovedMsg": "Has estat eliminat del grup autenticat perquè has deslligat els teus comptes.\nContacta amb un administrador si no has deslligat tu.",
+  "RemovedNitroMsg": "Has estat eliminat del grup nitro perquè s'ha tret el teu impuls.\nContacta amb un administrador si això és un problema.",
+  "VerifyMsg": "Ei, assegura't de verificar-te a {0} per rebre fantàstiques recompenses.",
+  "ThanksMsg": "Has verificat i vinculat els teus comptes amb èxit. Gràcies!",
+  "SteamNotVerified": "Ets al Grup de Steam, però no estàs verificat. Si us plau, verifica't al nostre lloc web.",
+  "ThanksNitroMsg": "Has impulsat el nostre discord amb èxit. Gràcies!",
+  "RemovedSteamMsg": "Has estat eliminat del grup de Recompenses de Steam per deixar el Grup de Steam.",
+  "ThanksSteamMsg": "Has entrat al nostre Grup de Steam amb èxit. Gràcies!",
+  "NotClient": "Aquesta comanda s'ha d'executar des d'un client, no la consola.",
+  "OnCooldown": "Actualment, estàs en temps de recàrrega per usar aquesta comanda.",
+  "NoUsers": "UniversalLink: La resposta rebuda no conté cap usuari."
+}

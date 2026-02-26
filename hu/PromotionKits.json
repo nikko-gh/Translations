@@ -1,0 +1,7 @@
+{
+  "InvalidCommand": "Érvénytelen parancs.",
+  "CheckCommand": "{0} játékos használta eddig a kódodat, és közülük {1} legalább 1 órát játszott a szervereinken. :)",
+  "Success": "Köszönjük, hogy használta ezt a kódot, igényelheti a kitet a /kitclaim bestrustmain2xserver parancs segítségével.",
+  "InvalidPromoter": "Nem találtam senkit {0} néven.",
+  "InvalidKit": "A kit nem található."
+}

@@ -1,0 +1,15 @@
+{
+  "Usage": "用法:\n/trade 玩家名\n/trade yes\n/trade no",
+  "NoPending": "没有待处理的交易！",
+  "RequestAlreadyPending": "该玩家已请求等待中！",
+  "TradeBegins": "{name1} 和 {name2} 的交易开始了！",
+  "RequestSent": "你已向 {name} 发送交易请求",
+  "RequestReceived": "你收到来自 {name} 的交易请求\n接受: <color=green>/trade yes</color>\n拒绝: <color=red>/trade no</color>",
+  "TradeCancelled": "交易已取消",
+  "CantRightNow": "你现在不能这样做",
+  "OnlyInBuildingPriv": "你只能在自己的TC建筑区内交易",
+  "Cooldown": "你需要等待 {seconds} 秒后再进行交易。",
+  "Permission": "你没有权限这样做！",
+  "NoPlayers": "没有名字或Steam ID为 ({name}) 的玩家",
+  "MultiplePlayers": "有多个名字为：\n{list} 的玩家"
+}

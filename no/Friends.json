@@ -1,0 +1,17 @@
+{
+  "AlreadyOnList": "{0} er allerede vennen din",
+  "CannotAddSelf": "Du kan ikke legge til deg selv",
+  "CommandFriend": "friend",
+  "FriendAdded": "{0} er nå vennen din",
+  "FriendRemoved": "{0} ble fjernet fra vennelisten din",
+  "FriendList": "Venner {0}:\n{1}",
+  "FriendListFull": "Vennelisten din er full",
+  "NoFriends": "Du har ingen venner",
+  "NotAllowed": "Du har ikke lov til å bruke kommandoen '{0}'",
+  "NoPlayersFound": "Ingen spillere funnet med navn eller ID '{0}'",
+  "NotOnFriendList": "{0} ble ikke funnet på vennelisten din",
+  "PlayerNotFound": "Spiller '{0}' ble ikke funnet",
+  "PlayersFound": "Flere spillere ble funnet, vennligst spesifiser: {0}",
+  "PlayersOnly": "Kommando '{0}' kan kun brukes av spillere",
+  "UsageFriend": "Bruk {0} <add|remove|list> <spillernavn eller id>"
+}

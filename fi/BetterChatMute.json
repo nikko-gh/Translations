@@ -1,0 +1,23 @@
+{
+  "No Permission": "Sinulla ei ole lupaa käyttää tätä komentoa.",
+  "No Reason": "Tuntematon syy",
+  "Muted": "{player} on vaiennettu: {reason}.",
+  "Muted Time": "{player} on vaiennettu ajaksi {time}: {reason}.",
+  "Unmuted": "{player} on äänestetty {initiator} toimesta.",
+  "Not Muted": "{player} ei ole tällä hetkellä vaiennettu.",
+  "Mute Expired": "{player} ei ole enää vaiennettu.",
+  "Invalid Time Format": "Virheellinen aikamuoto. Esimerkki: 1d2h3m4s = 1 päivä, 2 tuntia, 3 min, 4 sek",
+  "Nobody Muted": "Ei ketään vaiennettuna tällä hetkellä.",
+  "Invalid Syntax Mute": "/mute <player|steamid> \"[reason]\" [time: 1d1h1m1s]",
+  "Invalid Syntax Unmute": "/unmute <player|steamid>",
+  "Player Name Not Found": "Pelaajaa nimellä '{name}' ei löytynyt",
+  "Player ID Not Found": "Pelaajaa ID:llä '{id}' ei löytynyt",
+  "Multiple Players Found": "Löytyi useita pelaajia: \n{matches}",
+  "Time Muted Player Joined": "{player} on väliaikaisesti vaiennettu. Jäljellä oleva aika: {time}",
+  "Time Muted Player Chat": "Et voi chatata, olet väliaikaisesti vaiennettu. Jäljellä oleva aika: {time}",
+  "Muted Player Joined": "{player} on pysyvästi vaiennettu.",
+  "Muted Player Chat": "Et voi chatata, olet pysyvästi vaiennettu.",
+  "Global Mute Enabled": "Globaali vaimennus on käytössä. Kukaan ei voi chatata, kun globaali vaimennus on aktiivinen.",
+  "Global Mute Disabled": "Globaali vaimennus on pois käytöstä. Kaikki voivat taas chatata.",
+  "Global Mute Active": "Globaali vaimennus on aktiivinen, et voi chatata."
+}

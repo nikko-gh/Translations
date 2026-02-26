@@ -1,0 +1,12 @@
+{
+  "Error.NoPermission": "Du har ikke tillatelse til å bruke denne kommandoen",
+  "Format.ButtonText": "Sorter",
+  "Format.Category": "<color=#D2691E>Kategori</color>",
+  "Format.Disabled": "<color=#B22222>Deaktivert</color>",
+  "Format.Enabled": "<color=#228B22>Aktivert</color>",
+  "Format.Name": "<color=#00BFFF>Navn</color>",
+  "Format.Prefix": "<color=#00FF00>[Sorteringsknapp]</color>: ",
+  "Info.ButtonStatus": "Sorteringsknappen er nå {0}",
+  "Info.SortType": "Sorteringstype er nå {0}",
+  "Info.Help": "Kommandoer:\n<color=#FFFF00>/{0}</color> - Aktiver/Deaktiver sorteringsknappen.\n<color=#FFFF00>/{0} <sort | type></color> - bytt sorteringstype."
+}
