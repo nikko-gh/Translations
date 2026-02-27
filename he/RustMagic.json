@@ -1,6 +1,0 @@
-{
-  "AlreadyHasPermission": "אין צורך בפקודה זו — כבר יש לך הרשאה לתבוע את ערכת RustMagic!",
-  "Cooldown": "עליך להמתין {0} שניות לפני שתוכל להשתמש שוב בפקודה זו.",
-  "SuccessMessage": "השתמשת בקוד ההפניה \"BESTRUST\" באתר RustMagic.com ולכן אתה זכאי לתבוע את ערכת RustMagic!",
-  "FailMessage": "עליך להשתמש בקוד ההפניה \"BESTRUST\" באתר RustMagic.com כדי שתוכל לתבוע את ערכת RustMagic."
-}

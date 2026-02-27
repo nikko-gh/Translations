@@ -1,6 +1,0 @@
-{
-  "AlreadyHasPermission": "Bu komutu kullanmanıza gerek yok. Zaten RustMagic kit'ini alabilirsiniz!",
-  "Cooldown": "Bu komutu kullanabilmek için {0} saniye beklemeniz gerekiyor.",
-  "SuccessMessage": "RustMagic.com'da \"BESTRUST\" referans kodunu kullandınız, bu yüzden RustMagic kit'ini kullanabilirsiniz!",
-  "FailMessage": "RustMagic kit'ini kullanabilmek için RustMagic.com'da \"BESTRUST\" referans kodunu kullanmanız gerekiyor."
-}

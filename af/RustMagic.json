@@ -1,6 +1,0 @@
-{
-  "AlreadyHasPermission": "Jy hoef nie hierdie opdrag te gebruik nie. Jy het reeds toestemming om die RustMagic kit te eis!",
-  "Cooldown": "Jy moet {0} sekondes wag om hierdie opdrag te kan gebruik.",
-  "SuccessMessage": "Jy het die \"BESTRUST\" verwysingskode op RustMagic.com gebruik, so jy kan die RustMagic kit eis!",
-  "FailMessage": "Jy moet die \"BESTRUST\" verwysingskode op RustMagic.com gebruik om die RustMagic kit te kan eis."
-}

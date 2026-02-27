@@ -1,6 +1,0 @@
-{
-  "AlreadyHasPermission": "Je hoeft dit commando niet te gebruiken. Je hebt al toestemming om de RustMagic kit te claimen!",
-  "Cooldown": "Je moet {0} seconden wachten voordat je dit commando kunt gebruiken.",
-  "SuccessMessage": "Je hebt de \"BESTRUST\" referentiecode gebruikt op RustMagic.com, dus je komt in aanmerking om de RustMagic kit te claimen!",
-  "FailMessage": "Je moet de \"BESTRUST\" referentiecode gebruiken op RustMagic.com om de RustMagic kit te kunnen claimen."
-}

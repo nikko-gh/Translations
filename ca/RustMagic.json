@@ -1,6 +1,0 @@
-{
-  "AlreadyHasPermission": "No cal que utilitzis aquesta comanda. Ja tens permís per reclamar el kit de RustMagic!",
-  "Cooldown": "Has d'esperar {0} segons per poder utilitzar aquesta comanda.",
-  "SuccessMessage": "Has utilitzat el codi de referència \"BESTRUST\" a RustMagic.com, així que pots reclamar el kit de RustMagic!",
-  "FailMessage": "Has d'utilitzar el codi de referència \"BESTRUST\" a RustMagic.com per poder reclamar el kit de RustMagic."
-}

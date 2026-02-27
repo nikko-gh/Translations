@@ -1,6 +1,0 @@
-{
-  "AlreadyHasPermission": "Не мораш да користиш ову команду. Већ имаш дозволу да преузмеш RustMagic kit!",
-  "Cooldown": "Мораш да сачекаш {0} секунди да би могао да користиш ову команду.",
-  "SuccessMessage": "Користио си реферални код \"BESTRUST\" на RustMagic.com, тако да имаш право да преузмеш RustMagic kit!",
-  "FailMessage": "Мораш да користиш реферални код \"BESTRUST\" на RustMagic.com да би могао да преузмеш RustMagic kit."
-}
