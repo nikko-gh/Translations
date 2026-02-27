@@ -1,4 +1,4 @@
-name: Send Update to Private Server Repo
+name: Send Update to Private Server Repos
 
 on:
   push:
@@ -6,13 +6,20 @@ on:
       - main
 
 jobs:
-  update-private-repo:
+  update-private-repos:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        target_repo: 
+          - Bestrust-Servers/Bestrust-Vanilla-Server-Files
+          - Bestrust-Servers/Bestrust-Modded-Server-Files
+      fail-fast: false 
+
     steps:
-      - name: Checkout Private Server Repository
+      - name: Checkout Target Repository
         uses: actions/checkout@v4
         with:
-          repository: Bestrust-Servers/Rust-Server-Files
+          repository: ${{ matrix.target_repo }}
           token: ${{ secrets.PRIVATE_REPO_TOKEN }}
           submodules: true
 
@@ -20,7 +27,7 @@ jobs:
         run: |
           git submodule update --remote oxide/lang
 
-      - name: Commit and Push to Private Repo
+      - name: Commit and Push to Target Repo
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
