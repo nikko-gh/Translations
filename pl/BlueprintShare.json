@@ -15,7 +15,7 @@
   "PlayerSharedBlueprint": "Nauczyłeś się blueprintu <color=#ffff00>{0}</color> i udostępniłeś go <color=#ffff00>{1}</color> graczom.",
   "TargetLearntBlueprint": "<color=#ffff00>{0}</color> udostępnił(a) ci blueprint <color=#ffff00>{1}</color>.",
   "BlueprintBlocked": "Blueprint <color=#ffff00>{0}</color> jest zablokowany przed udostępnianiem, ale nadal się go nauczyłeś.",
-  "TargetSharingDisabled": "Nie można udostępnić blueprintów graczowi <color=#ffff00>{0}</color> – wyłączył(a) udostępnianie.",
+  "TargetSharingDisabled": "Nie można udostępnić blueprintów graczowi <color=#ffff00>{0}</color> - wyłączył(a) udostępnianie.",
   "BlueprintsRemoved": "Straciłeś dostęp do <color=#ffff00>{0}</color> blueprintu(ów).",
   "ShowMissingArgument": "Musisz określić, które udostępnione blueprints chcesz zobaczyć. Opcje: <color=#ffff00>team</color>, <color=#ffff00>clan</color> lub <color=#ffff00>friend</color>.",
   "ShowFriendArgumentMissing": "Musisz podać imię znajomego.",

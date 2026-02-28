@@ -15,7 +15,7 @@
   "PlayerSharedBlueprint": "Научио си <color=#ffff00>{0}</color> блуепринт и поделио га са <color=#ffff00>{1}</color> играч(а).",
   "TargetLearntBlueprint": "<color=#ffff00>{0}</color> је поделио <color=#ffff00>{1}</color> блуепринт са тобом.",
   "BlueprintBlocked": "<color=#ffff00>{0}</color> блуепринт је блокиран за дељење, али си га ипак научио.",
-  "TargetSharingDisabled": "Не може се делити блуепринт са <color=#ffff00>{0}</color> – они су онемогућили дељење.",
+  "TargetSharingDisabled": "Не може се делити блуепринт са <color=#ffff00>{0}</color> - они су онемогућили дељење.",
   "BlueprintsRemoved": "Изгубио си приступ <color=#ffff00>{0}</color> блуепринт(ова).",
   "ShowMissingArgument": "Мораш навести који подељени блуепринт желиш да прегледаш. Опције: <color=#ffff00>team</color>, <color=#ffff00>clan</color>, или <color=#ffff00>friend</color>.",
   "ShowFriendArgumentMissing": "Мораш да наведеш име пријатеља.",

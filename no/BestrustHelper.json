@@ -1,7 +1,7 @@
 {
-  "AdminMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> Hvis du trenger hjelp eller vil rapportere en spiller, vennligst opprett en billett på vår discord. Vi hjelper deg gjerne! <color=#ff5c45>discord.gg/bestrustservers</color>",
+  "AdminMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> Hvis du trenger hjelp eller vil rapportere en spiller, vennligst opprett en ticket på vår discord. Vi hjelper deg gjerne! <color=#ff5c45>discord.gg/bestrustservers</color>",
   "LagMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> Opplever du lag? Gi oss beskjed på discord, så vi kan fikse det så raskt som mulig. Beklager ulempen. <color=#ff5c45>discord.gg/bestrustservers</color>",
   "BugMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> Har du funnet en bug eller exploit? Kontakt oss på discord, og vi vil belønne deg avhengig av alvorlighetsgrad! <color=#ff5c45>discord.gg/bestrustservers</color>",
-  "ReportMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> Takk for rapporten. For raskere støtte og bedre oppfølging, vennligst opprett en billett på vår discord: <color=#ff5c45>discord.gg/bestrustservers</color> Teamet vårt hjelper deg mer effektivt der.",
-  "ReportToast": "<size=14>Takk for rapporten.</size>\n<size=12>For raskere støtte, vennligst opprett en billett på vår discord.\ndiscord.gg/bestrustservers</size>"
+  "ReportMessage": "<color=#838383>[</color><color=#f7432a>BestRust Servers</color><color=#838383>]</color> Takk for rapporten. For raskere støtte og bedre oppfølging, vennligst opprett en ticket på vår discord: <color=#ff5c45>discord.gg/bestrustservers</color> Teamet vårt hjelper deg mer effektivt der.",
+  "ReportToast": "<size=14>Takk for rapporten.</size>\n<size=12>For raskere støtte, vennligst opprett en ticket på vår discord.\ndiscord.gg/bestrustservers</size>"
 }

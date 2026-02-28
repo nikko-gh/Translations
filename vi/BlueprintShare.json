@@ -15,7 +15,7 @@
   "PlayerSharedBlueprint": "Bạn đã học blueprint <color=#ffff00>{0}</color> và chia sẻ với <color=#ffff00>{1}</color> người chơi.",
   "TargetLearntBlueprint": "<color=#ffff00>{0}</color> đã chia sẻ blueprint <color=#ffff00>{1}</color> với bạn.",
   "BlueprintBlocked": "Blueprint <color=#ffff00>{0}</color> bị chặn không cho chia sẻ, nhưng bạn vẫn đã học được nó.",
-  "TargetSharingDisabled": "Không thể chia sẻ blueprint với <color=#ffff00>{0}</color> – họ đã tắt chức năng chia sẻ.",
+  "TargetSharingDisabled": "Không thể chia sẻ blueprint với <color=#ffff00>{0}</color> - họ đã tắt chức năng chia sẻ.",
   "BlueprintsRemoved": "Bạn đã mất quyền truy cập vào <color=#ffff00>{0}</color> blueprint.",
   "ShowMissingArgument": "Bạn phải chỉ định blueprint đã được chia sẻ nào để xem. Lựa chọn: <color=#ffff00>team</color>, <color=#ffff00>clan</color>, hoặc <color=#ffff00>friend</color>.",
   "ShowFriendArgumentMissing": "Bạn phải chỉ định tên bạn bè.",
