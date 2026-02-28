@@ -120,7 +120,7 @@
                     },
                     "no": {
                         "Text": [
-                            "<size=21><color=#FFFFFF>VELKOMMEN TIL \n{server_name}</color></size>\n\n<size=14>Hei, {player_username}! Takk for at du valgte serveren vår.\nDet er for øyeblikket {online_players} spillere pålogget.\n\n</size><size=16><color=#FFFFFF><b>Splits.gg</b></color></size>\n<size=14>Bruk kampanjekoden 'BESTRUST' på Splits.gg!\nDu får 3 verdifulle Rust-skins gratis og et gratis kit på alle våre servere..\nMer info på DISCORD</size>\n\n<size=16><color=#FFFFFF><b>Serverfunksjoner</b></color></size><size=14>\n• Belønninger for spilletid: tjen gratis kit og ekstra fordeler\n• 2x multiplikator for alle ressurser og kjernekomponenter\n• Utmerket anti-cheat + aktive administratorer som ikke spiller\n• Ytelsessterk servermaskinvare med DDoS-beskyttelse\n• Delte blåkopier, automatisk autorisasjon.</size>"
+                            "<size=21><color=#FFFFFF>VELKOMMEN TIL \n{server_name}</color></size>\n\n<size=14>Hei, {player_username}! Takk for at du valgte serveren vår.\nDet er for øyeblikket {online_players} spillere pålogget.\n\n</size><size=16><color=#FFFFFF><b>Splits.gg</b></color></size>\n<size=14>Bruk kampanjekoden 'BESTRUST' på Splits.gg!\nDu får 3 verdifulle Rust-skins gratis og et gratis kit på alle våre servere..\nMer info på DISCORD</size>\n\n<size=16><color=#FFFFFF><b>Serverfunksjoner</b></color></size><size=14>\n• Belønninger for spilletid: tjen gratis kit og ekstra fordeler\n• 2x multiplikator for alle ressurser og kjernekomponenter\n• Utmerket anti-cheat + aktive administratorer som ikke spiller\n• Ytelsessterk servermaskinvare med DDoS-beskyttelse\n• Delte blueprints, automatisk autorisasjon.</size>"
                         ]
                     },
                     "sr": {
@@ -691,7 +691,7 @@
                     },
                     "no": {
                         "Text": [
-                            "• Bytte lagkamerater forutsatt at:\n- Spilleren allerede er frakoblet og ikke kommer tilbake før wipe er over.\n- Dere endrer alle koder og fjerner alle tillatelser den avtroppende spilleren kan ha hatt i basen.\n• Overføre basen til andre spillere på samme vilkår.\n• Rettferdig handel via automater, byttevinduer eller i sikre soner.\n• Vennlig opptreden hvis det ikke er PVP i nærheten (så snart noen starter PVP — må du KOS og du kan ikke ta parti!)."
+                            "• Bytte lagkamerater forutsatt at:\n- Spilleren allerede er frakoblet og ikke kommer tilbake før wipe er over.\n- Dere endrer alle koder og fjerner alle autorisasjoner den avtroppende spilleren kan ha hatt i basen.\n• Overføre basen til andre spillere på samme vilkår.\n• Rettferdig handel via salgsautomater, byttevinduer eller i trygge soner.\n• Vennlig opptreden hvis det ikke er PVP i nærheten (så snart noen starter PVP — må du KOS og du kan ikke ta parti!)."
                         ]
                     },
                     "sr": {
@@ -1129,7 +1129,7 @@
                     },
                     "no": {
                         "Text": [
-                            "• Spam, reklame.\n• Rasisme, homofobi, fornærmelser og hatefulle ytringer.\n• Enhver form for sverting av serverne våre.\n• Respektløs oppførsel mot staben.\n• Meldinger som indikerer regelbrudd av andre spillere. (Bruk alltid F7 og åpne sak i Discord.)"
+                            "• Spam, reklame.\n• Rasisme, homofobi, fornærmelser og hatefulle ytringer.\n• Enhver form for sverting av serverne våre.\n• Respektløs oppførsel mot staben.\n• Meldinger som indikerer regelbrudd av andre spillere. (Bruk alltid F7 og åpne en ticket i vår Discord.)"
                         ]
                     },
                     "sr": {
@@ -1940,7 +1940,7 @@
                     },
                     "no": {
                         "Text": [
-                            "• Å utnytte feil i spill, plugins eller sikre soner som gir deg fordel over andre spillere.\n• Å bruke terrengglitcher for å bygge baser, skjule loot eller få tilgang til utilgjengelige områder."
+                            "• Å utnytte feil i spill, plugins eller trygge soner som gir deg fordel over andre spillere.\n• Å bruke terrengglitcher for å bygge baser, skjule loot eller få tilgang til utilgjengelige områder."
                         ]
                     },
                     "sr": {
@@ -2396,147 +2396,147 @@
                 "Messages": {
                     "ru": {
                         "Text": [
-                            "/info - Открывает меню\n/kit - Открывает меню китов/stats - Показывает вашу статистику\n/wipe - Открывает календарь вайпов/tod - Показывает текущее время суток\n/pop - Показывает количество игроков на сервере\n/playtime - Проверяет ваше игровое время и информацию о наградах за время игры\n/trade 'имя игрока' - Позволяет обмениваться с другими игроками\n/link - Обновляет статус привязки и Nitro для получения наград Discord\n/splits - Обновляет статус партнёрской программы Splits.gg для получения кита Splits.gg"
+                            "/info - Открывает меню\n/kit - Открывает меню китов/stats - Показывает вашу статистику\n/wipe - Открывает календарь вайпов\n/tod - Показывает текущее время суток\n/pop - Показывает количество игроков на сервере\n/playtime - Проверяет ваше игровое время и информацию о наградах за время игры\n/trade 'имя игрока' - Позволяет обмениваться с другими игроками\n/link - Обновляет статус привязки и Nitro для получения наград Discord\n/splits - Обновляет статус партнёрской программы Splits.gg для получения кита Splits.gg"
                         ]
                     },
                     "ro": {
                         "Text": [
-                            "/info - Deschide meniul\n/kit - Deschide meniul de kituri/stats - Arată statisticile tale\n/wipe - Deschide calendarul de wipe/tod - Arată momentul zilei curent\n/pop - Arată numărul de jucători de pe server\n/playtime - Verifică timpul tău de joc și informații despre recompensele de timp de joc\n/trade 'numele jucătorului' - Îți permite să faci schimb cu alți jucători\n/link - Reîmprospătează legătura și statusul Nitro pentru a revendica recompensele Discord\n/splits - Reîmprospătează statusul de partener Splits.gg pentru a revendica kitul Splits.gg"
+                            "/info - Deschide meniul\n/kit - Deschide meniul de kituri/stats - Arată statisticile tale\n/wipe - Deschide calendarul de wipe\n/tod - Arată momentul zilei curent\n/pop - Arată numărul de jucători de pe server\n/playtime - Verifică timpul tău de joc și informații despre recompensele de timp de joc\n/trade 'numele jucătorului' - Îți permite să faci schimb cu alți jucători\n/link - Reîmprospătează legătura și statusul Nitro pentru a revendica recompensele Discord\n/splits - Reîmprospătează statusul de partener Splits.gg pentru a revendica kitul Splits.gg"
                         ]
                     },
                     "fr": {
                         "Text": [
-                            "/info - Ouvre le menu\n/kit - Ouvre le menu des kits/stats - Affiche tes statistiques\n/wipe - Ouvre le calendrier des wipes/tod - Affiche l’heure de la journée actuelle\n/pop - Affiche le nombre de joueurs sur le serveur\n/playtime - Vérifie ton temps de jeu et les informations sur les récompenses de temps de jeu\n/trade 'nom du joueur' - Permet d’échanger avec d’autres joueurs\n/link - Actualise le lien et le statut Nitro pour réclamer les récompenses Discord\n/splits - Actualise le statut de partenaire Splits.gg pour réclamer le kit Splits.gg"
+                            "/info - Ouvre le menu\n/kit - Ouvre le menu des kits/stats - Affiche tes statistiques\n/wipe - Ouvre le calendrier des wipes\n/tod - Affiche l’heure de la journée actuelle\n/pop - Affiche le nombre de joueurs sur le serveur\n/playtime - Vérifie ton temps de jeu et les informations sur les récompenses de temps de jeu\n/trade 'nom du joueur' - Permet d’échanger avec d’autres joueurs\n/link - Actualise le lien et le statut Nitro pour réclamer les récompenses Discord\n/splits - Actualise le statut de partenaire Splits.gg pour réclamer le kit Splits.gg"
                         ]
                     },
                     "es-ES": {
                         "Text": [
-                            "/info - Abre el menú\n/kit - Abre el menú de kits/stats - Muestra tus estadísticas\n/wipe - Abre el calendario de wipes/tod - Muestra la hora actual del día\n/pop - Muestra el número de jugadores del servidor\n/playtime - Comprueba tu tiempo de juego e información sobre las recompensas por tiempo de juego\n/trade 'nombre del jugador' - Te permite comerciar con otros jugadores\n/link - Actualiza el enlace y el estado Nitro para reclamar recompensas de Discord\n/splits - Actualiza el estado de socio de Splits.gg para reclamar el kit Splits.gg"
+                            "/info - Abre el menú\n/kit - Abre el menú de kits/stats - Muestra tus estadísticas\n/wipe - Abre el calendario de wipes\n/tod - Muestra la hora actual del día\n/pop - Muestra el número de jugadores del servidor\n/playtime - Comprueba tu tiempo de juego e información sobre las recompensas por tiempo de juego\n/trade 'nombre del jugador' - Te permite comerciar con otros jugadores\n/link - Actualiza el enlace y el estado Nitro para reclamar recompensas de Discord\n/splits - Actualiza el estado de socio de Splits.gg para reclamar el kit Splits.gg"
                         ]
                     },
                     "de": {
                         "Text": [
-                            "/info - Öffnet das Menü\n/kit - Öffnet das Kit‑Menü/stats - Zeigt deine Statistiken\n/wipe - Öffnet den Wipe‑Kalender/tod - Zeigt die aktuelle Tageszeit\n/pop - Zeigt die Spielerzahl des Servers\n/playtime - Prüft deine Spielzeit und Infos zu Spielzeit‑Belohnungen\n/trade 'Spielername' - Ermöglicht Handel mit anderen Spielern\n/link - Aktualisiert Verknüpfung und Nitro‑Status, um Discord‑Belohnungen zu erhalten\n/splits - Aktualisiert den Splits.gg‑Partnerstatus, um das Splits.gg‑Kit zu erhalten"
+                            "/info - Öffnet das Menü\n/kit - Öffnet das Kit‑Menü/stats - Zeigt deine Statistiken\n/wipe - Öffnet den Wipe‑Kalender\n/tod - Zeigt die aktuelle Tageszeit\n/pop - Zeigt die Spielerzahl des Servers\n/playtime - Prüft deine Spielzeit und Infos zu Spielzeit‑Belohnungen\n/trade 'Spielername' - Ermöglicht Handel mit anderen Spielern\n/link - Aktualisiert Verknüpfung und Nitro‑Status, um Discord‑Belohnungen zu erhalten\n/splits - Aktualisiert den Splits.gg‑Partnerstatus, um das Splits.gg‑Kit zu erhalten"
                         ]
                     },
                     "it": {
                         "Text": [
-                            "/info - Apre il menu\n/kit - Apre il menu dei kit/stats - Mostra le tue statistiche\n/wipe - Apre il calendario dei wipe/tod - Mostra l’ora del giorno corrente\n/pop - Mostra il numero di giocatori del server\n/playtime - Controlla il tuo tempo di gioco e le info sulle ricompense per tempo di gioco\n/trade 'nome giocatore' - Permette di commerciare con altri giocatori\n/link - Aggiorna collegamento e stato Nitro per riscattare le ricompense Discord\n/splits - Aggiorna lo stato partner di Splits.gg per riscattare il kit Splits.gg"
+                            "/info - Apre il menu\n/kit - Apre il menu dei kit/stats - Mostra le tue statistiche\n/wipe - Apre il calendario dei wipe\n/tod - Mostra l’ora del giorno corrente\n/pop - Mostra il numero di giocatori del server\n/playtime - Controlla il tuo tempo di gioco e le info sulle ricompense per tempo di gioco\n/trade 'nome giocatore' - Permette di commerciare con altri giocatori\n/link - Aggiorna collegamento e stato Nitro per riscattare le ricompense Discord\n/splits - Aggiorna lo stato partner di Splits.gg per riscattare il kit Splits.gg"
                         ]
                     },
                     "pt-PT": {
                         "Text": [
-                            "/info - Abre o menu\n/kit - Abre o menu de kits/stats - Mostra as tuas estatísticas\n/wipe - Abre o calendário de wipes/tod - Mostra a hora atual do dia\n/pop - Mostra o número de jogadores do servidor\n/playtime - Verifica o teu tempo de jogo e informações sobre recompensas por tempo de jogo\n/trade 'nome do jogador' - Permite trocar com outros jogadores\n/link - Atualiza a ligação e o estado Nitro para reclamar recompensas do Discord\n/splits - Atualiza o estado de parceiro Splits.gg para reclamar o kit Splits.gg"
+                            "/info - Abre o menu\n/kit - Abre o menu de kits/stats - Mostra as tuas estatísticas\n/wipe - Abre o calendário de wipes\n/tod - Mostra a hora atual do dia\n/pop - Mostra o número de jogadores do servidor\n/playtime - Verifica o teu tempo de jogo e informações sobre recompensas por tempo de jogo\n/trade 'nome do jogador' - Permite trocar com outros jogadores\n/link - Atualiza a ligação e o estado Nitro para reclamar recompensas do Discord\n/splits - Atualiza o estado de parceiro Splits.gg para reclamar o kit Splits.gg"
                         ]
                     },
                     "pt-BR": {
                         "Text": [
-                            "/info - Abre o menu\n/kit - Abre o menu de kits/stats - Mostra suas estatísticas\n/wipe - Abre o calendário de wipes/tod - Mostra a hora atual do dia\n/pop - Mostra o número de jogadores do servidor\n/playtime - Verifica seu tempo de jogo e informações sobre recompensas por tempo de jogo\n/trade 'nome do jogador' - Permite trocar com outros jogadores\n/link - Atualiza a vinculação e o status Nitro para resgatar recompensas do Discord\n/splits - Atualiza o status de parceiro Splits.gg para resgatar o kit Splits.gg"
+                            "/info - Abre o menu\n/kit - Abre o menu de kits/stats - Mostra suas estatísticas\n/wipe - Abre o calendário de wipes\n/tod - Mostra a hora atual do dia\n/pop - Mostra o número de jogadores do servidor\n/playtime - Verifica seu tempo de jogo e informações sobre recompensas por tempo de jogo\n/trade 'nome do jogador' - Permite trocar com outros jogadores\n/link - Atualiza a vinculação e o status Nitro para resgatar recompensas do Discord\n/splits - Atualiza o status de parceiro Splits.gg para resgatar o kit Splits.gg"
                         ]
                     },
                     "nl": {
                         "Text": [
-                            "/info - Opent het menu\n/kit - Opent het kitmenu/stats - Toont je statistieken\n/wipe - Opent de wipe‑kalender/tod - Toont het huidige tijdstip van de dag\n/pop - Toont het aantal spelers op de server\n/playtime - Controleert je speeltijd en info over speeltijd‑beloningen\n/trade 'spelernaam' - Maakt ruilen met andere spelers mogelijk\n/link - Vernieuwt de koppeling en Nitro‑status om Discord‑beloningen te claimen\n/splits - Vernieuwt de Splits.gg‑partnerstatus om de Splits.gg‑kit te claimen"
+                            "/info - Opent het menu\n/kit - Opent het kitmenu/stats - Toont je statistieken\n/wipe - Opent de wipe‑kalender\n/tod - Toont het huidige tijdstip van de dag\n/pop - Toont het aantal spelers op de server\n/playtime - Controleert je speeltijd en info over speeltijd‑beloningen\n/trade 'spelernaam' - Maakt ruilen met andere spelers mogelijk\n/link - Vernieuwt de koppeling en Nitro‑status om Discord‑beloningen te claimen\n/splits - Vernieuwt de Splits.gg‑partnerstatus om de Splits.gg‑kit te claimen"
                         ]
                     },
                     "pl": {
                         "Text": [
-                            "/info - Otwiera menu\n/kit - Otwiera menu zestawów/stats - Pokazuje twoje statystyki\n/wipe - Otwiera kalendarz wipe’ów/tod - Pokazuje aktualną porę dnia\n/pop - Pokazuje liczbę graczy na serwerze\n/playtime - Sprawdza twój czas gry i informacje o nagrodach za czas gry\n/trade 'nazwa gracza' - Umożliwia handel z innymi graczami\n/link - Odświeża powiązanie i status Nitro, aby odebrać nagrody Discord\n/splits - Odświeża status partnera Splits.gg, aby odebrać zestaw Splits.gg"
+                            "/info - Otwiera menu\n/kit - Otwiera menu zestawów/stats - Pokazuje twoje statystyki\n/wipe - Otwiera kalendarz wipe’ów\n/tod - Pokazuje aktualną porę dnia\n/pop - Pokazuje liczbę graczy na serwerze\n/playtime - Sprawdza twój czas gry i informacje o nagrodach za czas gry\n/trade 'nazwa gracza' - Umożliwia handel z innymi graczami\n/link - Odświeża powiązanie i status Nitro, aby odebrać nagrody Discord\n/splits - Odświeża status partnera Splits.gg, aby odebrać zestaw Splits.gg"
                         ]
                     },
                     "tr": {
                         "Text": [
-                            "/info - Menüyü açar\n/kit - Kit menüsünü açar/stats - İstatistiklerini gösterir\n/wipe - Wipe takvimini açar/tod - Günün mevcut saatini gösterir\n/pop - Sunucudaki oyuncu sayısını gösterir\n/playtime - Oyun süreni ve oyun süresi ödülleri bilgilerini kontrol eder\n/trade 'oyuncu adı' - Diğer oyuncularla takas yapmanı sağlar\n/link - Discord ödüllerini almak için bağlantıyı ve Nitro durumunu yeniler\n/splits - Splits.gg kitini almak için Splits.gg partner durumunu yeniler"
+                            "/info - Menüyü açar\n/kit - Kit menüsünü açar/stats - İstatistiklerini gösterir\n/wipe - Wipe takvimini açar\n/tod - Günün mevcut saatini gösterir\n/pop - Sunucudaki oyuncu sayısını gösterir\n/playtime - Oyun süreni ve oyun süresi ödülleri bilgilerini kontrol eder\n/trade 'oyuncu adı' - Diğer oyuncularla takas yapmanı sağlar\n/link - Discord ödüllerini almak için bağlantıyı ve Nitro durumunu yeniler\n/splits - Splits.gg kitini almak için Splits.gg partner durumunu yeniler"
                         ]
                     },
                     "uk": {
                         "Text": [
-                            "/info - Відкриває меню\n/kit - Відкриває меню наборів/stats - Показує твою статистику\n/wipe - Відкриває календар вайпів/tod - Показує поточний час доби\n/pop - Показує кількість гравців на сервері\n/playtime - Перевіряє твій час у грі та інформацію про винагороди за час у грі\n/trade 'нік гравця' - Дозволяє обмінюватися з іншими гравцями\n/link - Оновлює прив’язку та статус Nitro для отримання винагород Discord\n/splits - Оновлює статус партнера Splits.gg для отримання набору Splits.gg"
+                            "/info - Відкриває меню\n/kit - Відкриває меню наборів/stats - Показує твою статистику\n/wipe - Відкриває календар вайпів\n/tod - Показує поточний час доби\n/pop - Показує кількість гравців на сервері\n/playtime - Перевіряє твій час у грі та інформацію про винагороди за час у грі\n/trade 'нік гравця' - Дозволяє обмінюватися з іншими гравцями\n/link - Оновлює прив’язку та статус Nitro для отримання винагород Discord\n/splits - Оновлює статус партнера Splits.gg для отримання набору Splits.gg"
                         ]
                     },
                     "hu": {
                         "Text": [
-                            "/info - Megnyitja a menüt\n/kit - Megnyitja a kitek menüt/stats - Megmutatja a statjaidat\n/wipe - Megnyitja a wipe naptárt/tod - Megmutatja a napszakot\n/pop - Megmutatja a szerver játékosszámát\n/playtime - Ellenőrzi a játékidődet és az ahhoz tartozó jutalmakat\n/trade 'játékos neve' - Kereskedés más játékosokkal\n/link - Frissíti az összekapcsolást és a Nitro státuszt a Discord jutalmakért\n/splits - Frissíti a Splits.gg partner státuszt a Splits.gg kitért"
+                            "/info - Megnyitja a menüt\n/kit - Megnyitja a kitek menüt/stats - Megmutatja a statjaidat\n/wipe - Megnyitja a wipe naptárt\n/tod - Megmutatja a napszakot\n/pop - Megmutatja a szerver játékosszámát\n/playtime - Ellenőrzi a játékidődet és az ahhoz tartozó jutalmakat\n/trade 'játékos neve' - Kereskedés más játékosokkal\n/link - Frissíti az összekapcsolást és a Nitro státuszt a Discord jutalmakért\n/splits - Frissíti a Splits.gg partner státuszt a Splits.gg kitért"
                         ]
                     },
                     "af": {
                         "Text": [
-                            "/info - Maak die menu oop\n/kit - Maak die kit-menu oop/stats - Wys jou statistieke\n/wipe - Maak die wipe-kalender oop/tod - Wys die huidige tyd van die dag\n/pop - Wys die aantal spelers op die bediener\n/playtime - Kontroleer jou speeltijd en inligting oor speeltijd-belonings\n/trade 'spelernaam' - Laat jou met ander spelers ruil\n/link - Verfris skakeling en Nitro-status om Discord-belonings te eis\n/splits - Verfris Splits.gg-vennootstatus om die Splits.gg-kit te eis"
+                            "/info - Maak die menu oop\n/kit - Maak die kit-menu oop/stats - Wys jou statistieke\n/wipe - Maak die wipe-kalender oop\n/tod - Wys die huidige tyd van die dag\n/pop - Wys die aantal spelers op die bediener\n/playtime - Kontroleer jou speeltijd en inligting oor speeltijd-belonings\n/trade 'spelernaam' - Laat jou met ander spelers ruil\n/link - Verfris skakeling en Nitro-status om Discord-belonings te eis\n/splits - Verfris Splits.gg-vennootstatus om die Splits.gg-kit te eis"
                         ]
                     },
                     "arabic": {
                         "Text": [
-                            "/info - يفتح القائمة\n/kit - يفتح قائمة الحِزم/stats - يعرض إحصاءاتك\n/wipe - يفتح تقويم الـ wipe/tod - يعرض وقت اليوم الحالي\n/pop - يعرض عدد لاعبي الخادم\n/playtime - يتحقق من وقت لعبك ومعلومات مكافآت وقت اللعب\n/trade 'اسم اللاعب' - يسمح لك بالتداول مع لاعبين آخرين\n/link - يحدّث الربط وحالة Nitro للمطالبة بمكافآت Discord\n/splits - يحدّث حالة شريك Splits.gg للمطالبة بحزمة Splits.gg"
+                            "/info - يفتح القائمة\n/kit - يفتح قائمة الحِزم/stats - يعرض إحصاءاتك\n/wipe - يفتح تقويم الـ wipe\n/tod - يعرض وقت اليوم الحالي\n/pop - يعرض عدد لاعبي الخادم\n/playtime - يتحقق من وقت لعبك ومعلومات مكافآت وقت اللعب\n/trade 'اسم اللاعب' - يسمح لك بالتداول مع لاعبين آخرين\n/link - يحدّث الربط وحالة Nitro للمطالبة بمكافآت Discord\n/splits - يحدّث حالة شريك Splits.gg للمطالبة بحزمة Splits.gg"
                         ]
                     },
                     "ca": {
                         "Text": [
-                            "/info - Obre el menú\n/kit - Obre el menú de kits/stats - Mostra les teves estadístiques\n/wipe - Obre el calendari de wipes/tod - Mostra l’hora actual del dia\n/pop - Mostra el nombre de jugadors del servidor\n/playtime - Comprova el teu temps de joc i la informació sobre les recompenses de temps de joc\n/trade 'nom del jugador' - Permet comerciar amb altres jugadors\n/link - Actualitza l’enllaç i l’estat Nitro per reclamar recompenses de Discord\n/splits - Actualitza l’estat de soci de Splits.gg per reclamar el kit Splits.gg"
+                            "/info - Obre el menú\n/kit - Obre el menú de kits/stats - Mostra les teves estadístiques\n/wipe - Obre el calendari de wipes\n/tod - Mostra l’hora actual del dia\n/pop - Mostra el nombre de jugadors del servidor\n/playtime - Comprova el teu temps de joc i la informació sobre les recompenses de temps de joc\n/trade 'nom del jugador' - Permet comerciar amb altres jugadors\n/link - Actualitza l’enllaç i l’estat Nitro per reclamar recompenses de Discord\n/splits - Actualitza l’estat de soci de Splits.gg per reclamar el kit Splits.gg"
                         ]
                     },
                     "cs": {
                         "Text": [
-                            "/info - Otevře menu\n/kit - Otevře menu kitů/stats - Zobrazí tvoje statistiky\n/wipe - Otevře kalendář wipe/tod - Zobrazí aktuální denní dobu\n/pop - Zobrazí počet hráčů na serveru\n/playtime - Zkontroluje tvůj čas ve hře a informace o odměnách za čas ve hře\n/trade 'jméno hráče' - Umožní obchod s ostatními hráči\n/link - Obnoví propojení a Nitro status pro získání Discord odměn\n/splits - Obnoví partnerský status Splits.gg pro získání kitu Splits.gg"
+                            "/info - Otevře menu\n/kit - Otevře menu kitů/stats - Zobrazí tvoje statistiky\n/wipe - Otevře kalendář wipe\n/tod - Zobrazí aktuální denní dobu\n/pop - Zobrazí počet hráčů na serveru\n/playtime - Zkontroluje tvůj čas ve hře a informace o odměnách za čas ve hře\n/trade 'jméno hráče' - Umožní obchod s ostatními hráči\n/link - Obnoví propojení a Nitro status pro získání Discord odměn\n/splits - Obnoví partnerský status Splits.gg pro získání kitu Splits.gg"
                         ]
                     },
                     "da": {
                         "Text": [
-                            "/info - Åbner menuen\n/kit - Åbner kit-menuen/stats - Viser dine statistikker\n/wipe - Åbner wipe-kalenderen/tod - Viser det aktuelle tidspunkt på dagen\n/pop - Viser antallet af spillere på serveren\n/playtime - Tjekker din spilletid og info om spilletidsbelønninger\n/trade 'spillerens navn' - Gør det muligt at handle med andre spillere\n/link - Opdaterer link og Nitro-status for at kræve Discord-belønninger\n/splits - Opdaterer Splits.gg-partnerstatus for at kræve Splits.gg-kittet"
+                            "/info - Åbner menuen\n/kit - Åbner kit-menuen/stats - Viser dine statistikker\n/wipe - Åbner wipe-kalenderen\n/tod - Viser det aktuelle tidspunkt på dagen\n/pop - Viser antallet af spillere på serveren\n/playtime - Tjekker din spilletid og info om spilletidsbelønninger\n/trade 'spillerens navn' - Gør det muligt at handle med andre spillere\n/link - Opdaterer link og Nitro-status for at kræve Discord-belønninger\n/splits - Opdaterer Splits.gg-partnerstatus for at kræve Splits.gg-kittet"
                         ]
                     },
                     "el": {
                         "Text": [
-                            "/info - Ανοίγει το μενού\n/kit - Ανοίγει το μενού kits/stats - Εμφανίζει τα στατιστικά σου\n/wipe - Ανοίγει το ημερολόγιο wipe/tod - Εμφανίζει την τρέχουσα ώρα της ημέρας\n/pop - Εμφανίζει τον αριθμό παικτών του διακομιστή\n/playtime - Ελέγχει τον χρόνο παιχνιδιού σου και πληροφορίες για ανταμοιβές\n/trade 'όνομα παίκτη' - Επιτρέπει ανταλλαγές με άλλους παίκτες\n/link - Ανανέωση σύνδεσης και κατάστασης Nitro για διεκδίκηση ανταμοιβών Discord\n/splits - Ανανέωση κατάστασης συνεργάτη Splits.gg για διεκδίκηση του Splits.gg kit"
+                            "/info - Ανοίγει το μενού\n/kit - Ανοίγει το μενού kits/stats - Εμφανίζει τα στατιστικά σου\n/wipe - Ανοίγει το ημερολόγιο wipe\n/tod - Εμφανίζει την τρέχουσα ώρα της ημέρας\n/pop - Εμφανίζει τον αριθμό παικτών του διακομιστή\n/playtime - Ελέγχει τον χρόνο παιχνιδιού σου και πληροφορίες για ανταμοιβές\n/trade 'όνομα παίκτη' - Επιτρέπει ανταλλαγές με άλλους παίκτες\n/link - Ανανέωση σύνδεσης και κατάστασης Nitro για διεκδίκηση ανταμοιβών Discord\n/splits - Ανανέωση κατάστασης συνεργάτη Splits.gg για διεκδίκηση του Splits.gg kit"
                         ]
                     },
                     "fi": {
                         "Text": [
-                            "/info - Avaa valikon\n/kit - Avaa kit-valikon/stats - Näyttää tilastosi\n/wipe - Avaa wipe-kalenterin/tod - Näyttää vuorokaudenajan\n/pop - Näyttää palvelimen pelaajamäärän\n/playtime - Tarkistaa peliaikasi ja peliaikapalkintojen tiedot\n/trade 'pelaajan nimi' - Mahdollistaa vaihdon muiden pelaajien kanssa\n/link - Päivittää linkityksen ja Nitro-tilan Discord-palkintojen lunastamiseksi\n/splits - Päivittää Splits.gg-kumppanuustilan Splits.gg-kitistä"
+                            "/info - Avaa valikon\n/kit - Avaa kit-valikon/stats - Näyttää tilastosi\n/wipe - Avaa wipe-kalenterin\n/tod - Näyttää vuorokaudenajan\n/pop - Näyttää palvelimen pelaajamäärän\n/playtime - Tarkistaa peliaikasi ja peliaikapalkintojen tiedot\n/trade 'pelaajan nimi' - Mahdollistaa vaihdon muiden pelaajien kanssa\n/link - Päivittää linkityksen ja Nitro-tilan Discord-palkintojen lunastamiseksi\n/splits - Päivittää Splits.gg-kumppanuustilan Splits.gg-kitistä"
                         ]
                     },
                     "hebrew": {
                         "Text": [
-                            "/info - פותח את התפריט\n/kit - פותח את תפריט הקיטים/stats - מציג את הסטטיסטיקות שלך\n/wipe - פותח את לוח ה‑wipe/tod - מציג את השעה הנוכחית ביום\n/pop - מציג את מספר השחקנים בשרת\n/playtime - בודק את זמן המשחק שלך ומידע על תגמולים\n/trade 'שם שחקן' - מאפשר מסחר עם שחקנים אחרים\n/link - מרענן קישור ומצב Nitro כדי לקבל תגמולי Discord\n/splits - מרענן מצב שותף Splits.gg לקבלת ערכת Splits.gg"
+                            "/info - פותח את התפריט\n/kit - פותח את תפריט הקיטים/stats - מציג את הסטטיסטיקות שלך\n/wipe - פותח את לוח ה‑wipe\n/tod - מציג את השעה הנוכחית ביום\n/pop - מציג את מספר השחקנים בשרת\n/playtime - בודק את זמן המשחק שלך ומידע על תגמולים\n/trade 'שם שחקן' - מאפשר מסחר עם שחקנים אחרים\n/link - מרענן קישור ומצב Nitro כדי לקבל תגמולי Discord\n/splits - מרענן מצב שותף Splits.gg לקבלת ערכת Splits.gg"
                         ]
                     },
                     "ja": {
                         "Text": [
-                            "/info - メニューを開く\n/kit - キットメニューを開く/stats - 自分の統計を表示\n/wipe - ワイプカレンダーを開く/tod - 現在の時刻を表示\n/pop - サーバーのプレイヤー数を表示\n/playtime - プレイ時間とプレイ時間報酬の情報を確認\n/trade 'プレイヤー名' - 他プレイヤーとの取引を可能にする\n/link - Discord 報酬を受け取るためにリンクと Nitro 状態を更新\n/splits - Splits.gg パートナーステータスを更新し Splits.gg キットを受け取る"
+                            "/info - メニューを開く\n/kit - キットメニューを開く/stats - 自分の統計を表示\n/wipe - ワイプカレンダーを開く\n/tod - 現在の時刻を表示\n/pop - サーバーのプレイヤー数を表示\n/playtime - プレイ時間とプレイ時間報酬の情報を確認\n/trade 'プレイヤー名' - 他プレイヤーとの取引を可能にする\n/link - Discord 報酬を受け取るためにリンクと Nitro 状態を更新\n/splits - Splits.gg パートナーステータスを更新し Splits.gg キットを受け取る"
                         ]
                     },
                     "ko": {
                         "Text": [
-                            "/info - 메뉴 열기\n/kit - 키트 메뉴 열기/stats - 내 통계를 표시\n/wipe - 와이프 캘린더 열기/tod - 현재 시간 표시\n/pop - 서버의 플레이어 수 표시\n/playtime - 플레이 시간 및 보상 정보 확인\n/trade '플레이어 이름' - 다른 플레이어와 거래 가능\n/link - Discord 보상을 받기 위해 링크 및 Nitro 상태 새로고침\n/splits - Splits.gg 파트너 상태 새로고침으로 Splits.gg 키트 수령"
+                            "/info - 메뉴 열기\n/kit - 키트 메뉴 열기/stats - 내 통계를 표시\n/wipe - 와이프 캘린더 열기\n/tod - 현재 시간 표시\n/pop - 서버의 플레이어 수 표시\n/playtime - 플레이 시간 및 보상 정보 확인\n/trade '플레이어 이름' - 다른 플레이어와 거래 가능\n/link - Discord 보상을 받기 위해 링크 및 Nitro 상태 새로고침\n/splits - Splits.gg 파트너 상태 새로고침으로 Splits.gg 키트 수령"
                         ]
                     },
                     "no": {
                         "Text": [
-                            "/info - Åpner menyen\n/kit - Åpner kit‑menyen/stats - Viser statistikken din\n/wipe - Åpner wipe‑kalenderen/tod - Viser gjeldende tid på døgnet\n/pop - Viser antall spillere på serveren\n/playtime - Sjekker spilletiden din og info om belønninger\n/trade 'spillernavn' - Lar deg handle med andre spillere\n/link - Oppdaterer kobling og Nitro‑status for å kreve Discord‑belønninger\n/splits - Oppdaterer Splits.gg‑partnerstatus for å kreve Splits.gg‑kittet"
+                            "/info - Åpner menyen\n/kit - Åpner kit‑menyen/stats - Viser statistikken din\n/wipe - Åpner wipe‑kalenderen\n/tod - Viser gjeldende tid på døgnet\n/pop - Viser antall spillere på serveren\n/playtime - Sjekker spilletiden din og info om belønninger\n/trade 'spillernavn' - Lar deg bytte med andre spillere\n/link - Oppdaterer kobling og Nitro‑status for å kreve Discord‑belønninger\n/splits - Oppdaterer Splits.gg‑partnerstatus for å kreve Splits.gg‑kittet"
                         ]
                     },
                     "sr": {
                         "Text": [
-                            "/info - Отвара мени\n/kit - Отвара мени китова/stats - Приказује твоју статистику\n/wipe - Отвара календар wipe‑ова/tod - Приказује тренутно доба дана\n/pop - Приказује број играча на серверу\n/playtime - Проверава твоје време у игри и информације о наградама за време у игри\n/trade 'име играча' - Омогућава трговину са другим играчима\n/link - Освежава повезивање и Nitro статус за преузимање Discord награда\n/splits - Освежава Splits.gg партнер статус за преузимање Splits.gg кита"
+                            "/info - Отвара мени\n/kit - Отвара мени китова/stats - Приказује твоју статистику\n/wipe - Отвара календар wipe‑ова\n/tod - Приказује тренутно доба дана\n/pop - Приказује број играча на серверу\n/playtime - Проверава твоје време у игри и информације о наградама за време у игри\n/trade 'име играча' - Омогућава трговину са другим играчима\n/link - Освежава повезивање и Nitro статус за преузимање Discord награда\n/splits - Освежава Splits.gg партнер статус за преузимање Splits.gg кита"
                         ]
                     },
                     "sv": {
                         "Text": [
-                            "/info - Öppnar menyn\n/kit - Öppnar kitmenyn/stats - Visar din statistik\n/wipe - Öppnar wipe‑kalendern/tod - Visar aktuell tid på dygnet\n/pop - Visar antalet spelare på servern\n/playtime - Kontrollerar din speltid och info om belöningar\n/trade 'spelarens namn' - Gör det möjligt att byta med andra spelare\n/link - Uppdaterar länk och Nitro‑status för att hämta Discord‑belöningar\n/splits - Uppdaterar Splits.gg‑partnerstatus för att hämta Splits.gg‑kitet"
+                            "/info - Öppnar menyn\n/kit - Öppnar kitmenyn/stats - Visar din statistik\n/wipe - Öppnar wipe‑kalendern\n/tod - Visar aktuell tid på dygnet\n/pop - Visar antalet spelare på servern\n/playtime - Kontrollerar din speltid och info om belöningar\n/trade 'spelarens namn' - Gör det möjligt att byta med andra spelare\n/link - Uppdaterar länk och Nitro‑status för att hämta Discord‑belöningar\n/splits - Uppdaterar Splits.gg‑partnerstatus för att hämta Splits.gg‑kitet"
                         ]
                     },
                     "zh-CN": {
                         "Text": [
-                            "/info - 打开菜单\n/kit - 打开套件菜单/stats - 显示你的统计\n/wipe - 打开清档日历/tod - 显示当前时间\n/pop - 显示服务器玩家数量\n/playtime - 检查你的游戏时长与时长奖励信息\n/trade '玩家名' - 允许与其他玩家交易\n/link - 刷新绑定与 Nitro 状态以领取 Discord 奖励\n/splits - 刷新 Splits.gg 合作伙伴状态以领取 Splits.gg 套件"
+                            "/info - 打开菜单\n/kit - 打开套件菜单/stats - 显示你的统计\n/wipe - 打开清档日历\n/tod - 显示当前时间\n/pop - 显示服务器玩家数量\n/playtime - 检查你的游戏时长与时长奖励信息\n/trade '玩家名' - 允许与其他玩家交易\n/link - 刷新绑定与 Nitro 状态以领取 Discord 奖励\n/splits - 刷新 Splits.gg 合作伙伴状态以领取 Splits.gg 套件"
                         ]
                     },
                     "zh-TW": {
                         "Text": [
-                            "/info - 打開選單\n/kit - 打開套件選單/stats - 顯示你的統計\n/wipe - 打開清檔行事曆/tod - 顯示目前時段\n/pop - 顯示伺服器玩家數\n/playtime - 檢查你的遊戲時數與時數獎勵資訊\n/trade '玩家名稱' - 可與其他玩家交易\n/link - 重新整理綁定與 Nitro 狀態以領取 Discord 獎勵\n/splits - 重新整理 Splits.gg 合作夥伴狀態以領取 Splits.gg 套件"
+                            "/info - 打開選單\n/kit - 打開套件選單/stats - 顯示你的統計\n/wipe - 打開清檔行事曆\n/tod - 顯示目前時段\n/pop - 顯示伺服器玩家數\n/playtime - 檢查你的遊戲時數與時數獎勵資訊\n/trade '玩家名稱' - 可與其他玩家交易\n/link - 重新整理綁定與 Nitro 狀態以領取 Discord 獎勵\n/splits - 重新整理 Splits.gg 合作夥伴狀態以領取 Splits.gg 套件"
                         ]
                     },
                     "vi": {
                         "Text": [
-                            "/info - Mở menu\n/kit - Mở menu kit/stats - Hiển thị thống kê của bạn\n/wipe - Mở lịch wipe/tod - Hiển thị thời gian trong ngày hiện tại\n/pop - Hiển thị số người chơi trên máy chủ\n/playtime - Kiểm tra thời gian chơi và thông tin về phần thưởng theo thời gian chơi\n/trade 'tên người chơi' - Cho phép giao dịch với người chơi khác\n/link - Làm mới liên kết và trạng thái Nitro để nhận phần thưởng Discord\n/splits - Làm mới trạng thái đối tác Splits.gg để nhận kit Splits.gg"
+                            "/info - Mở menu\n/kit - Mở menu kit/stats - Hiển thị thống kê của bạn\n/wipe - Mở lịch wipe\n/tod - Hiển thị thời gian trong ngày hiện tại\n/pop - Hiển thị số người chơi trên máy chủ\n/playtime - Kiểm tra thời gian chơi và thông tin về phần thưởng theo thời gian chơi\n/trade 'tên người chơi' - Cho phép giao dịch với người chơi khác\n/link - Làm mới liên kết và trạng thái Nitro để nhận phần thưởng Discord\n/splits - Làm mới trạng thái đối tác Splits.gg để nhận kit Splits.gg"
                         ]
                     }
                 }
