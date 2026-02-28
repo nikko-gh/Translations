@@ -1,0 +1,6 @@
+{
+  "AlreadyHasPermission": "이 명령어를 사용할 필요가 없습니다. 이미 RustMagic kit을 획득할 수 있는 권한이 있습니다!",
+  "Cooldown": "이 명령어를 사용하려면 {0}초를 기다려야 합니다.",
+  "SuccessMessage": "RustMagic.com에서 \"BESTRUST\" 추천 코드를 사용하여 RustMagic kit을 받을 수 있습니다!",
+  "FailMessage": "RustMagic kit을 받으려면 RustMagic.com에서 \"BESTRUST\" 추천 코드를 사용해야 합니다."
+}

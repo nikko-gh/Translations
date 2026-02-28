@@ -1,0 +1,6 @@
+{
+  "AlreadyHasPermission": "你不需要使用这个命令。你已经有权限领取RustMagic kit了！",
+  "Cooldown": "你需要等待{0}秒才能使用这个命令。",
+  "SuccessMessage": "你在RustMagic.com上使用了\"BESTRUST\"推荐码，可以领取RustMagic kit了！",
+  "FailMessage": "你需要在RustMagic.com上使用\"BESTRUST\"推荐码才能领取RustMagic kit。"
+}

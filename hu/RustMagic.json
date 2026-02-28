@@ -1,0 +1,6 @@
+{
+  "AlreadyHasPermission": "Nem kell használnod ezt a parancsot. Már megvan a jogosultságod, hogy igényeld a RustMagic kit-et!",
+  "Cooldown": "Várnod kell {0} másodpercet, hogy használhasd ezt a parancsot.",
+  "SuccessMessage": "Használtad a \"BESTRUST\" ajánlókódot a RustMagic.com oldalon, így jogosult vagy a RustMagic kit igénylésére!",
+  "FailMessage": "Azért kell használnod a \"BESTRUST\" ajánlókódot a RustMagic.com oldalon, hogy igényelhesd a RustMagic kit-et."
+}

@@ -1,0 +1,6 @@
+{
+  "AlreadyHasPermission": "You don't have to use this command. You already have permission to claim the RustMagic kit!",
+  "Cooldown": "You have to wait {0} seconds to be able to use this command.",
+  "SuccessMessage": "You used the \"BESTRUST\" referral code on RustMagic.com, so you are eligible to claim the RustMagic kit!",
+  "FailMessage": "You have to use the \"BESTRUST\" referral code on RustMagic.com to be able to claim the RustMagic kit."
+}

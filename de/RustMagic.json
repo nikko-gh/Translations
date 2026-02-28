@@ -1,0 +1,6 @@
+{
+  "AlreadyHasPermission": "Du musst diesen Befehl nicht verwenden. Du hast bereits die Berechtigung, das RustMagic kit zu beanspruchen!",
+  "Cooldown": "Du musst {0} Sekunden warten, um diesen Befehl erneut nutzen zu können.",
+  "SuccessMessage": "Du hast den \"BESTRUST\" Empfehlungscode auf RustMagic.com verwendet und kannst daher das RustMagic kit beanspruchen!",
+  "FailMessage": "Du musst den \"BESTRUST\" Empfehlungscode auf RustMagic.com verwenden, um das RustMagic kit beanspruchen zu können."
+}
