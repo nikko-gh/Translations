@@ -1,6 +1,0 @@
-{
-  "AlreadyHasPermission": "Nepotřebuješ použít tento příkaz. Už máš oprávnění získat RustMagic kit!",
-  "Cooldown": "Musíš počkat {0} sekund, než můžeš tento příkaz použít.",
-  "SuccessMessage": "Použil jsi referenční kód \"BESTRUST\" na RustMagic.com, takže můžeš získat RustMagic kit!",
-  "FailMessage": "Musíš použít referenční kód \"BESTRUST\" na RustMagic.com, abys mohl získat RustMagic kit."
-}

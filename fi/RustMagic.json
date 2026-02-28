@@ -1,6 +1,0 @@
-{
-  "AlreadyHasPermission": "Sinun ei tarvitse käyttää tätä komentoa. Sinulla on jo lupa lunastaa RustMagic kitti!",
-  "Cooldown": "Sinun täytyy odottaa {0} sekuntia ennen kuin voit käyttää tätä komentoa.",
-  "SuccessMessage": "Käytit \"BESTRUST\" suosituskoodia RustMagic.com-sivustolla, joten voit lunastaa RustMagic kitin!",
-  "FailMessage": "Sinun täytyy käyttää \"BESTRUST\" suosituskoodia RustMagic.com-sivustolla voidaksesi lunastaa RustMagic kitin."
-}

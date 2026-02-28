@@ -1,6 +1,0 @@
-{
-  "AlreadyHasPermission": "Você não precisa usar este comando. Você já tem permissão para receber o kit RustMagic!",
-  "Cooldown": "Você tem que esperar {0} segundos para poder usar este comando.",
-  "SuccessMessage": "Você usou o código de indicação \"BESTRUST\" em RustMagic.com, então você está elegível para receber o kit RustMagic!",
-  "FailMessage": "Você tem que usar o código de indicação \"BESTRUST\" em RustMagic.com para poder receber o kit RustMagic."
-}

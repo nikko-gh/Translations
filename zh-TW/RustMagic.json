@@ -1,6 +1,0 @@
-{
-  "AlreadyHasPermission": "您不需要使用這個指令。您已經具備領取RustMagic套件的權限！",
-  "Cooldown": "您需要等待 {0} 秒才能使用這個指令。",
-  "SuccessMessage": "您在RustMagic.com上使用了\"BESTRUST\"推薦代碼，可以領取RustMagic套件！",
-  "FailMessage": "您需要在RustMagic.com上使用\"BESTRUST\"推薦代碼才能領取RustMagic套件。"
-}

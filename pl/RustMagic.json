@@ -1,6 +1,0 @@
-{
-  "AlreadyHasPermission": "Nie musisz używać tej komendy. Masz już uprawnienia do odebrania zestawu RustMagic!",
-  "Cooldown": "Musisz poczekać {0} sekund, aby móc użyć tej komendy.",
-  "SuccessMessage": "Użyłeś kodu referencyjnego \"BESTRUST\" na RustMagic.com, więc możesz odebrać zestaw RustMagic!",
-  "FailMessage": "Musisz użyć kodu referencyjnego \"BESTRUST\" na RustMagic.com, aby móc odebrać zestaw RustMagic."
-}

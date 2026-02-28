@@ -1,6 +1,0 @@
-{
-  "AlreadyHasPermission": "Вам не нужно использовать данную команду. У вас уже есть разрешение получить кит RustMagic!",
-  "Cooldown": "Подождите {0} секунд, чтобы снова использовать данную команду.",
-  "SuccessMessage": "Вы использовали реферальный код \"BESTRUST\" на RustMagic.com, теперь вы можете получить кит RustMagic!",
-  "FailMessage": "Чтобы получить RustMagic kit, используйте реферальный код \"BESTRUST\" на RustMagic.com."
-}
