@@ -14,7 +14,7 @@
   "Notification.Create.InExistingClan": "Olet jo klaanin jäsen",
   "Notification.Create.NoPermission": "Sinulla ei ole oikeutta luoda klaania",
   "Notification.Create.TagReserved1": "Tunniste {0} on varattu toiselle pelaajalle",
-  "Notification.Create.InvalidTagLength": "Valitsemasi tunniste on virheellinen. Sen tulee olla {0}–{1} merkkiä pitkä",
+  "Notification.Create.InvalidTagLength": "Valitsemasi tunniste on virheellinen. Sen tulee olla {0}-{1} merkkiä pitkä",
   "Notification.Create.InvalidCharacters": "Valitsemasi tunniste sisältää kiellettyjä sanoja/merkkejä",
   "Notification.Create.ClanExists": "Klaani tällä tunnisteella on jo olemassa",
   "Notification.Create.NoNativeCreate": "Sinun tulee luoda klaani komennolla /clan create <tagi> <kuvaus>",

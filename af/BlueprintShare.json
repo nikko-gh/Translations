@@ -15,7 +15,7 @@
   "PlayerSharedBlueprint": "Jy het die <color=#ffff00>{0}</color> bloudruk geleer en met <color=#ffff00>{1}</color> speler(s) gedeel.",
   "TargetLearntBlueprint": "<color=#ffff00>{0}</color> het die <color=#ffff00>{1}</color> bloudruk met jou gedeel.",
   "BlueprintBlocked": "Die <color=#ffff00>{0}</color> bloudruk word geblokkeer om te deel, maar jy het dit steeds geleer.",
-  "TargetSharingDisabled": "Kan nie bloudrukke met <color=#ffff00>{0}</color> deel nie – hulle het deel gedeaktiveer.",
+  "TargetSharingDisabled": "Kan nie bloudrukke met <color=#ffff00>{0}</color> deel nie - hulle het deel gedeaktiveer.",
   "BlueprintsRemoved": "Jy het toegang tot <color=#ffff00>{0}</color> bloudruk(ke) verloor.",
   "ShowMissingArgument": "Jy moet spesifiseer watter gedeelde bloudrukke om te sien. Opsies: <color=#ffff00>span</color>, <color=#ffff00>klan</color>, of <color=#ffff00>vriend</color>.",
   "ShowFriendArgumentMissing": "Jy moet jou vriend se naam spesifiseer.",

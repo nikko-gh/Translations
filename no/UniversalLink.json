@@ -1,7 +1,7 @@
 {
-  "ConnectionError": "Det oppstod en tilkoblingsfeil. Vennligst prøv igjen, eller kontakt en admin hvis problemet vedvarer.",
-  "RemovedMsg": "Du har blitt fjernet fra den autentiserte gruppen fordi du koblet fra kontoene dine.\nKontakt en admin hvis du ikke koblet fra.",
-  "RemovedNitroMsg": "Du har blitt fjernet fra nitro-gruppen fordi boosten din ble fjernet.\nKontakt en admin hvis dette er et problem.",
+  "ConnectionError": "Det oppstod en tilkoblingsfeil. Vennligst prøv igjen, eller kontakt en administrator hvis problemet vedvarer.",
+  "RemovedMsg": "Du har blitt fjernet fra den autentiserte gruppen fordi du koblet fra kontoene dine.\nKontakt en administrator hvis du ikke koblet fra.",
+  "RemovedNitroMsg": "Du har blitt fjernet fra nitro-gruppen fordi boosten din ble fjernet.\nKontakt en administrator hvis dette er et problem.",
   "VerifyMsg": "Hei, husk å verifisere på {0} for å få noen flotte rewards.",
   "ThanksMsg": "Du har verifisert og koblet kontoene dine. Takk!",
   "SteamNotVerified": "Du er i Steam-gruppen, men ikke verifisert. Vennligst verifiser på nettsiden vår.",

@@ -15,7 +15,7 @@
   "PlayerSharedBlueprint": "Du har lært <color=#ffff00>{0}</color> blueprint og delt det med <color=#ffff00>{1}</color> spiller(e).",
   "TargetLearntBlueprint": "<color=#ffff00>{0}</color> har delt <color=#ffff00>{1}</color> blueprint med deg.",
   "BlueprintBlocked": "<color=#ffff00>{0}</color> blueprint er blokkert fra deling, men du har fortsatt lært det.",
-  "TargetSharingDisabled": "Kan ikke dele blueprints med <color=#ffff00>{0}</color> – de har deaktivert deling.",
+  "TargetSharingDisabled": "Kan ikke dele blueprints med <color=#ffff00>{0}</color> - de har deaktivert deling.",
   "BlueprintsRemoved": "Du har mistet tilgangen til <color=#ffff00>{0}</color> blueprint(s).",
   "ShowMissingArgument": "Du må spesifisere hvilke delte blueprints du vil se. Valg: <color=#ffff00>team</color>, <color=#ffff00>clan</color>, eller <color=#ffff00>friend</color>.",
   "ShowFriendArgumentMissing": "Du må spesifisere navnet til en venn.",

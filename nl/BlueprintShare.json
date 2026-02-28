@@ -15,7 +15,7 @@
   "PlayerSharedBlueprint": "Je hebt de <color=#ffff00>{0}</color> blueprint geleerd en gedeeld met <color=#ffff00>{1}</color> speler(s).",
   "TargetLearntBlueprint": "<color=#ffff00>{0}</color> heeft de <color=#ffff00>{1}</color> blueprint met je gedeeld.",
   "BlueprintBlocked": "De <color=#ffff00>{0}</color> blueprint is geblokkeerd voor delen, maar je hebt hem wel geleerd.",
-  "TargetSharingDisabled": "Kan geen blueprints delen met <color=#ffff00>{0}</color> – ze hebben delen uitgeschakeld.",
+  "TargetSharingDisabled": "Kan geen blueprints delen met <color=#ffff00>{0}</color> - ze hebben delen uitgeschakeld.",
   "BlueprintsRemoved": "Je hebt toegang verloren tot <color=#ffff00>{0}</color> blueprint(s).",
   "ShowMissingArgument": "Je moet opgeven welke gedeelde blueprints je wilt bekijken. Opties: <color=#ffff00>team</color>, <color=#ffff00>clan</color>, of <color=#ffff00>vriend</color>.",
   "ShowFriendArgumentMissing": "Je moet de naam van een vriend opgeven.",

@@ -15,7 +15,7 @@
   "PlayerSharedBlueprint": "Du har lärt dig <color=#ffff00>{0}</color>-ritningen och delat den med <color=#ffff00>{1}</color> spelare.",
   "TargetLearntBlueprint": "<color=#ffff00>{0}</color> har delat <color=#ffff00>{1}</color>-ritningen med dig.",
   "BlueprintBlocked": "<color=#ffff00>{0}</color>-ritningen är blockerad från delning, men du har ändå lärt dig den.",
-  "TargetSharingDisabled": "Kan inte dela ritningar med <color=#ffff00>{0}</color> – de har inaktiverat delning.",
+  "TargetSharingDisabled": "Kan inte dela ritningar med <color=#ffff00>{0}</color> - de har inaktiverat delning.",
   "BlueprintsRemoved": "Du har förlorat åtkomst till <color=#ffff00>{0}</color> ritning(ar).",
   "ShowMissingArgument": "Du måste ange vilka delade ritningar du vill se. Alternativ: <color=#ffff00>team</color>, <color=#ffff00>clan</color> eller <color=#ffff00>friend</color>.",
   "ShowFriendArgumentMissing": "Du måste ange en väns namn.",

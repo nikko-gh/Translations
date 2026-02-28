@@ -15,7 +15,7 @@
   "PlayerSharedBlueprint": "Megtanultad a <color=#ffff00>{0}</color> blueprintet és megosztottad <color=#ffff00>{1}</color> játékossal.",
   "TargetLearntBlueprint": "<color=#ffff00>{0}</color> megosztotta veled a <color=#ffff00>{1}</color> blueprintet.",
   "BlueprintBlocked": "A <color=#ffff00>{0}</color> blueprint megosztása le van tiltva, de mégis megtanultad.",
-  "TargetSharingDisabled": "Nem lehet megosztani blueprintet <color=#ffff00>{0}</color>-val – letiltották a megosztást.",
+  "TargetSharingDisabled": "Nem lehet megosztani blueprintet <color=#ffff00>{0}</color>-val - letiltották a megosztást.",
   "BlueprintsRemoved": "Elvesztetted a <color=#ffff00>{0}</color> blueprint(ek) hozzáférését.",
   "ShowMissingArgument": "Meg kell adnod, melyik megosztott blueprintet szeretnéd látni. Lehetőségek: <color=#ffff00>team</color>, <color=#ffff00>clan</color>, vagy <color=#ffff00>friend</color>.",
   "ShowFriendArgumentMissing": "Meg kell adnod egy barát nevét.",

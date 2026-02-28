@@ -15,7 +15,7 @@
   "PlayerSharedBlueprint": "<color=#ffff00>{0}</color> blueprintini öğrendiniz ve <color=#ffff00>{1}</color> oyuncu(ları) ile paylaştınız.",
   "TargetLearntBlueprint": "<color=#ffff00>{0}</color> sizinle <color=#ffff00>{1}</color> blueprintini paylaştı.",
   "BlueprintBlocked": "<color=#ffff00>{0}</color> blueprint paylaşımı engellendi, ancak yine de öğrendiniz.",
-  "TargetSharingDisabled": "<color=#ffff00>{0}</color> ile blueprint paylaşılamıyor –çünkü paylaşımını kapattı.",
+  "TargetSharingDisabled": "<color=#ffff00>{0}</color> ile blueprint paylaşılamıyor -çünkü paylaşımını kapattı.",
   "BlueprintsRemoved": "<color=#ffff00>{0}</color> blueprint(ler)ine erişiminizi kaybettiniz.",
   "ShowMissingArgument": "Hangi blueprintlerin paylaşıldığını görüntülemek istediğinizi belirtmelisiniz. Seçenekler: <color=#ffff00>takım</color>, <color=#ffff00>klan</color> veya <color=#ffff00>arkadaş</color>.",
   "ShowFriendArgumentMissing": "Bir arkadaşınızın ismini belirtmelisiniz.",

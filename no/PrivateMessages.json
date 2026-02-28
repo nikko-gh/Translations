@@ -17,7 +17,7 @@
   "CommandDisabled": "Denne kommandoen er deaktivert",
   "IsMuted": "Du er for øyeblikket dempet og kan ikke sende private meldinger",
   "TargetMuted": "Denne personen er dempet og kan ikke motta din private melding",
-  "NoPermission": "Du har ikke riktige tillatelser til å kjøre denne kommandoen",
+  "NoPermission": "Du har ikke tillatelse til å kjøre denne kommandoen",
   "HistoryPM": "[#00FFFF]{0}[/#]: {1}",
   "Logging": "[PM]{0}->{1}:{2}"
 }
